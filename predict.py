@@ -65,17 +65,24 @@ def is_gram_stain_image(image_path: str) -> tuple:
     """
     Checks if image looks like a real Gram stain microscope image.
 
-    Real Gram stain characteristics:
-    - Bright/white background
-    - Pink or purple dominant colors (green channel suppressed)
-    - Significant color variation (not blank or single color)
+    Strategy:
+    Instead of checking exact color values (which vary a lot between
+    different microscopes and staining batches), we focus on what ALL
+    wrong images have in common:
+    - Too dark  (photos taken in low light)
+    - No color variation (blank images, solid colors)
+    - Green dominant (natural/outdoor photos, green backgrounds)
+    - Human skin tone (selfies) → R >> G >> B balanced warm tone
+
+    We intentionally keep checks LOOSE to avoid rejecting valid
+    gram stain images that have slightly different backgrounds.
 
     Args:
         image_path : path to image file
 
     Returns:
-        (True, "ok")              → valid gram stain image
-        (False, reason: str)      → not a valid gram stain image
+        (True, "ok")         → valid gram stain image
+        (False, reason: str) → not a valid gram stain image
     """
     img    = Image.open(image_path).convert("RGB")
     np_img = np.array(img).astype(float)
@@ -84,26 +91,46 @@ def is_gram_stain_image(image_path: str) -> tuple:
     mean_g = np_img[:, :, 1].mean()
     mean_b = np_img[:, :, 2].mean()
 
-    # ── Check 1 — Image must not be too dark ──
-    # Gram stain images always have a bright white/light background
+    # ── Check 1 — Not too dark ──
+    # Gram stain images always have a bright white/cream background
+    # Threshold kept low (50) to handle dim microscope photos
     overall_brightness = np_img.mean()
-    if overall_brightness < 80:
+    if overall_brightness < 50:
         return False, "Image is too dark to be a Gram stain"
 
-    # ── Check 2 — Image must have color variation ──
-    # A blank or nearly blank image has very low std
+    # ── Check 2 — Has color variation ──
+    # A blank, solid color, or near-blank image fails this
+    # Threshold kept low (8) to handle pale/lightly stained images
     color_std = np_img.std()
-    if color_std < 15:
+    if color_std < 8:
         return False, "Image has no color variation — not a valid stain image"
 
-    # ── Check 3 — Gram stain color profile ──
-    # Real Gram stains always suppress the green channel
-    # Pink  → R high, G low, B medium
-    # Purple → R medium, G low, B high
-    # Human face / natural image → R, G, B more balanced
-    green_suppression = (mean_r + mean_b) / 2 - mean_g
-    if green_suppression < 15:
-        return False, "Image does not match Gram stain color profile"
+    # ── Check 3 — Reject clearly green dominant images ──
+    # Natural/outdoor photos have green as the highest channel
+    # Gram stains NEVER have green as dominant channel
+    if mean_g > mean_r and mean_g > mean_b:
+        return False, "Image appears to be a natural or outdoor photo"
+
+    # ── Check 4 — Reject human skin tone ──
+    # Skin tone: R is clearly highest, G is second, B is lowest
+    # AND the difference between R and B is large (warm tone)
+    # AND green is higher than blue (typical skin)
+    skin_tone = (
+        mean_r > mean_g > mean_b and   # R > G > B ordering
+        (mean_r - mean_b) > 40 and     # large warm gap
+        mean_g > 100                    # not dark skin (already caught by check 1)
+    )
+    if skin_tone:
+        return False, "Image appears to be a photo of a person"
+
+    # ── Check 5 — Reject very uniform images (solid backgrounds) ──
+    # Checks each channel separately for variation
+    r_std = np_img[:, :, 0].std()
+    g_std = np_img[:, :, 1].std()
+    b_std = np_img[:, :, 2].std()
+
+    if r_std < 5 and g_std < 5 and b_std < 5:
+        return False, "Image appears to be blank or a solid color"
 
     return True, "ok"
 
@@ -184,9 +211,9 @@ def predict_gram(image_path: str, model, class_names: list, threshold: float = 0
 
     # ── Step 6 — Reliability Check ──
     # If margin between classes < 30% model is uncertain
-    prob_values = list(all_probs.values())
-    margin      = abs(prob_values[0] - prob_values[1])
-    is_reliable = margin >= 30.0
+    prob_values  = list(all_probs.values())
+    margin       = abs(prob_values[0] - prob_values[1])
+    is_reliable  = margin >= 30.0
 
     # ── Step 7 — Build Warning Message ──
     is_confident = confidence >= threshold and is_reliable
@@ -277,7 +304,7 @@ async def predict(file: UploadFile = File(...)):
 #     "confidence":   0.0,
 #     "all_probs":    {},
 #     "is_confident": false,
-#     "warning":      "Image does not appear to be a Gram stain: Image does not match Gram stain color profile"
+#     "warning":      "Image does not appear to be a Gram stain: Image appears to be a photo of a person"
 # }
 
 # Unsupported format:
