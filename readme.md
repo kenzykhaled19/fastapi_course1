@@ -1,3 +1,11 @@
+---
+title: Gram Api
+emoji: 🔬
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
 # 🔬 Gram Stain Classifier — API Documentation
 
 ## Overview
