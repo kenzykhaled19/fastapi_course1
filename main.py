@@ -1,12 +1,11 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from predict import load_model, predict
+from predict import load_model, predict as predict_image
 import shutil
 import os
 import uuid
 import tempfile
-
 #loading the model
 ml_models = {}
 
@@ -78,11 +77,8 @@ async def predict(file: UploadFile = File(...)):
         with open(temp_path, "wb") as f:
             shutil.copyfileobj(file.file, f)
 
-        result = predict(
-            temp_path,
-            ml_models["model"],
-            ml_models["class_names"]
-        )
+        result = predict_image(temp_path)
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Prediction failed: {str(e)}")
     finally:
