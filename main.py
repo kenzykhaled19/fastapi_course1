@@ -13,7 +13,8 @@ ml_models = {}
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     model_path = os.getenv("MODEL_PATH", "resnet50_FINAL.pth")
-    ml_models["model"], ml_models["class_names"] = load_model(model_path)
+    ml_models["model"] = load_model(model_path)
+    ml_models["class_names"] = ['gram_negative', 'gram_positive', 'not_gram_stain']
     print(f"Model loaded from: {model_path}")
     yield
     
