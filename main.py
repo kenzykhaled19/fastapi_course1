@@ -1,7 +1,7 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from predict import load_model, predict_gram
+from predict import load_model, predict
 import shutil
 import os
 import uuid
@@ -77,7 +77,7 @@ async def predict(file: UploadFile = File(...)):
         with open(temp_path, "wb") as f:
             shutil.copyfileobj(file.file, f)
 
-        result = predict_gram(
+        result = predict(
             temp_path,
             ml_models["model"],
             ml_models["class_names"]
