@@ -77,7 +77,7 @@ async def predict(file: UploadFile = File(...)):
         with open(temp_path, "wb") as f:
             shutil.copyfileobj(file.file, f)
 
-        result = predict_image(temp_path)
+        result = predict_image(temp_path, ml_models["model"])
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Prediction failed: {str(e)}")
