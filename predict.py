@@ -33,11 +33,33 @@ def predict(image_path, model, threshold=0.60):
     all_probs  = {CLASS_NAMES[i]: round(probs[i].item() * 100, 2)
                   for i in range(3)}
 
+    # Case 1 — too uncertain to trust at all
+    if conf < threshold:
+        return {
+            'prediction':  'uncertain',
+            'confidence':  round(conf * 100, 2),
+            'all_probs':   all_probs,
+            'status':      'rejected',
+            'message':     'Image does not appear to be a valid gram-stained slide. Please upload a clearer microscope image.'
+        }
+
+    # Case 2 — confident enough but below 90% — warn user
+    if conf < 0.90:
+        return {
+            'prediction':  prediction,
+            'confidence':  round(conf * 100, 2),
+            'all_probs':   all_probs,
+            'status':      'low_confidence',
+            'message':     f'Prediction is {prediction} but please perform confirmatory biochemical tests to verify this result.'
+        }
+
+    # Case 3 — high confidence result
     return {
-        'prediction':    prediction,
-        'confidence':    round(conf * 100, 2),
-        'all_probs':     all_probs,
-        'is_confident':  conf >= threshold,
-        'warning':       'Please perform confirmatory biochemical tests.'
-                         if threshold <= conf < 0.90 else None
+        'prediction':  prediction,
+        'confidence':  round(conf * 100, 2),
+        'all_probs':   all_probs,
+        'status':      'high_confidence',
+        'message':     f'Proceed with {prediction} diagnostic pathway.'
+                       if prediction != 'not_gram_stain'
+                       else 'Image does not appear to be a gram-stained slide.'
     }
