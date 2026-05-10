@@ -30,4 +30,4 @@ def _send_email_sync(to_email: str, otp: str, name: str):
 
 async def send_otp_email(to_email: str, otp: str, name: str):
     loop = asyncio.get_event_loop()
-    await loop.run_in_executor(None, _send_email_sync, to_email, otp, name)س
+    await loop.run_in_executor(None, _send_email_sync, to_email, otp, name)
