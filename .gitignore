@@ -3,3 +3,4 @@ __pycache__/
 tempCodeRunnerFile.py
 .env
 users.db
+email_service.py
