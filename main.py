@@ -137,7 +137,7 @@ async def refresh_token_endpoint(token: str, db: Session = Depends(get_db)):
         "access_token": new_access_token,
         "refresh_token": new_refresh_token,
         "token_type": "bearer",
-        "name": user.username
+        "username": user.username
     }
 
 # Forgot Password - Step 1: Request OTP
