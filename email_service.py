@@ -1,33 +1,20 @@
-import asyncio
-import smtplib
+import resend
 import random
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 
-EMAIL = "kenzykhaled660@gmail.com"
-PASSWORD = "gtwr avcu lijh dtzt"
+resend.api_key = "re_ebFrvGgb_CR2G4NmSqkBG3cBXLssprMrY"  
 
 def generate_otp() -> str:
     return str(random.randint(100000, 999999))
 
-def _send_email_sync(to_email: str, otp: str, name: str):
-    msg = MIMEMultipart()
-    msg['From'] = EMAIL
-    msg['To'] = to_email
-    msg['Subject'] = "Password Reset OTP"
-    body = f"""
-    Hello {name},
-    Your OTP for password reset is: {otp}
-    This OTP is valid for 10 minutes.
-    If you did not request this, please ignore this email.
-    """
-    msg.attach(MIMEText(body, 'plain'))
-    with smtplib.SMTP('smtp.gmail.com', 587) as server:
-        server.ehlo()
-        server.starttls()
-        server.login(EMAIL, PASSWORD)
-        server.sendmail(EMAIL, to_email, msg.as_string())
-
-async def send_otp_email(to_email: str, otp: str, name: str):
-    loop = asyncio.get_event_loop()
-    await loop.run_in_executor(None, _send_email_sync, to_email, otp, name)
+def send_otp_email(to_email: str, otp: str, name: str):
+    resend.Emails.send({
+        "from": "onboarding@resend.dev",
+        "to": to_email,
+        "subject": "Password Reset OTP",
+        "html": f"""
+        <p>Hello {name},</p>
+        <p>Your OTP for password reset is: <strong>{otp}</strong></p>
+        <p>This OTP is valid for 10 minutes.</p>
+        <p>If you did not request this, please ignore this email.</p>
+        """
+    })

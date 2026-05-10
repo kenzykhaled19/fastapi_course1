@@ -153,7 +153,7 @@ async def forgot_password(email: str, db: Session = Depends(get_db)):
         "expires_at": time.time() + 600  
     }
     
-    await send_otp_email(email, otp, user.username)
+    send_otp_email(email, otp, user.username)
     return {"message": "OTP sent to your email"}
 # Verify OTP
 @app.post("/verify-otp", tags=["Auth"])
