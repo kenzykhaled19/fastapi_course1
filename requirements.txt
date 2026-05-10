@@ -7,3 +7,12 @@ torchvision==0.16.0+cpu
 timm>=0.9.0
 Pillow>=10.0.0
 numpy==1.26.4
+sqlalchemy==2.0.49
+psycopg2-binary==2.9.12
+python-dotenv==1.2.2
+python-jose==3.5.0
+passlib==1.7.4
+bcrypt==5.0.0
+email-validator==2.3.0
+python-multipart==0.0.9
+alembic==1.18.4
