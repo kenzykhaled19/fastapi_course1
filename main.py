@@ -89,7 +89,7 @@ async def login(request: LoginRequest, db: Session = Depends(get_db)):
     "access_token": access_token,
     "refresh_token": refresh_token,
     "token_type": "bearer",
-    "name": user.username
+    "username": user.username
 }
 
 @app.post("/predict-gram", tags=["Prediction"])
@@ -136,7 +136,7 @@ async def refresh_token_endpoint(token: str, db: Session = Depends(get_db)):
         "access_token": new_access_token,
         "refresh_token": new_refresh_token,
         "token_type": "bearer",
-        "name": user.name
+        "name": user.username
     }
 
 # Forgot Password - Step 1: Request OTP
@@ -149,10 +149,10 @@ async def forgot_password(email: str, db: Session = Depends(get_db)):
     otp = generate_otp()
     otp_store[email] = {
         "otp": otp,
-        "expires_at": time.time() + 600  # 10 دقايق
+        "expires_at": time.time() + 600  
     }
     
-    send_otp_email(email, otp, user.name)
+    send_otp_email(email, otp, user.username)
     return {"message": "OTP sent to your email"}
 
 
