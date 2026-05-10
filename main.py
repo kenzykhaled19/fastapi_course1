@@ -75,7 +75,7 @@ async def register(user: UserCreate, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Username already exists")
     if get_user_by_email(db, user.email):
         raise HTTPException(status_code=400, detail="Email already exists")
-    return create_user(db, user.name, user.username, user.email, user.password)
+    return create_user(db, user.username, user.email, user.password)
 
 # Login
 @app.post("/login", response_model=Token, tags=["Auth"])
@@ -86,11 +86,11 @@ async def login(request: LoginRequest, db: Session = Depends(get_db)):
     access_token = create_access_token({"sub": user.username})
     refresh_token = create_refresh_token({"sub": user.username})
     return {
-        "access_token": access_token,
-        "refresh_token": refresh_token,
-        "token_type": "bearer",
-        "name": user.name
-    }
+    "access_token": access_token,
+    "refresh_token": refresh_token,
+    "token_type": "bearer",
+    "name": user.username
+}
 
 @app.post("/predict-gram", tags=["Prediction"])
 async def predict(file: UploadFile = File(...), current_user: str = Depends(verify_token)):

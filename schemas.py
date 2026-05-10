@@ -1,9 +1,7 @@
-from pydantic import BaseModel, EmailStr
 from pydantic import BaseModel, EmailStr, field_validator
 import re
 
 class UserCreate(BaseModel):
-    name: str
     username: str
     email: EmailStr
     password: str
@@ -23,7 +21,6 @@ class UserCreate(BaseModel):
         return v
 class UserResponse(BaseModel):
     id: int
-    name: str
     username: str
     email: str
     is_active: bool
@@ -35,7 +32,7 @@ class Token(BaseModel):
     access_token: str
     refresh_token: str
     token_type: str
-    name: str
+    username: str
 
 class LoginRequest(BaseModel):
     email: EmailStr

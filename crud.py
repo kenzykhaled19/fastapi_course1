@@ -8,15 +8,14 @@ def get_user_by_username(db: Session, username: str):
 def get_user_by_email(db: Session, email: str):
     return db.query(User).filter(User.email == email).first()
 
-def create_user(db: Session, name: str, username: str, email: str, password: str):
+def create_user(db: Session, username: str, email: str, password: str):
     hashed = hash_password(password)
-    user = User(
-        name=name,
+    db_user = User(
         username=username,
         email=email,
         hashed_password=hashed
     )
-    db.add(user)
+    db.add(db_user)
     db.commit()
-    db.refresh(user)
-    return user
+    db.refresh(db_user)
+    return db_user
