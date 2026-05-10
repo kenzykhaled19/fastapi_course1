@@ -22,8 +22,12 @@ def _send_email_sync(to_email: str, otp: str, name: str):
     If you did not request this, please ignore this email.
     """
     msg.attach(MIMEText(body, 'plain'))
-    with smtplib.SMTP('smtp.gmail.com', 587) as server:  
+    with smtplib.SMTP('smtp.gmail.com', 587) as server:
         server.ehlo()
         server.starttls()
         server.login(EMAIL, PASSWORD)
         server.sendmail(EMAIL, to_email, msg.as_string())
+
+async def send_otp_email(to_email: str, otp: str, name: str):
+    loop = asyncio.get_event_loop()
+    await loop.run_in_executor(None, _send_email_sync, to_email, otp, name)س
