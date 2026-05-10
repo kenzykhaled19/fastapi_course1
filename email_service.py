@@ -3,7 +3,7 @@ import requests
 
 BREVO_API_KEY = "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"  
 FROM_EMAIL = "kenzykhaled660@gmail.com"
-FROM_NAME = "Gram Stain App"
+FROM_NAME = "Hydroscope"
 
 def generate_otp() -> str:
     return str(random.randint(100000, 999999))
