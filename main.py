@@ -1,5 +1,5 @@
 from database import engine, get_db
-from email_service import generate_otp, send_otp_email
+from email_service import _send_email_sync, generate_otp, send_otp_email
 from models import Base, User
 from schemas import UserCreate, UserResponse, Token, LoginRequest
 from crud import get_user_by_username, get_user_by_email, create_user
@@ -15,6 +15,7 @@ import os
 import uuid
 import tempfile
 import time
+from fastapi import BackgroundTasks
 
 otp_store = {}
 #loading the model
@@ -141,7 +142,7 @@ async def refresh_token_endpoint(token: str, db: Session = Depends(get_db)):
 
 # Forgot Password - Step 1: Request OTP
 @app.post("/forgot-password", tags=["Auth"])
-async def forgot_password(email: str, db: Session = Depends(get_db)):
+async def forgot_password(email: str, background_tasks: BackgroundTasks, db: Session = Depends(get_db)):
     user = get_user_by_email(db, email)
     if not user:
         raise HTTPException(status_code=404, detail="Email not found")
@@ -152,7 +153,7 @@ async def forgot_password(email: str, db: Session = Depends(get_db)):
         "expires_at": time.time() + 600  
     }
     
-    await send_otp_email(email, otp, user.username)
+    background_tasks.add_task(_send_email_sync, email, otp, user.username)
     return {"message": "OTP sent to your email"}
 
 
