@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 EMAIL = "kenzykhaled660@gmail.com"
-PASSWORD = "pinr twxt zimh hmdp"
+PASSWORD = "gtwr avcu lijh dtzt"
 
 def generate_otp() -> str:
     return str(random.randint(100000, 999999))
