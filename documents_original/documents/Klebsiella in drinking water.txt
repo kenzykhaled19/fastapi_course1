@@ -1,0 +1,91 @@
+Klebsiella in drinking water: relevant species, risks & protective measures
+Species such as Klebsiella pneumoniae are common environmental bacteria. For healthy people, they generally do not pose a risk. However, for people with weakened immune systems – for example, in intensive care units or during cancer therapy – they can cause serious infections, known as nosocomial infections. These include pneumonia, urinary tract infections, or sepsis.
+
+Klebsiella oxytoca is detected less frequently but can also cause nosocomial infections.
+
+Klebsiella can also be transmitted through drinking water – especially when Klebsiella settle and multiply in biofilm inside water systems.
+
+Learn how to secure your drinking water hygiene effectively – and what to do if Klebsiella are detected.
+
+What are Klebsiella?
+Klebsiella are rod-shaped bacteria with a robust cell wall (gram-negative). They do not form spores and are immobile, but are often surrounded by a protective slime capsule (CPS – capsular polysaccharides).
+
+Klebsiella spp. are facultative anaerobes, meaning they can grow both with and without oxygen.
+
+In the environment, Klebsiella are found in water, soil, or on plants. They are also present in the human gut and upper respiratory tract in up to 30% of healthy people – usually without causing any symptoms.
+
+Clinically relevant species: Klebsiella pneumoniae and Klebsiella oxytoca
+Klebsiella pneumoniae is the most medically significant species of this genus and can cause serious infections, including:
+
+Pneumonia (especially Friedländer’s pneumonia)
+Urinary tract infections
+Sepsis – a severe, life-threatening inflammatory response of the body to an infection
+Less commonly: wound infections, meningitis, endocarditis, or enteritis
+According to the World Health Organization (WHO), Klebsiella pneumoniae is among the leading causes of hospital-acquired infections worldwide, including bacterial sepsis and pneumonia in healthcare settings.
+
+Klebsiella oxytoca is detected less frequently than K. pneumoniae but can also cause nosocomial infections. These bacteria can lead to urinary tract infections, wound infections, and, in rare cases, sepsis.
+
+How does Klebsiella enter drinking water?
+Klebsiella typically enters drinking water systems from the environment, for example during construction or renovation work, or through improperly connected fittings or contamination from soil.
+
+Backflow from the wastewater system is also possible, for example through illegal cross-connections between drinking water and wastewater systems.
+
+Once the bacteria have entered the pipe system, they can settle and multiply in biofilm.
+
+Areas with rarely used pipes, dead legs, or incorrectly sized pipes are particularly affected – stagnation and lukewarm temperatures in these areas encourage bacterial growth.
+
+Typical risk factors for contamination of drinking water systems with Klebsiella include:
+
+Sections of pipe that are not flushed thoroughly
+Incorrectly installed or rarely used fittings
+Unprotected connections to the wastewater system
+Contaminated or poorly maintained water filters and devices
+How Is Klebsiella transmitted to humans?
+Transmission to humans usually occurs via aerosols – for example, when showering or through aerosol formation at taps, especially in sensitive medical areas.
+
+Medical devices that are rinsed or cooled with water – such as endoscopes – can also become sources of contamination if they are not prepared with hygienically safe water.
+
+How dangerous Is Klebsiella in drinking water?
+For healthy people, infection with Klebsiella through drinking water is rare and usually harmless.
+
+The situation is different for people with weakened immune systems. Those at particular risk include:
+
+Infants, premature and newborn babies
+Elderly people
+People with chronic illnesses
+Patients in intensive care units
+People with open wounds or undergoing invasive procedures
+In these groups, an infection with Klebsiella pneumoniae or K. oxytoca can lead to serious illness – including pneumonia, sepsis, or urinary tract infections.
+
+Detection and assessment: what to do if Klebsiella Is suspected?
+A microbiological analysis of drinking water provides information about the presence of Klebsiella spp. in the pipe system.
+
+Sampling must be carried out by qualified personnel at representative sampling points that reflect the condition of the entire drinking water installation, in line with the requirements of the UK’s Water Supply (Water Quality) Regulations 2016 and relevant guidance from the Drinking Water Inspectorate (DWI).
+
+The detection of Klebsiella spp. in drinking water is considered an indicator of hygiene deficiencies. In sensitive areas, Klebsiella can be classified as a pathogen and therefore requires prompt action.
+
+Appropriate measures include:
+
+Thermal or chemical disinfection of the affected installation areas
+Targeted flushing of contaminated pipe sections
+Replacement of microbiologically contaminated fittings or materials
+Short-term and temporary protection using certified point-of-use sterile filters, in line with NHS recommendations for healthcare premises (see: NHS HTM 04-01)
+Important: In medical facilities, operators are required to take immediate action to control hazards and inform the relevant authority if microbiological contamination is detected. This obligation is set out in the Water Supply (Water Quality) Regulations 2016 and in NHS guidance HTM 04-01: Safe water in healthcare premises. Healthcare providers must promptly implement appropriate control measures and notify the local authority or the Drinking Water Inspectorate (DWI), as appropriate.
+
+Multidrug-resistant Klebsiella strains: a growing challenge
+Some strains of Klebsiella – especially Klebsiella pneumoniae – produce so-called ESBLs (extended-spectrum beta-lactamases). These enzymes render important groups of antibiotics, such as penicillins and cephalosporins, ineffective.
+
+A particularly critical resistance mechanism is the production of KPC (Klebsiella pneumoniae carbapenemase). These enzymes break down carbapenems – so-called reserve antibiotics, which are often considered the last therapeutic option. Infections with KPC-producing Klebsiella strains are therefore difficult to treat and pose a significant risk, especially in healthcare settings.
+
+Multidrug-resistant bacteria are a serious challenge in general. Consistent prevention is therefore essential!
+
+Preventing Klebsiella in drinking water
+
+The risk of contamination with Klebsiella can be significantly reduced by preventive measures.
+
+The key factors are:
+
+Avoiding stagnation in the pipe system
+Strict compliance with hygiene standards
+Targeted use of protective systems
+Regular microbiological testing, as well as professional planning and maintenance of the drinking water installation, help to reliably prevent biofilm formation and the spread of bacteria.

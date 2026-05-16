@@ -1,0 +1,46 @@
+About Pseudomonas aeruginosa
+June 12, 2025
+For Everyone
+Key points
+Pseudomonas aeruginosa (P. aeruginosa) infections typically occur in healthcare settings.
+Good hand hygiene and infection prevention and control can help reduce the risk of infection.
+P. aeruginosa can be resistant to antibiotics, making these infections difficult to treat.
+Overview
+Pseudomonas is a group of bacteria commonly found in the environment, like in soil and water. The most common type causing infections among humans is Pseudomonas aeruginosa.
+
+P. aeruginosa can cause infections in the blood, lungs (pneumonia), urinary tract, or other parts of the body after surgery.
+
+Antimicrobial resistance
+Some types are resistant to nearly all antibiotics, including carbapenems, known as multidrug-resistant (MDR) P. aeruginosa. In 2017, MDR P. aeruginosa caused an estimated 32,600 infections among hospitalized patients and 2,700 estimated deaths in the United States.1
+
+At-risk populations
+Patients in healthcare settings are at highest risk, especially those who:
+
+Are on breathing machines (ventilators).
+Have devices such as catheters.
+Have open wounds from surgery or burns.
+How it spreads
+Contact with contaminated surfaces or equipment.
+Exposure in the soil or water.
+Person-to-person contact, like from contaminated hands.
+Reducing risk
+Patients and caregivers
+Keep their hands clean, particularly before and after caring for wounds or touching a medical device.
+Remind people (including healthcare providers) to clean their hands before touching the patient or handling medical devices.
+Allow healthcare staff to clean their room daily when in a healthcare setting.
+Healthcare settings
+Always follow core infection control practices to reduce the risk of spreading these germs to patients.
+Have water management plans in place.
+Testing
+To determine if someone has a P. aeruginosa infection, healthcare providers will send a specimen to the laboratory for antimicrobial susceptibility testing. CDC provides data that can be used for setting breakpoints for interpretation of antimicrobial susceptibility testing.
+
+Public Health
+Reference Antimicrobial Susceptibility Testing (AST) Data
+Treatment and recovery
+Treatment generally includes antibiotics. Unfortunately, treatment options are limited for MDR P. aeruginosa.
+
+What CDC is doing
+Providing testing to identify antimicrobial resistance cases, measure resistance and track transmission in a healthcare setting through the Antimicrobial Resistance Laboratory Network.
+Tracking P. aeruginosa infections through the National Healthcare Safety Network.
+Data is also available on the AR & Patient Safety Portal.
+Working closely with health departments, other federal agencies, healthcare providers and patients to prevent infections caused by P. aeruginosa and slow the spread of resistant germs.

@@ -1,0 +1,112 @@
+Pseudomonas INFECTIONS
+
+    The organisms in the genus Pseudomonas are mostly free-living bacteria widely distributed in soil and water. For the most part they are found wherever organic matter is decomposing. These are gram- bacteria which morphologically resemble enteric bacilli and vibrios. However, biochemically they are quite different in their metabolism and composition of cytoplasmic membrane. They are strict aerobes. Motile by peritrichous flagella.
+
+    Although there are over 200 species of Pseudomonas only three are known to be pathogenic for man:
+
+        P. aeruginosa - sputum of patients with cystic fibrosis, burns, urinary tract infections.
+        Especially prevalent in nosocomial infections, external ear infections.
+
+        P. mallei - causes glanders (transmitted from horse to man), nodular, necrotic involvement of
+        mucous membranes of nasal area (lymphatics, lymph nodes and skin).
+
+        P. pseudomallei - causes melioidosis, a glanders-like disease with clinical manifestations
+        ranging from pulmonary infection to septicemia.
+
+        P. aeruginosa is a resident of the intestinal tract in about 10% of healthy individuals, and it is
+        found sporadically in moist areas of the human skin (axilla, groin) and in the saliva. Its
+        nutritional requirements are simple and it can metabolize a large variety of carbon sources. P.
+        aeruginosa can thus multiply in almost any moist environment containing even trace amounts
+        of organic compounds, e.g., eyedrops, weak antiseptic solution, soaps, anesthesia and
+        resuscitation equipment, sinks, fuels, humidifiers and even stored distilled water. It has also
+        been reported in kidney dialysis machines.
+
+PATHOGENICITY:
+
+    When this organism is present in the body in small numbers, as is normal, the synthesis and release of toxins is insignificant. When it becomes the dominant organism in or on some part of the body, the amount of toxin produced causes distinct pathologic change. Some of these toxins are:
+
+    1.     Pyocyanin - water soluble bluish-green pigment, which interferes with the terminal electron
+            transfer system by complexing with flavoproteins.
+
+    2.     Lecithinase - an enzyme which degrades lecithin, a phospholipid. Lecithin occurs in cell
+            membranes of various body cell types, including RBC's. The result of lecithinase action is
+            cell lysis. In addition the enzyme catalyzes the hydrolysis of cephalin and sphingomyelin,
+            phospholipids of the brain and myelin sheath.
+
+    3.     Collagenase - an enzyme which degrades collagen, a scleroprotein in connective tissue of
+            the body (especially in tendons, hair, nails). Collagen is a fibrous protein which is insoluble in
+            water and resistant to enzyme attack because of its three-dimensional configuration.
+
+    4.     Lipase - an enzyme which splits fatty acids from lipids leaving glycerol.
+
+    5.     Hemolysin - lysis red blood cells.
+
+    6.     Fluorescein - a water soluble greenish-yellow pigment which fluoresces under UV light.
+
+    Macroscopic pathology includes anemia (due to RBC lysis), tissue necrosis and neural damage.
+
+DIAGNOSIS:
+
+    The major clinical features used in diagnosis are:
+
+    1.     Pus formation - this is one of the pyogenic bacteria
+
+    2.     Pyocyanin formation - the pus is bluish-green due to coloration with pyocyanin. About 10%
+            of P. aeruginosa strains will not produce pyocyanin. Pyocin typing is used in epidemiology.
+
+    3.     Fluorescein formation - the infected area is viewed in the dark with a Wood's UV light for
+            fluorescence.
+
+    Typing is accomplished by:
+
+    1.     Serological typing - 13 antigenic groups known. This is important because attempts are
+            being made to employ immunotherapy.
+
+    2.     Pyocin typing - similar to colicin typing.
+
+    3.     Phage typing
+
+TREATMENT:
+
+    1.     Debride the wound, wash the burned area with warm water. Do not create anaerobic
+            conditions by the application of heavy salves which block oxygen absorption. This will allow
+            Clostridium infections.
+
+    2.     Immunotherapy - an experimental vaccine against Pseudomonas has been developed. It is
+            effective in stimulating circulating antibody but not cell bound antibody. Both active and
+            passive immunization is practiced. There are two problems associated with this type of
+            therapy, the vaccine is not equally effective against all 13 serological strains of P.
+            aeruginosa and the suppression of Pseudomonas infections predisposes the patient to E.
+            coli infection.
+
+    3.     Chemotherapy - this is one of the most difficult organisms to treat with antibiotics. It is
+            resistant to most of the commonly used compounds due to a unique cell membrane which
+            severely limits the uptake of antibiotics.
+
+    The most effective antibiotics are:
+
+            a.     Carbenicillin - this is a semi-synthetic penicillin
+
+            b.     Gentamicin - an aminoglycoside antibiotic consisting of three closely related
+                    compounds. It is similar in action to streptomycin, affecting the 30S portion of the
+                    ribosome and causing misreading of mRNA. Resistance of organisms to this
+                    compound is rare but does occur via the synthesis of gentamicin adenylate synthetase.
+                    Compound is toxic.
+
+            c.     Silver sulfadiazine (silvadene) - a water soluble cream that is painless on topical
+                    application. It does not produce hyperchloremic acidosis and is less readily
+                    metabolized than mafenide. It has two modes of action, blockage of folic acid
+                    biosynthesis and silver denaturation of various proteins.
+
+            d.     Mafenide acetate (sulfamylon) - administered topically as a 5-10% cream. It is rapidly
+                    absorbed and metabolized by the human body where it inhibits carbonic anhydrase
+                    giving an alkaline urine. It may produce a hyperchloremic acidosis in patients with
+                    reduced pulmonary function.
+
+            e.     Ciprofloxacin (a quinolone) - this is the most potent of the quinolones. It acts by
+                    blocking DNA gyrase.
+
+            f.     Tobramycin (an amino glycoside)-like many of the amino glycosides this compound is
+                    toxic to the 8th cranial nerve and the kidney and is seldom used systematically.
+                    However, a new aerosolized version of the antibiotic (trade name TOBI)
+                    isrecommended for treatment of cystic fibrosis patients with chronic lung infections.

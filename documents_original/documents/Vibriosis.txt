@@ -1,0 +1,451 @@
+Vibriosis: 
+What You and Your Patients Need To Know 
+Andrew Bell1 and Michael Bott2 
+1. Shellfish Standardization Officer, Shellfish & Recreational Water Program, Delaware 
+Department of Natural Resources and Environmental Control 
+2. Program Lead, Shellfish & Recreational Water Program, Delaware Department of 
+Natural Resources and Environmental Control  
+The rapid progression, limited treatment options, and high fatality rate of vibriosis in high-risk 
+individuals, coupled with the apparent increasing incidence of vibriosis, underscore the need for 
+prevention by patients as well as quick diagnosis and treatment by healthcare providers. Yet, 
+vibriosis is an under-recognized and under-reported illness,1 and awareness of the potential for 
+infection is low among high-risk patients.2 Prompt diagnosis and treatment of vibriosis in high
+risk patients is necessary to prevent death, and educating high-risk patients on how to avoid 
+infection will save lives.2 
+Vibriosis is the human illness caused by pathogenic strains of the Vibrio genus of bacteria 
+(excluding Vibrio cholerae strains O1 and O139, which cause the separate illness of cholera and 
+which are not the focus of this article). Vibrio bacteria are a natural part of the estuarine 
+ecosystem,2–7 with higher levels present in warm water of moderate salinity.2,5–10 There are two 
+common modes of infection: wound contact and seafood consumption, particularly consumption 
+of bivalve shellfish (oysters, clams, mussels, and scallops).1–3,6,7 
+While healthy individuals are unlikely to develop illness from the opportunistic Vibrio pathogen, 
+individuals with certain underlying health conditions or with weakened immune systems may 
+develop life-threatening illness. For this reason, high-risk individuals should never eat raw or 
+partially cooked seafood. Additionally, all individuals should prevent contact between an open 
+wound and salt or brackish water. Healthcare providers are the frontline of educating high-risk 
+individuals on these life-saving prevention measures. 
+There are over 80 species of Vibrio bacteria, over 20 of which can cause vibriosis.3 The species 
+which most frequently cause vibriosis in the US are Vibrio parahaemolyticus (Vp) and Vibrio 
+vulnificus (Vv, see Figure 1).3 Though Vp is more common, especially in Delaware and the 
+surrounding region, Vv is the most lethal of the Vibrios.5,9 In fact, Vv has the highest fatality rate 
+of any foodborne pathogen,6,7 and causes over 95% of seafood-related deaths in the US.7 About 1 
+in 5 people with serious Vv illnesses die, sometimes within only several days of illness onset, 
+and many others require intensive care or limb amputations.3 Overall, an estimated 80,000 cases 
+of vibriosis, with 500 hospitalizations and 100 deaths, occur each year in the United States.3 
+These statistics emphasize the critical need for patient education and prompt treatment by 
+healthcare providers. 
+Figure 1. A micrograph of a Vibrio vulnificus cell. Image credit: Janice Haney Carr/CDC via 
+Wikimedia Commons 
+DOI: 10.32481/djph.2021.001.005 
+An Environmental, Seasonal Pathogen 
+Vibrionaceae is a family of Gram-negative, rod- to curve-shaped, flagellated bacteria found 
+throughout the coastal waters of the United States and other temperate to tropical coastal areas 
+worldwide.9 Vibrio is not the result of pollution, but is instead a natural part of the microbiota of 
+estuarine waters.2–7 Vibrio is therefore naturally present in many types of raw seafood, including 
+finfish, crustaceans, and seaweed10; however, the bacteria is present in especially high numbers 
+in bivalve shellfish (oysters, clams, mussels, and scallops. This is because these animals 
+concentrate Vibrio from the surrounding water in their tissues as part of their filter-feeding 
+process.5,10,11 The target of filter-feeding bivalve shellfish is algae and other food particles, but 
+along with these particles, bivalve shellfish also filter out viruses and bacteria, including Vibrio. 
+A single oyster can filter up to 50 gallons of water per day, and as a result, the concentration of 
+Vibrio within oysters may be 100 times greater than that of the surrounding water.12,13 Adding to 
+the human health risk is that bivalve shellfish, especially oysters, are often consumed raw or 
+partially cooked, so any Vibrio present is not destroyed by cooking.12,13 
+Vibrio reproduces rapidly in waters that are warm5–9 and moderately salty2,8–10; it is therefore 
+most prevalent during warmer months in estuarine waters such as bays, where saltwater from 
+oceans mixes with freshwater from rivers. Thus, infections show a strong seasonal trend, with 
+nationwide cases rising in April before peaking in July and then decreasing in November.2 
+Though infections occur throughout the year, about 80% nationwide occur from May through 
+October.3 This seasonal trend is especially pronounced for foodborne Vibrio infections.14 
+Likewise, while infections occur throughout coastal areas in the United States, Vibrio, and in 
+particular Vibrio vulnificus, is most common in the Gulf of Mexico, where levels of the bacteria 
+DOI: 10.32481/djph.2021.001.005 
+can reach 1,000 cells/mL in seawater and 100,000 cells/gram in oyster meat during warm 
+months.8 
+While V. parahaemolyticus is the most common and V. vulnificus is the most lethal cause of 
+vibriosis, other marine-related species which may cause vibriosis include V. alginolyticus, V. 
+fluvialis, V. hollisae, V. metschinikovii, and V. cholerae2 (V. cholerae serogroups O1 and O139 
+cause the different illness of cholera, generally in developing countries where poor sanitation 
+allows sewage to contaminate drinking water).1,3,9 Among pathogenic species of Vibrio, not all 
+strains are capable of causing human illness2; conversely, pathogenic strains comprise a small 
+percentage of the total Vibrio species present in waters and seafood.9,10 Vibrios are highly 
+susceptible to cooking, and all strains can be killed by common disinfectants.9 
+An Uncommon But Serious & Rising Illness 
+In 2014 (the most recent year for which the Centers for Disease Control and Prevention (CDC) 
+has published a Cholera and Other Vibrio Illness Surveillance [COVIS] annual summary report), 
+over 1,200 Vibrio infections (excluding V. cholerae O1 and O139) were reported to COVIS.14 
+The species most frequently reported was V. parahaemolyticus at 48%, while V. vulnificus was 
+reported in 10% of patients.14 Of patients with Vp, 15% were hospitalized and 1% died, while of 
+patients with the more lethal Vv, 79% were hospitalized and 18% died.14 
+Recently, an increase in reported infections has been apparent,7 with the CDC estimating that the 
+average annual incidence of Vibrio infections increased 54 percent from 2006 to 2017.3 This 
+increased incidence is driven largely by an increase in wound infections7 and also likely by the 
+use of new detection methods by healthcare providers, in particular culture-independent 
+diagnostic testing (CIDT). In Delaware, while there has never been a reported Vibrio infection 
+related to bivalve shellfish consumption, reports of wound infections have reached a record high 
+in recent years, with 12 infections reported in 2016 and 2017 (see Figure 2).15 
+Figure 2. US Vibrio vulnificus cases by transmission type 
+DOI: 10.32481/djph.2021.001.005 
+The factors underlying this apparent trend are complex and numerous. First, improvements in the 
+identification and diagnosis of vibriosis have occurred over the past several decades, increasing 
+the national reported incidence.7 Specifically, state participation in COVIS gradually increased 
+since its establishment in the 1980s, until all Vibrio infections became nationally notifiable in 
+2007.7 More recently, the use of CIDT for Vibrio diagnosis has increased case reports 
+significantly. In this way, it is likely that the increase in vibriosis has been partly driven by better 
+surveillance in recent decades. However, other trends suggest that the incidence of Vibrio 
+infections may indeed be increasing naturally. 
+Namely, consumption of oysters is increasing in the United States,12 with raw bars becoming 
+trendy destinations in recent years. In Delaware, for example, the bivalve shellfish industry has 
+recently expanded, with new legislation establishing an oyster aquaculture industry passed in 
+2014. Couple the increase in oyster consumption with an increasingly susceptible population, as 
+the numbers of elderly and other individuals with risk factors predisposing them to more 
+progressive cases of vibriosis increase, and these trends may have been partly responsible for the 
+recent increase in vibriosis incidence.7 
+The High-Risk Group 
+While any exposed person can become infected with Vibrio and develop symptoms such as 
+gastroenteritis, in healthy individuals the illness is uncommon and typically mild and 
+temporary.2–5,10,11 This is particularly true for cases related to seafood consumption.2,10 However, 
+persons with underlying chronic medical conditions or a weakened immune system often 
+develop serious illness that may lead to septicemia and death.2,3,9–11 Thus, while all raw shellfish 
+consumers and all persons who work or recreate in saline waterbodies are theoretically at-risk for 
+Vibrio infection, a subpopulation of individuals has increased risk of serious illness.2,9,10 These 
+individuals must be educated on how to prevent infection, since even with medical treatment, 
+septicemia and death are common outcomes for them. 
+The percentage of the adult population in the US who are at risk for Vv-related septicemia is 
+estimated at 7% to 20%.6,10 Ninety-four percent of molluscan shellfish consumption cases occur 
+in people with pre-existing conditions, especially liver disease: in one case series of Vv 
+infections, 53% of cases had liver disease, 34% had alcohol use disorder, and 16% had diabetes.2 
+Elevated levels of iron in the blood, usually due to liver disease, is a particularly strong risk 
+factor for severe vibriosis,2,3,6,9,16 with one study indicating that persons with chronic liver 
+disease are 80 times more likely than healthy individuals to develop Vv septicemia and 200 
+times more likely to die.2,7 
+There is both a gender disparity and an age aggregation associated with the incidence of 
+vibriosis, particularly in cases related to seafood consumption and in Vv cases. Of Vv cases 
+reported to COVIS from 1988 to 2010, 86% occurred in males, suggesting that males are 
+approximately six times more likely to be diagnosed with a Vv infection than females.7 The 
+reasons for this gender disparity are unknown, but it is likely that greater incidence of underlying 
+risk conditions (particularly liver cirrhosis) is an important factor.7 Further, both the incidence 
+and fatality rates for Vv cases are strongly correlated with age: very few cases, with only one 
+fatality, were reported in persons under 25 years old, while persons 40 to 60 years of age 
+comprise 50% of infections and 50% of fatalities.7 Thus, while anyone can be diagnosed with 
+vibriosis, it is more common in males of middle age or above. 
+DOI: 10.32481/djph.2021.001.005 
+The high-risk group for severe vibriosis include the elderly and persons with the following 
+underlying conditions: 
+• Liver disease (from hepatitis, cirrhosis, alcoholism, or cancer)1–4,6,7,9,10,16 
+• Iron overload disease (hemochromatosis) / abnormal iron metabolism 
+(hemosiderosis)1,2,4,10 
+• Diabetes2–6,10,11 
+• Renal disease/failure2,10,17 
+• Cancer or malignancy (including leukemia, lymphoma, Hodgkin’s disease)1–6,10 
+• HIV/AIDS2,3,5,10 
+• Gastrointestinal disorders (including ulcers)2,4,6,10 
+• Gastric surgery3,5,10 
+• Disorders or medicine leading to low gastric acid2,5,8,10 
+• Heart disease10 
+• Hematological conditions3,6 
+• Hemolytic anemia2 
+• Thalassemia3 
+• Transplant recipients10 
+• Any other illness or medical treatment that weakens the body’s immune system 
+(including chemotherapy and use of steroids or other immunosuppressive 
+medication)1,2,4,6,8,10 
+Two Modes of Infection 
+Vibrio can infect persons via seafood consumption or wound exposure to salt/brackish water, raw 
+seafood, or drippings from raw seafood.1–3,6,7 The pathogen is opportunistic and the severity of 
+an individual case depends on many factors, including the strain and the dose of bacteria and the 
+patient’s underlying health conditions.11 The fatal dose for an at-risk individual is unknown.11 
+Overall, the most common mode of transmission is consumption of raw or undercooked seafood, 
+particularly oysters1: in one study of United States vibriosis cases, 56% were classified as 
+foodborne, 35% as wound infections, and 9% as having an unknown transmission route.14 More 
+specifically, for Vibrio parahaemolyticus, about 86% of cases are foodborne,9 while for Vibrio 
+vulnificus, wound infections comprise 46% of cases, followed closely by foodborne infections at 
+43%.7 
+In cases related to food consumption, raw or partially cooked oysters are the most commonly 
+associated food,10 although many other seafood products have been linked to vibriosis, especially 
+to Vp (see Figure 3).9 In one case series, among patients with foodborne vibriosis who reported 
+eating a single seafood item, 69% ate oysters, 10% ate finfish, 6% ate crab, and 4% ate clams.14 
+More specifically, over 90% of bivalve Vv cases are associated with raw oysters from the Gulf 
+Coast.2,7,9,10 Improper refrigeration of seafood products allows the exponential growth of 
+opportunistic Vibrio and increases the likelihood of infection, while thorough cooking destroys 
+DOI: 10.32481/djph.2021.001.005 
+the bacteria.9 Thus, illnesses typically are caused by consumption of either raw/partially cooked 
+seafood or cooked seafood that has been contaminated with raw seafood.9 Because the common 
+pathogenic strains of Vibrio are destroyed almost immediately in freshwater, it is not usually 
+transmitted via the fecal-oral route,9,10 and thus it typically occurs as sporadic cases and not as 
+outbreaks.2,18 
+Figure 3. High-risk persons should not eat uncooked seafood, including oysters on the half-shell. 
+Image credit: Jeremy Keith via Flickr 
+In addition to ingestion, persons (especially those in the high-risk group) can become infected 
+with Vibrio when cuts, burns, sores, or other wounds are exposed to seawater, raw seafood, or 
+raw seafood drippings.2,5,9,14,17 Pre-existing wounds may contact seawater or seafood, or wounds 
+may be incurred during an activity such as fishing or while preparing food.9 Persons with jobs 
+that require marine- or food-related activities may have increased exposure2; for example, 
+shucking oysters or picking crabs can result in a cut to the hand, exposing the body to Vibrio. 
+Even a wound as small as an insect bite may allow infection in high-risk persons.19 Additionally, 
+Vibrio wound infections may increase following flooding caused by a hurricane or storm surge: 
+after Hurricane Katrina, 14 wound infections, 3 of which resulted in death, occurred among 
+Louisiana and Mississippi residents exposed to floodwater.2 Overall, among patients with non
+foodborne transmission, 79% had skin exposure to a waterbody within seven days before 
+symptoms began, 17% had contact with marine wildlife, and 17% handled seafood.14 
+DOI: 10.32481/djph.2021.001.005 
+Other, unusual modes of Vibrio infection have occurred. For example, in one case, corneal ulcers 
+resulting from Vv occurred in an employee at an oyster shucking plant after small oyster shell 
+fragments had contacted his eyes.2 Another usual case occurred after a folk healer treated a 
+chronic sore on a patient’s leg by spraying it with fresh fish blood.2 
+The Resulting Illness 
+While any individual may be infected by Vibrio, cases in healthy persons are generally mild, 
+temporary, and self-limiting.2,9 In foodborne cases, healthy persons may develop gastroenteritis 
+symptoms but this usually remains localized and rarely requires hospitalization; most people 
+with a mild case of vibriosis recover after about three days with no lasting effects.3,9 Symptoms 
+typically occur within 12-72 hours and may include fever/chills, stomach pain/nausea, vomiting, 
+diarrhea, and headache.3,4,9,18 In wound infections, healthy persons may develop cellulitis around 
+the wound which requires treatment, but severe symptoms and death remain unlikely.2 For all 
+reported vibriosis cases, less than 40% require hospitalization or antibiotic treatment.9 
+In high-risk persons, however, symptoms may rapidly progress and lead to death in as little as 2 
+days, making prompt treatment of paramount importance.4 In foodborne cases, the bacteria may 
+invade the bloodstream via the digestive tract, causing fever/chills that is usually accompanied 
+by nausea, vomiting, diarrhea, and swollen/painful extremities.5,9,10,16 Blood pressure commonly 
+drops sharply, potentially leading to shock and death.2,5 Also, the majority of high-risk patients 
+develop skin lesions: initially the skin appears red, then painful blisters quickly develop and 
+erode into necrotic ulcers, similar to those found in wound infection cases.5,9 In the high-risk 
+subpopulation, septicemia may occur in as little as 24 hours,2 and for Vv septicemia there is a 
+50-60% mortality rate.2,6 
+For high-risk persons who develop vibriosis after wound exposure, infections usually begin with 
+swelling, redness, and pain surrounding the infected site.5 Blisters commonly develop and 
+rapidly progress to tissue necrosis.5 Around 50% of patients with Vv-infected wounds require 
+surgical debridement or amputation to prevent the infection from spreading to the bloodstream, 
+in which case death commonly occurs.5 Thus, wound infections in high-risk persons can have 
+permanent, life-changing results.7 
+In total for Vv hospitalizations, the outcome is death in 35% of septicemia cases and 20% of 
+wound infection cases.9 Strikingly, there is a very short time period – as little as 24 hours – 
+between the onset of symptoms and the final outcome,7 making prompt diagnosis critical. 
+Vibriosis is diagnosed by stool, wound, or blood culture, depending on the type of infection at 
+hand.3,5,9 Key questions for the screening of patients include: 
+• Have you recently eaten raw or partially cooked seafood?8 
+• Have you had any recent skin contact with salt/brackish water?8 
+• Have you recently handled raw seafood, seafood drippings, or anything that was 
+used to hold or prepare raw seafood?8 
+Vibriosis Surveillance 
+Doctors, hospitals, and/or labs are required to report confirmed and probable cases of Vibrio 
+infection to state health agencies, who are then required to report cases of this nationally 
+notifiable pathogen to the federal government.2 Reporting is critical because it may result in a 
+DOI: 10.32481/djph.2021.001.005 
+state following national protocols to recall shellfish product or temporarily close shellfish waters 
+to harvest, thereby preventing future illnesses. Further, because severe vibriosis has such a high 
+fatality rate, prevention is imperative, and good surveillance allows federal and state government 
+agencies to evaluate prevention strategies for efficacy.2 For example, a state with a confirmed Vv 
+illness is required to develop and implement a Vv Control Plan for bivalve shellfish that may 
+include time-to-temperature restrictions to prevent Vibrio growth in shellfish after harvest, 
+shading on board harvest vessels, or other important measures. 
+Health departments report Vibrio cases to the Cholera and Other Vibrio Illness Surveillance 
+(COVIS) system.3 The COVIS report form includes the following information: a description of 
+the person’s illness and underlying health conditions; recent seafood consumption; recent 
+exposure to bodies of water, raw or live seafood or their drippings, or marine life; and the source 
+of any implicated seafood.3 Unfortunately, Vibrio infections are under-diagnosed and under
+reported2: the CDC estimates that for every 1 foodborne Vv case reported another 1.87 cases 
+occur,2 while only 1 in 20 cases of Vp are reported.9 
+An Ounce of Prevention is Worth a Pound of Cure 
+Treatment for vibriosis in high-risk patients is of limited effectiveness, and thus prevention is 
+critical. There is a 35% mortality rate from Vv septicemia in the high-risk subpopulation,9 and a 
+median time period of only 48 hours from hospital admission to death.5 Even patients who 
+survive severe infection are frequently left with life-altering consequences such as limb 
+amputations. For these reasons, infection prevention is crucial and will save lives. 
+Despite the criticality of vibriosis prevention, awareness of the risks of Vibrio infection is low 
+among the high-risk subpopulation as well as the population at large (see Table 1). In one survey 
+of oyster consumers, 50% knew that people with liver disease can become extremely ill from 
+eating raw oysters, 34% knew the same for people with weakened immune systems, and only 
+19% knew that diabetics are at risk of illness from raw oysters.2 Compounding the problem of 
+low awareness is that high-risk persons who eat raw oysters do so more frequently (ten times per 
+year) than other consumers (six times per year).2 
+If awareness of the risks of Vibrio infection among high-risk persons is increased, lives will be 
+saved. Health care providers, as trusted sources of important health information, are the frontline 
+of vibriosis education. A survey showed that raw oyster consumers who are informed by health 
+care providers of the risk of Vibrio infection are more concerned about raw oyster consumption 
+than those who receive the same information from other sources.2 
+When a patient with a condition which makes them susceptible to severe vibriosis is diagnosed 
+or seen, inform them to abstain from eating raw or partially cooked seafood, especially filter
+feeding oysters and clams.5,17 Instead, encourage them to eat fully-cooked shellfish, which have 
+numerous important health benefits. Also inform high-risk patients to avoid contact of wounds 
+with salt/brackish water and seafood, to take care to avoid sustaining a wound when preparing 
+seafood and when participating in marine-related activities such as fishing, and to seek 
+immediate medical treatment if they experience symptoms following any wound contact.5,17 
+Table 1. Common Shellfish Consumer Myths 
+MYTH 
+REALITY 
+DOI: 10.32481/djph.2021.001.005 
+Though I am in the high-risk group, 
+eating only a few raw shellfish can’t hurt 
+me. 
+I’ll be fine if I avoid raw shellfish from 
+polluted waters. 
+A fatality has been documented where the 
+patient consumed only three raw 
+oysters.11 
+Vibrio is a naturally-occurring part of the 
+environment and has no connection to 
+pollution.11 
+If I avoid oysters in months without the 
+letter “R”, I’ll be fine. 
+Though Vibrio is more abundant during 
+warmer months, many cases occur during 
+the cooler months from September 
+through April.11 
+Experienced oyster connoisseurs can tell a 
+good oyster from a bad one. 
+Vibrio does not change the appearance, 
+taste, or odor of shellfish.11,17 
+I’ll be fine if I drink alcohol along with 
+the raw shellfish. 
+Alcohol has little effect on harmful 
+bacteria.11 
+I’ll be fine if I smother raw shellfish in 
+hot sauce or lemon juice. 
+This works no better than using plain 
+water.11 
+Seafood Health Benefits 
+Oysters, clams, and other seafood are an important part of a balanced diet and convey numerous 
+important health benefits. For healthy persons, eating raw or partially cooked seafood is a 
+decision that should be made with a knowledge of associated risks and in consultation with their 
+doctor. Persons whose age or underlying medical conditions put them in the high-risk group 
+should abstain from consuming raw or partially cooked seafood, but they may still enjoy it 
+thoroughly cooked for its delicious taste and many health benefits. 
+• Seafood is a source of high-quality protein that is rich in vitamins, minerals, and 
+beneficial omega-3 fatty acids.8 Compared to other protein-rich animal foods, 
+most seafood is lower in calories, total fat, and saturated fat.8 
+• Seafood consumption is linked to improved coronary health in adults and to 
+improved cognitive and visual development in infants and children.8 Eating 
+seafood regularly can decrease risk of heart attack, stroke, and high blood 
+pressure.8 
+• For good health, consumers should eat 8 or more ounces per week of a variety of 
+seafood types. A daily EPA+DHA intake of at least 250mg is recommended for 
+most people, increased to 1000mg for people with cardiovascular disease.8 
+Tips for High-Risk Persons 
+WHEN PREPARING AND EATING SEAFOOD: 
+Abstain from eating raw or partially-cooked seafood, especially oysters and clams.5,17 
+Instead, enjoy thoroughly cooked seafood for its delicious taste and important 
+health benefits. 
+Purchase seafood only from reputable sources.8 Purchase only shellfish whose shells 
+are closed. Before cooking, discard any shellfish with shells already open.3,4 
+DOI: 10.32481/djph.2021.001.005 
+Refrigerate seafood below 400F until use to prevent the exponential growth of Vibrio 
+and any other pathogens present into an infectious dose.8,9 
+Wash hands before and after handling raw or cooked seafood.3,8 Avoid contact 
+between a wound and seafood or its drippings.3 Take care to prevent sustaining a 
+wound when handling raw seafood and when shucking shellfish, and immediately 
+wash any wounds sustained then cover them with an impermeable bandage.3 
+Prevent contact between cooked seafood and raw seafood or its drippings.3,8,11 Wash 
+utensils and surfaces before reusing to prevent cross-contamination.8,9 After 
+kitchen surfaces are washed, sanitize them with a product sold as a kitchen 
+sanitizer.9 
+Cook seafood until it reaches an internal temperature of 1450F for at least 15 
+seconds.8,9 Increase temperature to 1550F for dishes like fishcakes and to 1650F 
+for dishes like stuffed fish.9 
+For shellfish in the shell, either boil until shells open then continue boiling for 
+another 3-5 minutes, or add to a steamer when water is already steaming then 
+cook for another 4-9 minutes.3,4 Use small pots so that shellfish in the middle 
+are cooked fully. Only eat shellfish that open during cooking, discarding any 
+shellfish that do not open fully after cooking.3,4 
+For shucked shellfish, either boil for at least 3 minutes, fry in oil for at least 3 
+minutes at 3750F, broil 3 inches from heat for 3 minutes, or bake at 4500F for 
+at least 10 minutes.3,4 
+Seek immediate medical attention if you experience symptoms of illness following 
+seafood consumption.3 
+WHEN WORKING OR RECREATING IN NATURAL WATERS: 
+Avoid contact between the water and cuts, burns, sores, or any other skin 
+wounds.3,4,13 If water contact cannot be avoided, cover wounds with impermeable 
+bandages.3,13 
+Take precautions to prevent sustaining a wound while swimming, fishing, or 
+participating in related activities. Carry potable water and soap or hand sanitizer 
+to immediately clean any minor injuries that occur.3,13 
+Wear gloves when handling raw seafood, crab pots, or other equipment.3,13 Wear 
+water shoes to avoid cuts and scrapes.3,13 
+Always shower after contacting natural waters, and wash hands before eating or 
+handling food.13 
+Seek immediate medical attention if you experience symptoms of illness following 
+contact between a wound and natural water.3 
+Other Pathogens Relevant to Shellfish & Recreational Water 
+In addition to Vibrio, there are many other pathogens that occur in marine waters and pose a 
+potential threat to public health. Many of the pathogens of potential public health concern for 
+DOI: 10.32481/djph.2021.001.005 
+raw bivalve shellfish do not proliferate during post-harvest handling and storage, unlike Vibrio 
+which can quickly increase in harvested product if strict temperature controls are not followed.20 
+These pathogens and toxin-producing organisms, which originate and bio-accumulate to 
+dangerous levels in shellfish waters, can be divided into two major categories: biotoxins 
+produced by phytoplankton, and viral and bacterial pathogens from fecal contamination. 
+First, biotoxins produced by some marine algae species can cause serious illness if individuals 
+consume bivalve shellfish which have concentrated these toxins or when individuals have 
+contact with waterbodies experiencing harmful algal blooms. Nationally, five specific toxins of 
+concern are associated with bivalve shellfish, and thresholds have been established to protect 
+consumers. To mitigate the public health threat from biotoxins, states monitor waterbodies for 
+these five specific toxins, as well as for other toxins whose thresholds have not been established 
+but may cause shellfish-borne illness.21 Unlike bacterial and viral pathogens, biotoxins are not 
+destroyed by cooking and can still pose a risk of gastrointestinal and neurological illness if 
+present in cooked products.8 
+Second, contamination of waters with bacterial and viral pathogens from fecal sources can pose a 
+significant public health threat, especially for pathogens originating from humans. Some of these 
+pathogens can also cause infection through food contamination by infected workers; these 
+pathogens include Norovirus, Hepatitis A virus, Shigella spp., Enterohemorrhagic or Shiga 
+Toxin-producing Escherichia coli, and Salmonella typhi.22 In particular, Norovirus is one of the 
+most common pathogens found in water or shellfish impacted by human fecal contamination and 
+has been implicated in illness outbreaks associated with bi-valve shellfish.23 Norovirus infections 
+are most frequently observed from November through April, with symptoms including diarrhea, 
+vomiting, nausea and stomach pain.23 Unlike biotoxins, viral and bacterial pathogens like 
+Norovirus within shellfish can be killed by thorough cooking,12,13 although post-cooking cross 
+contamination remains possible. 
+DNREC’s Shellfish & Recreational Water Program 
+The mission of the Shellfish & Recreational Water Program of the Delaware Department of 
+Natural Resources & Environmental Control (DNREC) is to prevent human illness from 
+consumption of bivalve shellfish and from recreational contact with natural waterbodies. To 
+mitigate the risk of pathogens which are associated with fecal contamination, fecal indicator 
+bacteria (FIB) are monitored in recreational waters and shellfish growing waters to identify times 
+when there may be an elevated risk to public health. For recreational waters, DNREC monitors 
+waters for elevated levels of Enterococcus FIB and issues swimming advisories when high levels 
+are found. The U.S. Environmental Protection Agency established that Enterococcus was one of 
+two FIB for marine and freshwater recreational waters “that have consistently performed well as 
+indicators of illness in sewage-contaminated waters during epidemiological studies.”21 Similar to 
+recreational waters, states are also required to conduct FIB monitoring of shellfish growing areas 
+using either Fecal or Total Coliform bacteria.24 The sampling results are used to classify waters 
+as approved or prohibited for shellfish harvest, and these harvest classifications are assessed 
+annually to identify changes in water quality trends. These monitoring strategies are effective in 
+identifying long term trends in water quality, but other monitoring for fecal contamination 
+originating from isolated events such as waste water treatment plant failures and bypasses, illegal 
+discharges from vessels, and other potential anthropogenic sources is conducted by state resource 
+managers to evaluate public health risk. 
+DOI: 10.32481/djph.2021.001.005 
+Vibrio bacteria are not sampled as part of this process, because they are a natural part of the 
+estuarine ecosystem and so cannot be mitigated through shellfish harvest classifications and 
+swimming advisories. In Delaware, Vibrio vulnificus poses the greatest risk to individuals who 
+contract wound infections through injury or wound exposure to natural marine waters. Currently 
+there is no established recreational water quality criteria for Vibrio infections, which underscores 
+the importance of education to reduce the risk of illness. 
+In bivalve shellfish, Vibrio can quickly increase to dangerous levels following harvest if proper 
+precautions are not followed. To mitigate the risk of shellfish-borne Vibrio infections, DNREC 
+establishes time-to-temperature requirements for bivalve shellfish through the State’s annual 
+Vibrio parahaemolyticus (Vp) management plan. This plan establishes the timeframes and 
+restrictions that shellfish harvesters and dealers must follow during months with increased risks 
+of elevated Vibrio levels, currently June through September depending on the body of water 
+from which the shellfish were harvested. Though there has never been a confirmed Vibrio illness 
+linked to shellfish harvested from Delaware waters, risk assessments identify Vp as the primary 
+Vibrio pathogen of concern, which is why the state implements a Vp management plan during 
+warmer months. The bivalve shellfish industry works diligently to follow these requirements and 
+to keep their products safe for raw consumption by healthy persons, if consumers are equipped 
+with the education to keep shellfish products safe after purchase. 
+Conclusion 
+Vibrio is an opportunistic pathogen that is naturally occurring in salt/brackish water and in 
+uncooked seafood, especially oysters. Human infection can occur after an open wound is 
+exposed to water or seafood containing Vibrio, or after uncooked seafood is consumed that 
+contains Vibrio. While vibriosis is uncommon overall and is typically not serious in healthy 
+people, in high-risk persons, especially those with liver problems, infection can be life-altering, 
+if not lethal. Because of the rapid progression, limited effective treatment, and high mortality rate 
+for vibriosis in high-risk individuals, infection prevention is of paramount importance. Yet, 
+patient knowledge of how to avoid infection remains low. 
+Healthcare providers are the front lines of patient education on vibriosis, and we urge you to 
+inform high-risk patients to not eat raw seafood and to prevent contact between a wound and 
+seawater. Through this education, you can save lives. 
+Disclaimer: The information contained in this article is provided for information only. This 
+information does not constitute medical advice, and it should not be relied upon as such. The 
+Delaware Department of Natural Resources and Environmental Control (DNREC) does not 
+engage in the practice of medicine. DNREC, under no circumstances, recommends particular 
+treatments for specific individuals, and in all cases recommends that you consult your physician 
+before pursuing any course of treatment.

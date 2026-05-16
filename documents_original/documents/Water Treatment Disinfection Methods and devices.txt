@@ -1,0 +1,511 @@
+Household 
+Water Treatment:
+Disinfection Methods and Devices 
+Uttam Saha, Pamela Turner, Gary Hawkins, and Keith Mickler
+Disease-causing microorganisms, or “pathogens,” in household 
+waters primarily include bacteria, viruses, and protozoa. These 
+pathogens pose a serious threat to human health because their 
+impact on the body can be almost immediate. You may have 
+seen examples of serious outbreaks of waterborne diseases 
+in the news media from time to time. For example, according 
+to the Centers for Disease Control (CDC) and Prevention 
+Waterborne Disease and Outbreak Surveillance System, from 
+2011 to 2012, 32 microbial-associated disease outbreaks in 
+drinking water were reported in the U.S., accounting for at 
+least 431 cases of illness, 102 hospitalizations, and 14 deaths. 
+This data can be found at http://www.cdc.gov/healthywater/
+surveillance/index.html. 
+The most commonly identified reason for these outbreaks is the 
+bacterium Legionella spreading from within building plumbing 
+systems (accounting for 66% of the aforementioned cases) 
+and untreated groundwater (13% of the cases). Therefore, 
+disinfection is considered important to protect human health 
+in most water treatment systems. This publication provides 
+information on the various disinfection options to consider 
+before buying disinfection equipment in the following order:
+• Chlorination
+• UV radiation
+• Ozonation
+• Pasteurization
+• Distillation
+• Disinfection equipment
+Test your water before implementing these processes, and  
+with the help of a water specialist, determine whether you  
+have water quality problems that should be addressed by 
+installing an appropriate water treatment system.
+Chlorination
+A common and relatively inexpensive method of disinfecting water is chlorination, where a solution of chlorine 
+or hypochlorite is added to the water. The method kills disease-causing microorganisms including bacteria and 
+certain viruses, but does not kill the protozoa Cryptosporidium, Giardia, and some others. The process also 
+removes some bad odors, tastes, and colors.
+Water can be chlorinated in two ways: 
+1. Shock chlorination is when a strong chlorine 
+solution is added into a well or pumped through 
+the plumbing system to kill microorganisms on 
+a one-time basis. Shock chlorination is usually 
+recommended when a well is constructed, 
+repaired, or a new pump is installed to kill 
+bacteria that may be present on the pipes or 
+installation equipment. It is also recommended 
+if a well is contaminated due to a faulty well 
+cap or seal. More information about using shock 
+chlorination in well water can be found in UGA 
+Extension Circular 858-4, Disinfecting Your Well 
+Water: Shock Chlorination.
+2. Continuous chlorination is a process where 
+chlorine is added continuously to the household 
+water through a chemical feed pump. This 
+system is required when the source of the 
+bacteria in the water cannot be eliminated and 
+recurrent bacterial contamination is encountered 
+even after several shock chlorination treatments. 
+Continuous chlorination is a point-of-entry 
+treatment method that can offer residual 
+disinfection throughout the household water 
+distribution system. Almost all public (city or 
+county) water systems use this system, often in 
+combination with others. 
+Contaminants removed: Bacteria, some viruses, iron, manganese, and hydrogen sulfide 
+System cost (continuous chlorinator): On average, $900 for a family of four
+How does chlorination work? 
+In the proper concentrations and under adequate exposure/contact time, chlorine is an excellent disinfectant for 
+bacteria and certain viruses. The contact time is the time available to complete the reaction between the chlorine 
+and untreated water. A longer contact time results in more effective disinfection. For example, a higher chlorine 
+concentration requires a shorter contact time and vice versa. However, even with adequate concentration and 
+contact time, the effectiveness of chlorination depends on various other factors, including water temperature, water 
+pH, and water turbidity, or haziness caused by suspended particles in the water. Chlorination is more effective 
+at a high temperature and at pH 4.0-7.0. For every 18 °F drop in water temperature, there could be as much as 
+a 50% reduction in the efficacy of disinfection, doubling the required contact time. Thus, with a given chlorine 
+concentration, you would need longer contact time in winter than in summer to properly disinfect the water. 
+Particulate matter in water decreases the effectiveness of chlorination because microorganisms may “hide” 
+behind particles and avoid disinfection. Also, chlorine readily combines with other components dissolved 
+in water, including iron, manganese, hydrogen sulfide, organic matter, ammonia, and organic color such as 
+that from decaying peat moss which may reduce the effectiveness of the disinfection. To overcome this, it is 
+important to add sufficient chlorine to meet the chlorine demand and provide residual disinfection. “Chlorine 
+demand” is a term used to describe the total added chlorine subtracted by residual, inactive chlorine. The added 
+chlorine that does not combine with other components is available to disinfect the water, commonly called the 
+“free chlorine residual.” According to the CDC, treated water should contain a free chlorine level of at least 0.5 
+mg/liter to be microbiologically safe and no more than 2.0 mg/L to make sure that the water does not have an 
+unpleasant taste or odor. Free chlorine residual can be measured on-site using a chlorine test kit.  
+See http://aesl.ces.uga.edu/Water/ChlorineTest.pdf for more information on chlorine testing.
+2
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+Types of chlorination 
+The different types of chlorine disinfection are batch disinfection, simple chlorination, and superchlorination 
+followed by dechlorination. Chlorination types use various amounts of chlorine.
+Batch chlorination is especially useful for cisterns, holding tanks, or during emergencies or other special 
+situations. Three tanks, each capable of holding a two to three days’ water supply, are alternately filled to allow 
+adequate contact time and ensure satisfactory disinfection. The water is treated and used as needed.
+Simple chlorination maintains a low level (0.3 to 0.5 mg/liter) of free chlorine residual throughout the water/
+plumbing system. The residual should be measured at the faucet farthest from the chlorine source. Continuous 
+chlorinator equipment is used for this type of chlorination.
+Superchlorination followed by dechlorination (chlorine removal) is an option when the necessary contact 
+time is unattainable. Superchlorination produces a higher free chlorine residual of 3.0 to 5.0 mg/liter. At 
+this concentration, contact time as short as five minutes may be sufficient to achieve expected disinfection. 
+Superchlorinated water has a strong chlorine smell and taste that is removed with an activated carbon filter 
+following chlorine treatment. If the water contains dissolved iron, manganese, or sulfur, it may be necessary to 
+install a sediment filter before the activated carbon unit to prevent clogging of the activated carbon filter.
+Equipment options 
+Various kinds of injection devices and pumps are available to chlorinate a private water supply, such as water 
+from a private well. The injection device should operate only when the water pump is on, and the water pump 
+should shut off if the chlorinator fails or if the chlorine supply runs out. 
+Two formulations of chlorine are available for chlorination: (1) dry powder or pellet (calcium hypochlorite) or 
+(2) liquid (sodium hypochlorite). Chlorine solutions from powders should not be prepared in large quantities at a 
+time for long-term use; it should be prepared as needed because the strength of the solution decreases gradually 
+after mixing. To avoid hardness deposits on equipment, manufacturers recommend using softened or 
+distilled water when mixing chlorine solutions. The effectiveness of chlorination depends on the amount 
+of chlorine used. The amount is controlled by adjusting the equipment or by changing the amount of chlorine 
+added for batch disinfection.
+Maintenance 
+The following maintenance may apply to a chlorination unit:
+• Checking for loose, worn, missing, or broken parts
+• Lubricating the entire system semiannually
+• Cleaning all surfaces showing corrosion
+• Refilling chlorine supplies
+• Cleaning any clogged orifices
+Be sure to unplug any power cords before maintenance. Always follow the maintenance guidelines laid out in 
+the manufacturer’s manual and keep record of maintenance activities.
+3
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+Special considerations 
+Both solid and liquid forms of chlorine can irritate the skin, are poisonous in concentrated form, and must 
+be handled and stored carefully. Chlorine tablets should be stored in a dry location. Both liquid and solid 
+formulations should be stored in their original labeled containers, away from children and animals.
+Excess chlorine can impart an unpleasant taste and smell to the treated water. Also, if the water being treated 
+contains organic molecules, the formation of hazardous chlorinated organic compounds like trihalomethanes 
+is possible. Trihalomethanes result from the reaction of organic compounds in water with chlorine. To reduce 
+the formation of these compounds, an organic filter should be considered prior to the chlorination step if high 
+concentrations of organic and inorganic matter are present in the water. Using an activated carbon filter after 
+chlorination will remove excess chlorine and limited amounts of any chlorine compounds formed. Using a 
+carbon filter after chlorination will remove any excess chlorine and chlorine-based chemicals that may form.
+In a properly operating chlorination system, the low level of residual chlorine that remains in the household 
+drinking water will not harm the septic system. High levels of chlorine, caused by issues like an improperly 
+adjusted or malfunctioning chlorinator, may be a problem for the desirable bacteria population in the septic 
+system and could result in the unpleasant taste and smell of excessive chlorine.
+A common household chlorination system (Figure 1) consists of a chlorine tank, a chlorine injector to dose the 
+incoming water with the right amount of chlorine, a pressure tank to maintain system pressure, a contact tank 
+to give the chlorine time to work, and an optional post-processing activated carbon filter to remove residual 
+chlorine and chlorination byproducts (e.g., harmful trihalomethanes) from the water.
+Chlorine
+Well
+Metering
+Injection
+Pressure
+Contact
+tank
+Activated
+carbon
+filter
+Note: This schematic shows the basic components of 
+a chlorination system as described in this publication. 
+If you choose to install a chlorination system in your 
+home, contact a professional installer to add the 
+Figure 1. Diagram of a common household chlorination system.
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+4
+How chlorination helps to remove iron, manganese, and hydrogen sulfide 
+Iron and manganese do not affect health, but they can make water bitter, stain laundry and fixtures, and discolor 
+water. Refer to UGA Extension Circular 858-11 for more information. The U.S. Environmental Protection 
+Agency (EPA) has given a secondary drinking water standard (https://www.epa.gov/dwstandardsregulations) 
+of 0.3 milligrams per liter for iron and 0.05 milligrams per liter for manganese. Hydrogen sulfide (see UGA 
+Extension Circular 858-8) is a nuisance contaminant that gives water an odor akin to rotten eggs.
+Soluble iron and manganese that naturally occur in water are in a dissolved and colorless form. Chlorination can 
+oxidize iron into insoluble red-brown, manganese into black, and hydrogen sulfide into yellow particles. These 
+insoluble particles can be removed by mechanical filtration. A pH between 6 and 8 is best for iron or hydrogen 
+sulfide removal by chlorination. Manganese removal is most effective when the pH is greater than 9.5. A certain 
+amount of contact time between the contaminant and the chlorine is required. Contact usually occurs in the 
+system’s pressure tank, although water might not remain in the tank long enough for complete oxidation, which 
+is why a contact tank may be used.
+An alternative to using a tank to achieve an adequate contact time is superchlorination, which adds much more 
+chlorine than is necessary. This procedure results in more efficient oxidation, but the excess chlorine must be 
+removed with an activated carbon filter.
+Ultraviolet light 
+Ultraviolet (UV) light has been used to disinfect water supplies for over 75 years, but home UV systems have 
+only become available relatively recently. This type of water treatment uses a low-pressure mercury arc lamp that 
+emits UV light to kill pathogens in the water. The principal advantage to UV treatment is that it disinfects water 
+without using any chemicals. Furthermore, some waterborne disease-causing microorganisms are resistant to 
+chlorine. These chlorine-resistant microorganisms include viruses, parasites, and bacteria that can cause hepatitis, 
+gastroenteritis, cryptosporidiosis, and Legionnaires’ disease. UV treatment is especially useful in this regard. 
+Although UV treatment is an effective disinfectant, disinfection only occurs within the unit. Disinfection does 
+not occur beyond the treatment unit to kill microorganisms that survived or were introduced to the system 
+after UV treatment. If residual disinfection is necessary, chlorination may be necessary in addition to or as an 
+alternative to UV treatment.
+UV light kills bacteria, viruses, and some cysts. It does not kill certain organisms such as Giardia lamblia 
+cysts or Cryptosporidium parvum oocysts, which must be removed by filtration or distillation. UV is not 
+recommended if the untreated water has a coliform content exceeding 1,000 total coliforms or 100 fecal 
+coliforms per 100 milliliters.
+The UV unit can either be a point-of-entry (POE) system, treating all the water entering the house, or a point
+of-use (POU) device, treating water from a single tap, as a final disinfection method. UV systems may have a 
+flow rate capacity of as low as 0.5 gallon per minute (GPM) for the POU unit to as high as several hundred GPM 
+for the POE units. Household water requirements dictate the size of the unit needed. A 10 GPM flow rate is 
+adequate for most homes.
+System cost: $250 (for under the sink) to more than $1,000 (for the whole house)
+General system structure
+A typical UV treatment device consists of a low-pressure mercury lamp, housed in a cylindrical chamber, that 
+most often produces UV light using a wavelength of 254 nanometers (nm). Lamps vary in length from 12 to 
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+5
+48 inches and thus vary in energy output. The lamp is encased in a quartz glass sleeve to prevent water from 
+contacting the lamp. The quartz sleeve also helps keep the lamp at an ideal operating temperature of 104 °F. 
+Approximately 95% of the UV light passes through this glass sleeve and into the untreated water. Untreated 
+water either flows in a thin film over the sleeve, or it flows through quartz glass tubing that spirals around the 
+lamp. The spiral design allows for a longer contact time between the UV light and the untreated water.
+How does a UV system work? 
+Water to be treated is exposed to UV light. The UV light kills or deactivates pathogens by destroying their 
+DNA. Bacteria are killed with relatively low 20 mJ/cm2 radiation, but viruses typically require 45 mJ/cm2 to be 
+killed, while cysts and worms are unaffected. The light is destructive to microorganisms but safe for humans, 
+although you should not look at UV lamps directly, as doing so can cause eye damage. UV light’s killing 
+capacity depends on the intensity of the UV light, the contact time, and the amount of suspended solid particles 
+in the water as discussed below in section 2.3. To be effective, the system typically requires only a few seconds 
+of exposure and it does not add any taste or odor to the treated water. The depth of light penetration into water is 
+no more than 2 to 3 inches.
+System efficiency and maintenance
+Lamp intensity, contact time, and general water quality are important determinants of the efficiency of a UV 
+system. The lamp intensity is defined as the dosage of light energy (millijoule, mJ; milliwatt, mW; or microwatt, 
+µW) delivered per unit area of flowing water. The UV treatment systems certified under “NSF standard 55” have 
+minimum safe dosage of 40 mJ/cm2, or otherwise stated as 40 mW/cm2 or 40,000 µW/cm2. 
+Regardless of the quality of the equipment purchased, it will not perform satisfactorily unless maintained in 
+accordance with the manufacturer’s recommendations for maintenance, cleaning, and part replacement. Keep a 
+record of water test results, equipment maintenance and repairs.
+UV lights do not burn out but gradually lose effectiveness with use. The UV lamp should be cleaned on a 
+regular basis and replaced when needed. It is common for a new lamp to lose 20% of its intensity within the first 
+100 hours of operation, although that level is maintained for the next several thousand hours. In general, all UV 
+lamps need to be replaced every 9,000 hours (approximately one year) of continuous lit-up usage or as suggested 
+by the manufacturer. Units equipped with properly calibrated UV emission detectors alert the owner when the 
+unit needs cleaning or the light source is failing–an important feature to ensure a safe water supply. A detector 
+that emits a sound or shuts off the water flow is preferable to one with a warning light only.
+Color, turbidity, and organic impurities in the water interfere with transmission of UV light and may reduce 
+efficiency to unsafe levels. Suspended solid particles (turbidity) in the water can shield organisms from exposure 
+to light. The UV light reflects on sediment particles and casts a shadow, much like the shadow that results 
+when the sun shines on an opaque object. If microorganisms are in this shadow, UV light cannot kill them. To 
+facilitate exposure between the bacteria and light, a sediment filter should free the untreated water entering the 
+unit from turbidity as much as possible.
+In addition, iron, manganese, and hardness may reduce the efficiency of the UV unit to effectively treat the 
+water. Hard water salts of calcium and magnesium may coat the quartz sleeve with scale (a whitish deposit 
+of hardness) and reduce the actual output of UV light. Iron and manganese can impart color to the water and 
+reduce the UV light output, alone or together with hard water salts. Frequent cleaning or addition of a water 
+softener to the system may be needed if the water is hard. Commercial products are available for rinsing the unit 
+to remove any film on the light source. Overnight cleaning with a solution of 0.15% sodium hydrosulfite or citric 
+acid effectively removes such films. Some units have wipers to aid the cleaning process.
+UV devices are often combined with other technologies such as particle filters, carbon filters, ion exchange 
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+6
+units, and reverse osmosis systems to remove particles prior to UV disinfection. Following reverse osmosis, 
+water softening, or filtration, UV is often the last device in the “treatment train,” a series of treatment devices.
+UV systems are designed for continuous operation and should be shut down only if treatment is not needed for 
+several days. The lamp needs a few minutes to warm up before the system is used again following shutdown. In 
+addition, the plumbing system of the house should be thoroughly flushed following a period of no use. Whenever 
+the system is serviced, the entire plumbing system should be disinfected prior to relying on the UV system for 
+disinfection.
+Before using a UV system for the first time, disinfect the entire plumbing system with chlorine (See section 
+1.0). The treated water should be tested for coliform bacteria after installation and on a monthly basis after the 
+first six months of use. If bacteria are present in the treated water, the lamp intensity should be checked and the 
+entire plumbing system should be shock chlorinated.
+What to look for in an ultraviolet treatment system
+Before purchasing a UV treatment system, pay attention to the following information, which the manufacturer 
+should provide:
+• Check whether the product is certified “NSF Standard 55.”
+• Check the manufacturer’s specifications on the dosage. The dosage is the minimum amount of UV energy 
+needed to destroy the pathogens in water. A minimum of 40 mW/cm2 is required.
+• Expect to change your UV lamps once a year and ensure that the manufacturer has spare lamps on hand 
+prior to your purchase.
+• If the water is hard, scaling on the quartz sleeve of the lamp casing will affect the dosage and ultimately 
+the effectiveness of your unit. Ask the manufacturer if its system comes with a valve that automatically 
+purges the system in order to prevent lime scale buildup. As an alternative, installing a water softener may 
+be required.
+Ozonation
+Ozone is a gas that occurs naturally in our atmosphere. By disinfecting water through ozonation, electrically 
+generated ozone kills bacteria and certain other pathogens. Ozone generators are relatively expensive to install. 
+Ozonation does not have any residual disinfection effect in the water, unlike chlorination.
+Effective against: pathogenic (disease-causing) organisms, including bacteria and viruses, most amoebic 
+cysts, and aromatic organic compounds (also known as phenols), some color, taste and odor problems, iron and 
+manganese, sulfur, and turbidity.
+Not effective against: large cysts and some other large organisms (worms), inorganic chemicals, and heavy 
+metals.
+System cost: $250 for a point-of-use (POU) system, $2000 for a point-of-entry (POE) system
+How does ozonation treatment work?
+Ozone is a strong oxidizing agent, like chlorine, and it kills disease-causing bacteria, viruses, and most amoebic 
+cysts in water in a similar way. Ozone may not kill large cysts and some other large organisms like worms, so 
+these should be eliminated by filtering or other procedures prior to ozone treatment. In combination with an 
+activated carbon or mechanical filter, ozonation oxidizes and precipitates out iron, sulfur, and manganese. Ozone 
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+7
+is also effective in eliminating or controlling color, taste, and odor problems. Typically, an ozone dose ranging 
+from 1 to 2 milligrams per liter is sufficient to kill most bacteria and control tastes and odors. 
+Ozone treatment units are installed as a POU or POE treatment system. Raw water enters one opening and 
+treated water emerges from another. Inside the treatment unit, ozone is produced by an electrical corona 
+discharge or ultraviolet irradiation of dry air or oxygen. 
+The solubility of ozone in the untreated water also affects treatment. The lower the water temperature, the more 
+ozone is dissolved in the water. Ozone works over a wide pH range, but effectiveness is higher at a pH slightly 
+above 7. The ozone demand is related to the level of contamination in the water, because other substances in 
+the untreated water also react with ozone, using up part of the ozone, leaving less ozone available to treat the 
+targeted contaminants. For proper disinfection, the water to be treated must have negligible color and turbidity 
+levels. An ozone treatment system can also be very energy consumptive.
+Advantages and limitations
+In contrast to chlorination, the major advantages of ozonation treatment are:
+• It does not add any taste or odor in the water
+• It is effective as a disinfectant over a wide pH and temperature range
+• It generally requires a shorter contact time for bacteria and viruses. 
+However, deactivation of Giardia and Cryptosporidium requires a longer contact time.
+A major limitation of ozonation is that it can produce harmful byproducts in drinking water. For example, if 
+bromide is present in the raw water, ozone reacts with it to form bromate, shown to cause cancer in rats. The 
+EPA has set a drinking water standard for bromate in water at 0.010 milligrams per liter.
+Maintenance
+Most ozone systems do not require extensive maintenance. Some ozone generation units use an air-drying material 
+to remove the humidity from the air. As routine maintenance, air-drying materials need to be replaced periodically.
+In addition, the entire system should be routinely inspected by a water treatment specialist for any ozone leaks. 
+Some ozone systems have monitoring devices that alert the owner to a malfunction or failure by shutting down 
+the entire system, sounding an alarm, or activating a warning light.
+Always follow the manufacturer’s instructions for maintenance, cleaning, and part replacement. Regardless of the 
+quality of the equipment purchased, it will not perform satisfactorily unless maintained in accordance with the 
+manufacturer’s recommendations. Keep a logbook to record water test results, equipment maintenance, and repairs.
+Other considerations
+Following installation, test both the raw water (prior to treatment) and the treated water to ensure it is working 
+properly and removing the targeted contaminants. Periodically testing both the raw and treated water should 
+be continued (quarterly or semiannually) to monitor the system performance. Such testing will also help you 
+determine whether maintenance or replacement of components may be necessary.
+Ozone is a toxic gas like chlorine, and ozone generators may leak and could create an ozone hazard within your 
+home, causing illness. Not much is known about the chronic health effects of ozone. Health effects resulting from 
+exposure to 0.1 to 1 mg/L ozone include headache, dry throat, and irritation and burning of the eyes. Ozone can 
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+8
+corrode some pipes and fixtures, so it is better to have all surfaces coming in contact with ozone made of ozone
+resistant materials, such as stainless steel or Teflon.
+Because ozone is very unstable, the greatest drawback with ozone treatment is that it does not produce a reliable 
+residual. With ozone treatment, disinfection occurs primarily within the unit at the point of contact between the 
+ozone and the water. The disinfection effect does not sustain beyond the treatment unit. In contrast, chlorination 
+treatment maintains residual chlorine in the water and continues the disinfection process for some time. Active 
+residual time for ozonation is only several minutes, whereas the active residual time for chlorine is measured in 
+hours. Ozone equipment is one of the most expensive water treatment technologies, and chlorination may still be 
+desirable because of the low residual time for ozone. 
+Most ozonation units require a storage tank for treated water. Bacteria and microorganisms can grow in the storage 
+tank and in the water distribution system that may require disinfection by flushing and superchlorination. Some 
+systems store treated water in a contact chamber to ensure that water is continuously treated until used.
+Ozone treatment systems frequently have pretreatment and post-treatment devices. Filtration may be required as 
+pretreatment to remove excessive turbidity or suspended solids that may shield microorganisms from disinfection 
+or foul the ozone device. Filtration may be necessary post-treatment to remove any oxidized particles.
+Most people can smell ozone at a concentration of 0.01 mg/L (well below the level for general comfort) and 
+breathing traces of ozone for a few minutes is of little health concern. To prevent ozone from entering the home, 
+residual ozone should be vented to the outside of the home.
+In addition, combustible materials such as gasoline, oil, or grease should not be stored near the ozone system, as 
+ozone may cause fire if it is exposed to them.
+What to look for when buying an ozonation system
+Test your water to determine its contaminants before purchasing an ozonation water treatment device. This will 
+help you determine whether ozone is an appropriate disinfection method for your situation. You should inquire 
+about the following before purchasing an ozone system:
+• Has the treatment system been tested and certified by a third party (e.g., National Sanitation Foundation, 
+NSF) to ensure that it meets manufacturer’s claims?
+• Are there any special installation requirements that may add to the equipment cost, for instance, changes 
+to your household plumbing?
+Pasteurization
+Water contaminated with microorganisms (bacteria, protozoa, and viruses) does not need to be boiled to kill 
+the microorganisms and make it safe to drink, it only needs to be brought to a temperature that is sufficient to 
+kill all disease-causing organisms. Such disinfection at a lower temperature is known as water pasteurization. 
+Most waterborne bacteria, protozoa and viruses are sensitive to inactivation at 162 °F (or 72 °C), which is much 
+lower than the boiling temperature point of water 212 °F (or 100 °C). Table 1 below indicates the temperatures 
+at which the most common waterborne pathogens are rapidly killed, thus resulting in at least 99.999% (5 log 
+reduction) of the microbes becoming inactivated in five minutes at the given temperature.
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+9
+Table 1. Waterborne microorganisms and their rapid killing temperature.
+Microbe
+Worms, Protozoa (Giardia, Cryptosporidium, Entamoeba) cysts
+Bacteria (Vibrio cholerae, E. coli, Shigella, Salmonella, etc.) and Rotavirus
+Hepatitis A virus
+Rapid Killing Temperature
+55 °C (131 °F)
+60 °C (140 °F)
+65 °C (149 °F)
+Pasteurization can be accomplished in two different ways: 
+1. Flash pasteurization uses high temperature of 162 °F (or 72 °C) for a short time (15 seconds)
+2. Low-temperature pasteurization uses lower temperature of 145 °F (or 63 °C) for a longer time (10 minutes)
+Pasteurization results in a great deal of energy savings compared to boiling because the pasteurization 
+temperature is much lower than the boiling temperature. Pasteurization does not leave behind a residual product 
+that continues to disinfect beyond the immediate treatment period.
+Distillation
+Distillation is one of the oldest water treatment processes. Besides removal of various dissolved and suspended 
+materials, distillation is another water disinfection option. Distillation units boil water, making steam that is 
+condensed and collected as purified water. Generally, distillation is used to supply water only for drinking or 
+special uses.
+Effective against: Bacteria, viruses, parasites, heavy metals, dissolved salts such as chloride, fluoride, nitrate, 
+sulfate, and carbonate of sodium, sodium, potassium and magnesium, other dissolved and suspended solids, and 
+some toxic organic chemicals
+Not effective against: Most volatile and semivolatile organic compounds (VOCs)
+System cost: $250 (counter-top) to over $1450 (larger unit)
+How does a distillation unit work? 
+Tap water in a boiling tank (often made of stainless steel) is heated to boiling in a tank. The steam produced 
+enters condensing coils, where it is cooled and condensed back to water. The distilled water goes into a storage 
+container or is piped to a special faucet. Diagram of a distillation unit is given in Figure 2.
+Bacteria are killed during boiling. Storage containers can be glass, metal, or plastic. Each type is satisfactory 
+when cared for as the manufacturer directs. Dissolved minerals and other dissolved and suspended substances 
+are left behind when the steam enters the condensing unit. Distilled water is considered to be relatively pure 
+water. Unevaporated contaminants are left behind and periodically flushed to the septic or sewer system.
+Advantages and limitations
+The principal advantage of distillation is that this single treatment ensures that treated water is almost pure 
+water and relatively free of many contaminants. Distillation has a special advantage for use on water supplies 
+that have not been chlorinated because disinfection occurs during boiling. Distilled water is suitable for wet 
+batteries and other household equipment requiring mineral-free water. Production of heat from a distiller may be 
+beneficial in the winter but it’s a disadvantage in the summer. 
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+10
+However, distillation suffers from the following 
+limitations:
+• In some distillers, organic contaminants 
+whose boiling point is less than that of 
+water (for example, some pesticides and 
+volatile solvents) are vaporized and carried 
+into the condensation chamber and will be 
+condensed with the distilled water, which 
+means they remain in the treated water. 
+Chloroform, phenol, and trichloroethylene 
+have been found in distilled water. Others 
+have a volatile gas vent that releases these 
+vaporized contaminants to the atmosphere.
+• Distiller tanks, if not properly used and 
+maintained, can also become notorious 
+breeders of bacteria because of the presence 
+of warm water.
+Figure 2. Diagram of a rectangular cart distiller, drawn with reference 
+from Virginia Cooperative Extension Publication 356-481.
+• While removing contaminants, distillers also remove beneficial minerals and make the water taste 
+flat or bland.
+• Distilled waters are generally more acidic than the EPA-recommended pH range of 6.5 to 8.5 for 
+drinking water.
+• The cost of producing distilled water depends on the size of the appliance and the local electric rate. 
+The power consumption of distillation units varies from 3 to 5 kilowatt hours of electricity per gallon 
+of distilled water produced. In general, the electrical costs of distilled water can be high. 
+• The distillation process is very slow. Daily capacity usually ranges from three to twelve gallons. 
+• Approximately five gallons of tap water are required to produce one gallon of distilled water, making 
+water waste high. 
+Distillation equipment 
+Because distillation units produce a small amount of treated water, distillers are point-of-use rather than point
+of-entry systems. They vary from small, round countertop units that distill less than one quart of water per hour 
+to larger, rectangular carts, which distill about one-half gallon of water per hour. Systems can be manual or 
+automated, partially or fully. Some models can separate volatile organic compounds before distillation. 
+Automatic features on units include reset switches and timers that make automatic operation possible on some 
+models. These features might be desirable when distilled water is not used continuously.
+Production rates vary with the type of condensing system. Air-cooled devices typically require two gallons of 
+untreated water for each gallon of treated water. Water-cooled units may require five to 15 gallons of untreated 
+water for each gallon of treated water. 
+A continuously operating, offline distiller for home use should have a storage tank to hold treated water until it 
+is needed. The storage tank capacity may provide an estimate of a distillation unit’s capacity. Most tanks drain 
+by gravity, but some may have a pump to deliver treated water to other locations.
+11
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+Maintenance
+Regardless of the quality of the equipment purchased, it will not perform satisfactorily unless managed in 
+accordance with the manufacturer’s recommendations for maintenance, cleaning, and part replacement. Keep a 
+logbook to record water test results, equipment maintenance and repairs. The following maintenance activities 
+are considered especially important:
+• After installation, check the boiler chamber and heating element in continuously operating units on a 
+weekly basis for scale accumulation. Check countertop units after each distillation cycle. Develop a regular 
+maintenance schedule based on these initial observations.
+• Any water that remains in the distillation unit is concentrated with minerals and metals, so dispose of it 
+carefully. This will help prevent solids from precipitating and may eliminate some solids that have already 
+precipitated. 
+• Cleaning frequency will depend on untreated water quality (especially water hardness) and the amount 
+of water being used. In some cases, the mineral deposits can be dissolved with pure water. In other cases, 
+the mineral built-up needs to be dissolved by dilute acid cleaners, such as lemon juice or white vinegar, 
+or a manufacturer’s cleaner in a heated condition. It is important to keep mineral buildup on the heating 
+element to a minimum, as it reduces heat transfer and results in higher energy costs.
+• Mineral buildup may also necessitate periodically replacing the heating element, although an individual 
+element should last approximately three years.
+Other considerations
+Distillation units require frequent cleaning and may be difficult to keep clean. Frequent maintenance 
+requirements and substantial electricity consumption should be major considerations when purchasing a distiller. 
+Power usage can be decreased in units with automatic shut-off devices.
+After installation, retest both the raw water (prior to treatment) and the treated water to ensure that it is working 
+properly and removing the contaminants. You should continue to test the quality of both the raw and treated 
+water annually or more frequently (quarterly or semiannually) if high levels of contaminants are present in 
+the raw water. Frequent testing will also help you determine how well your treatment system is working and 
+whether maintenance or replacement of components may be necessary. 
+What to look for when buying a distillation system
+Before purchasing, have your water tested to determine the contaminants present. Consider how much water 
+you need, how contaminated your water supply is, costs, and alternatives like bottled water to determine if 
+distillation is an effective treatment method for your situation. In addition, consider the following:
+• Capacity of the boiling tank
+• Type and size of the water-storage container
+• Rate at which distilled water is produced
+• Presence of automatic features
+• Location of unit for convenience of use and ease of maintenance
+• Wattage rating (650 to 1,500-plus watts)
+• Batch or continuous process mode of operation
+UGA Cooperative Extension Bulletin 1487  |  Household Water Treatment: Disinfection Methods and Devices
+12
+• Testing and certification by a third party (e.g., National Sanitation Foundation) to ensure 
+manufacturer’s claims
+• Whether water distillers (other than countertop units) have a drain opening to remove 
+contaminated water
+• Whether there are any special installation requirements that may add to the equipment cost, 
+such as changes to your household plumbing
+Disinfection equipment 
+Before purchasing a water treatment device, have your water tested to determine the contaminants present, 
+whether biological, organic or inorganic. For water testing information including sample collection and 
+submission, visit the AESL website for information on:
+• the testing fee schedule
+• total coliform and Escherichia coli in drinking water
+• Water analyses and how to collect a sample
+Water testing helps you determine whether the treatment system under consideration is an effective treatment 
+method for your situation. It is also important to get answers to a number of pertinent questions from the water 
+treatment company. For a set of such questions, see section 4.6 in University of Georgia Extension Bulletin 939, 
+Water Quality and Common Treatments for Private Drinking Water Systems.

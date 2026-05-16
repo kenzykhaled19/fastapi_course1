@@ -1,0 +1,157 @@
+Introduction
+Waterborne diseases are a risk for international travelers who visit countries where access to safe water, adequate sanitation, and proper hygiene is limited, and for wilderness visitors who rely on surface water in any country, including the United States. In both high-income and low- and middle-income countries, lack of safe drinking water is among the most immediate public health problems faced after natural disasters or in refugee camps. The list of potential waterborne pathogens includes bacteria, viruses, protozoa, and parasitic helminths.
+
+Most of the organisms that cause travelers' diarrhea can be waterborne as well as foodborne. Many types of bacteria and viruses can cause intestinal (i.e., enteric) infection through drinking water (see Post-Travel Diarrhea). Common waterborne protozoa include Cryptosporidium, Entamoeba histolytica (the cause of amebic dysentery), and Giardia. Parasitic worms are not commonly transmitted through drinking water, but drinking water is a potential means of transmission for some.
+
+International travelers may have no reliable resources to evaluate local water system quality. While substantial progress has been made in the past 20 years toward the goal of safe drinking water and sanitation worldwide, according to the World Health Organization/United Nations International Children's Emergency Fund (WHO/UNICEF), in 2021, 25% of the world population still lacks safely managed drinking water in their homes and 1.7 billion people lack access to basic sanitation services; this can result in high levels of microbes in the environment and water sources. Where treated tap water is available, aging or inadequate water treatment infrastructure might not effectively disinfect water or maintain water quality during distribution. Where untreated surface or well water is used, and no sanitation infrastructure exists, the risk for waterborne infection is high.
+
+All international travelers, especially long-term travelers and expatriates, should use one of the methods described in this chapter to ensure safe drinking water when using an untreated or questionably treated water source. Bottled water has become the convenient solution for most travelers, but in some places, bottled water might not be superior to tap water (see Food and Water Precautions for Travelers). Moreover, plastic bottles create an ecological problem.
+
+Water treatment and disinfection methods that can be applied in the field include heat, clarification, filtration, chemical disinfection, and ultraviolet (UV) irradiation. Several of these methods are scalable, and some can be improvised from local resources, allowing adaptation to disaster relief and refugee situations. Table 1.8.1 compares the advantages and disadvantages of the different methods. Additional information on water treatment and disinfection methods can be found at CDC's Water Treatment Options when Hiking, Camping, or Traveling website.
+
+Table 1.8.1: Comparison of water treatment and disinfection techniques
+Technique	Advantages	Disadvantages
+Heat	
+Does not impart additional taste, odor, or color
+Single step that inactivates all enteric pathogens
+Effectiveness is not compromised by contaminants or particles in the water
+Fuel sources may be scarce, expensive, or unavailable
+Does not improve taste, smell, or appearance of source water
+Does not prevent recontamination during storage
+Filtration	
+Simple to operate
+Requires no holding time for treatment
+Many commercial product designs
+Adds no unpleasant taste or odor; often improves taste and appearance of water
+Can be combined with chemical disinfection to increase microbe removal
+Some filter types may be bulky or heavy to carry
+Many filters do not reliably remove viruses
+More expensive than chemical treatment
+Filters eventually clog from suspended particulate matter, requiring replacement, maintenance, or repair
+Does not prevent recontamination during storage
+Chemical disinfection	
+Inexpensive and widely available in liquid or tablet form
+Resulting taste can be removed by simple techniques
+Flexible dosing
+Equally easy to treat large and small volumes
+Can provide short-term disinfectant residual for stored water
+Chlorine dioxide is more potent than equivalent doses of chlorine and effective against all waterborne pathogens, including Cryptosporidium
+Imparts taste, odor; iodine also imparts color to water
+Flexible dosing can be complicated to understand
+Iodine is physiologically active, with potential adverse effects
+Not readily effective against Cryptosporidium oocysts
+Effectiveness decreases with cloudy water
+Liquids are corrosive and stain clothing
+Chlorine dioxide tablets and drops require prolonged contact time of several hours and have no prolonged residual concentration
+Ultraviolet irradiation	
+Imparts no taste or odor
+Portable battery-operated devices now available
+Effective against all waterborne pathogens
+Extra doses of UV radiation can be used for added assurance and with no side effects
+Requires clear water
+Does not improve taste or appearance of water
+Relatively expensive (except solar disinfection [SODIS])
+Requires batteries or power source (except SODIS)
+Cannot know if devices are delivering required UV doses
+No persistent residual concentration, so does not prevent recontamination during storage
+Field techniques for water treatment and disinfection
+Heat
+Common intestinal pathogens are readily inactivated by heat. Microorganisms are killed in a shorter time at higher temperatures, but temperatures as low as 60°C (140°F) are effective when a longer contact time (30 min) is used. Pasteurization uses this principle to kill food-borne enteric pathogens and spoilage-causing organisms at temperatures between 60°C (140°F) and 70°C (158°F), well below the boiling point of water (100°C; 212°F).
+
+Boiling is not necessary to kill common intestinal pathogens, but boiling is the only easily recognizable end point that does not require a thermometer. All organisms that may cause illness from drinking water are killed within seconds at boiling temperature. In addition, the time required to heat water from 60°C (140°F) to boiling works toward heat disinfection. Any water brought to a boil should be adequately disinfected; however, CDC recommends that travelers boil water for a full minute to account for user variability in identifying boiling points and to add a margin of safety. If fuel is scarce, heat water until first sign of simmering (small bubbles rising from bottom), reduce or remove heat, and leave the container covered for 30 minutes.
+
+Although the boiling point for water decreases with increasing elevation, at common travel elevations the temperature needed to achieve boiling is still well above the temperature required to inactivate enteric pathogens. For example, at approximately 4,900 m (16,000 ft) elevation, the boiling temperature of water is approximately 83°C (182°F). In hot climates with sunshine, a water container placed in a simple reflective solar oven can reach pasteurization temperatures of approximately 65°C (150°F).
+
+Travelers with access to electricity can bring a small electric heating coil, and many hotels have electric water pots to brew tea or coffee. When possible, travelers should avoid using water from the hot water tap for drinking or food preparation because hot tap water can contain higher levels of metals like copper and lead that can leach from water heaters and pipes.
+
+Clarification
+Clarification refers to techniques that reduce the cloudiness (turbidity) of water caused by the presence of natural organic and inorganic material. Clarification can markedly improve both the appearance and taste of the water. Decreasing turbidity reduces microbiological contamination but not enough to ensure potable water. Clarification techniques also facilitate filtration or disinfection by chemical treatment.
+
+Coagulation and flocculation (C-F)
+Large particles like silt and sand will settle by gravity (i.e., sedimentation). Cloudiness due to dissolved substances or smaller particles that remain suspended in water can be improved by using chemical products that coagulate and flocculate (i.e., cause clumping), allowing the solids to settle to the bottom of the water container and to be more easily removed by filtration or by carefully pouring clear water off the top. This process removes many, but not all, microorganisms.
+
+Alum, an aluminum salt widely used in food, cosmetic, and medical applications, is the principal agent for C-F. Travelers should add 1.3 mL (one-fourth tsp) of alum powder to 0.95 L (1 qt) of cloudy water; stir frequently for a few minutes and add more powder as necessary until clumps form. Allow the clumped material to settle into the bottom of the container or rise to the top and then pour the water through a coffee filter or clean tight-weave cloth to remove the sediment. Since most, but not all, microbes are removed, travelers must use a second treatment step (e.g., filtration, chemical disinfection, or ultraviolet). Some commercially available tablets or powder packets combine a C-F agent with a chlorine chemical disinfectant.
+
+Filtration
+Portable hand-pump or gravity-drip filters with various designs and types of filter media are available widely. Filter pore size is the primary determinant of a filter's effectiveness (Figure 1.8.1). Manufacturers claiming a U.S. Environmental Protection Agency (EPA) designation of water "purifier" for their products must conduct their own testing to demonstrate their filters can remove at least 99.9999% of bacteria, 99.99% of viruses, and 99.9% of Cryptosporidium oocysts or Giardia cysts. The EPA does not independently test the validity of these claims.
+
+Filter pore size
+Most portable filters are microfilters with a pore size <1 µm, which should readily remove bacteria and protozoan parasites like Cryptosporidium and Giardia. Portable microfilters do not reliably remove enteric viruses (e.g., norovirus) that have an average size of 0.03 µm (Table 1.8.2). For areas with high levels of human activity in the watershed or in places with poor sanitation, travelers should use finer levels of filtration or other techniques to remove viruses.
+
+Table 1.8.2: Waterborne pathogens (average sizes) and filter pore size needed for their removal
+Waterborne Pathogen	Average Size (µm)	Filter Pore Size Needed (μM)	Filter class
+Viruses	0.03	Not specified (optimally ≤0.01)	Ultrafilter
+Enteric bacteria (e.g., Escherichia coli)	0.5 × 2–8	≤0.2–0.4	Microfilter
+Cryptosporidium oocysts	4–6	≤1	Microfilter
+Giardia cysts	8 × 19	≤3.0–5.0	Microfilter
+Helminth eggs	30 × 60	Not specified	Any
+Schistosome larvae	50 × 100	Not specified	Any
+If using a microfilter, travelers can treat water with chlorine to remove viruses. Progressively finer levels of filtration, known as ultrafiltration, nanofiltration, and reverse osmosis, all can remove viruses (Figure 1.8.1). Ultrafilters with pore size of 0.01 µm should be effective for removing viruses, bacteria, and parasites. Small portable ultrafilters are commercially available that use hollow-fiber technology and operate by gravity, hand-pump, or drink-through methods; however, these filters are both more costly and require greater pressures to push water through the filter, often at a slower rate.
+
+Figure 1.8.1: Water contaminants, particle sizes and filtration methods
+View LargerDownload
+A chart showing the size ranges of water contaminants (in micrometers, µm) and the filtration methods suitable for removing them. The x-axis represents size (logarithmic scale from 0.001 to 1000 µm), and the y-axis categorizes filtration methods and contaminants.
+Figure 1.8.1: Water contaminants, particle sizes and filtration methods
+SOURCE: Backer H. Field water disinfection. In, Auerbach, PS, Cushing, TA, & Harris, NS, editors (2017). Auerbach's wilderness medicine (7th ed., p. 1996). Elsevier, with permission.
+Show Text Description
+Activated charcoal, clay, sand, and gravel
+Many household and field filters include granular activated charcoal (GAC), which further treats water by adsorbing organic and inorganic chemicals—including chlorine compounds, iodine compounds, and most heavy metals—thereby improving odor, taste, and safety. GAC filters trap, but do not kill, microorganisms and they are generally not rated for microbe removal. In resource-limited international settings, communities and households might build effective filters made from ceramic clay or simple sand and gravel (i.e., slow sand or biosand).
+
+Chemical disinfection
+Halogens
+Chlorine compounds and iodine
+
+Chemical disinfectants for drinking water treatment, including chlorine compounds, iodine, and chlorine dioxide, are widely available as commercial products. Sodium hypochlorite, the active ingredient in common household bleach, has been used for over a century and is the primary disinfectant promoted by CDC and the World Health Organization (WHO). Other chlorine-containing compounds, available in granular or tablet formulations (e.g., calcium hypochlorite and sodium dichloroisocyanurate), can also be effective for water disinfection.
+
+An advantage of chemical water disinfection methods is that dosing based on water volume enables their use by individual travelers, small or large groups, or communities. In emergency situations or when other commercial chemical disinfection water treatment products are not available, household bleach can be used with dosing based on water volume and clarity.
+
+Given adequate concentrations and length of exposure (i.e., contact time), chlorine and iodine have similar activity and are effective against bacteria and viruses. Although Giardia cysts are more resistant than bacteria and viruses to chemical disinfection, field-level concentrations of chlorine and iodine are effective against this parasite when longer contact times are used.
+
+Another common protozoan parasite, Cryptosporidium, is poorly inactivated by chlorine- or iodine-based disinfection at practical concentrations, even with extended contact times. Chemical disinfection can be supplemented with filtration to remove these oocysts from drinking water.
+
+Cloudy water contains substances that neutralize chemical disinfectants and requires higher concentrations of or longer contact times with chemical disinfectants. To improve taste as well as effectiveness of disinfection, clarify cloudy water using settling, C-F, or filtration (described above) before adding the disinfectant.
+
+Because iodine has physiologic activity, WHO recommends limiting drinking iodine-disinfected water to a few weeks. People with unstable thyroid disease or known iodine allergy should not use iodine for chemical disinfection. In addition, pregnant women should not use iodine to disinfect water for prolonged periods of time because of potential adverse effects on the fetal thyroid. Advise pregnant travelers to use an alternative method of water disinfection (e.g., heat, chlorination, filtration).
+
+Taste preference for iodine over chlorine is individual; neither is particularly pleasant in doses recommended for field use. The taste of halogen-treated water can be improved by running the water through a filter containing GAC, by adding a pinch of powdered ascorbic acid (vitamin C), or by adding 5–10 drops of 3% hydrogen peroxide per quart (1 L; 32 oz) of water, then stirring or shaking, which can be repeated until the taste of chlorine or iodine is gone.
+
+Chlorine dioxide
+
+Chlorine dioxide (ClO2) kills waterborne pathogens, including Cryptosporidium oocysts, at practical doses and contact times. Several commercial ClO2 products are available in liquid or tablet form, but relatively few data are available on the use of these products for different water conditions.
+
+Silver and other products
+Silver ion has bactericidal effects in low doses and attractive features including lack of color, taste, and odor. Disadvantages are that silver ion concentration in water can be strongly affected by adsorption onto the surface of the container and that limited testing on viruses and cysts has been performed. Silver is widely used by European travelers as a drinking water disinfectant, but in the United States, silver is approved only for maintaining microbiologic quality of stored water. Silver is available alone or in an effective combination with chlorine in tablet formulation.
+
+Several other common products, including hydrogen peroxide, citrus juice, and potassium permanganate, have antibacterial effects in water and are marketed in commercial products for travelers. However, none has sufficient data to recommend them for water disinfection at low doses used in the field.
+
+Ultraviolet irradiation
+Ultraviolet radiation (UVR) kills bacteria, viruses, and both Giardia and Cryptosporidium oocysts in water. Efficacy depends on dose and exposure time. In the field, portable battery-operated units capable of delivering a metered, timed dose of UVR are an effective way to disinfect 1–2 L (or 1–2 qt) of clear water at a time. Because suspended particles can shield microorganisms from UVR, UV irradiation units have limited effectiveness in disinfecting water with high levels of suspended solids and turbidity. Larger units with water flowing through fixed UVR sources are available for use where a power source is available.
+
+Solar irradiation
+Using UVR from sunlight to irradiate water (i.e., solar disinfection or SODIS) can improve the microbiologic quality of water and can be used in austere emergency situations. Because natural UVR is also blocked by particles, travelers should clarify highly turbid water first. The optimal procedure is to use transparent bottles (e.g., clear plastic beverage bottles) laid on their side and exposed to sunlight for a minimum of 6 hours with intermittent agitation. Under cloudy weather conditions, water must be placed in the sunlight for 2 consecutive days. The Swiss Federal Institute of Aquatic Sciences and Technology provides more details on SODIS.
+
+Choosing a treatment or disinfection technique
+Table 1.8.1 summarizes advantages and disadvantages of field water disinfection techniques, and Table 1.8.3 provides effective techniques based on water source. Travelers can use a UVR-generating device or liquid bleach (1–2 drops per L [qt] of water) to disinfect tap water. Trekkers or campers might prefer to use filters rated to remove viruses or chlorine dioxide. Only reverse osmosis can desalinate water for ocean travel. Travelers should practice using treatment or disinfection methods before leaving for their destination.
+
+While using appropriate water treatment and disinfection methods can help protect travelers from waterborne diseases, travelers should be cognizant that prevention of diarrheal illness and other infections is promoted by the combination of using safe drinking water, proper hygiene, and adequate sanitation.
+
+Table 1.8.3: Water treatment and disinfection techniques depending on water source
+Water source	Primary concern	Effective disinfection techniquesa
+Wilderness water with little human or animal activity	Giardia, enteric bacteria	Any single step methodb
+Tap water in low-middle income region without well-developed WASH	Bacteria, Giardia, some viruses	Any single step method but ultrafiltration instead of microfiltrationb
+Clear surface water near human and animal activityc	All enteric pathogens, including Cryptosporidium	
+Heat, UVR
+Microfilter plus halogen (can be done in either order); ultrafiltration
+ 
+
+Cloudy surface water	All enteric pathogens plus poor taste, smell	CF followed by second step (heat, ultra-filtration, or halogen)
+Salt water (e.g., ocean voyages)	All microorganisms as well as salt	Reverse osmosis filtration
+Notes
+
+Abbreviations: CF: Coagulation-flocculation; UVR: Ultraviolet radiation; WASH: Water, sanitation, hygiene
+
+aIn resource-poor situations, techniques may include solar disinfection SODIS, solar pasteurization with a solar oven, locally available source of chlorine (household bleach), or locally fabricated filters (see references)
+
+bIncludes heat, UVR, filtration (microfilter), or halogens
+
+cIncludes agricultural run-off with cattle grazing or sewage treatment effluent from upstream villages or towns

@@ -1,0 +1,123 @@
+Antibiotic Treatment Guide for Waterborne Bacterial Infections
+
+Introduction
+Waterborne bacterial infections require prompt and accurate antibiotic selection to prevent progression to severe disease, bacteremia, and death. This guide covers the recommended antibiotic regimens for all major waterborne bacterial pathogens, including first-line treatments, alternatives, and guidance for drug-resistant strains. Antibiotic selection must always be confirmed by local susceptibility testing results, as resistance patterns vary by region and healthcare setting.
+
+General Principles of Antibiotic Use for Waterborne Infections
+
+1. Culture Before Treatment: Blood, urine, or stool cultures should be collected before starting antibiotics whenever possible, as results guide definitive therapy.
+2. Empirical vs Definitive Therapy: Empirical therapy is started before culture results and covers the most likely pathogens. Definitive therapy is narrowed once culture and sensitivity results confirm the causative organism.
+3. De-escalation: Broad-spectrum antibiotics should be narrowed to the most targeted effective agent as soon as sensitivity results are available.
+4. Local Resistance Patterns: Regional antibiogram data must guide empirical choices, as resistance rates differ dramatically between countries and healthcare facilities.
+
+Escherichia coli (E. coli)
+
+Uncomplicated Urinary Tract Infection:
+- First-line: Nitrofurantoin 100 mg twice daily for 5 days OR trimethoprim-sulfamethoxazole (TMP-SMX) 160/800 mg twice daily for 3 days
+- Alternative: Fosfomycin 3g single dose
+- Avoid fluoroquinolones for uncomplicated UTI (preserve for systemic infections)
+
+Complicated UTI / Pyelonephritis:
+- First-line: Ciprofloxacin 500 mg twice daily for 7–14 days (oral) or 400 mg IV twice daily (severe)
+- Alternative: Ceftriaxone 1–2g IV daily
+
+Gastroenteritis (ETEC — traveler's diarrhea):
+- Mild: Oral rehydration only
+- Moderate-severe: Azithromycin 500 mg daily for 3 days OR ciprofloxacin 500 mg twice daily for 3 days
+- Note: Antibiotics NOT recommended for E. coli O157:H7 (EHEC) — increases risk of HUS
+
+Bacteremia / Sepsis:
+- First-line: Ceftriaxone 2g IV every 24 hours (ESBL-negative strains)
+- ESBL-producing E. coli: Meropenem 1g IV every 8 hours
+- Duration: 14 days minimum
+
+Salmonella
+
+Non-typhoidal Salmonella Gastroenteritis (healthy adults):
+- Antibiotics NOT recommended — prolongs carrier state
+- Treatment: oral rehydration only
+
+Non-typhoidal Salmonella (high-risk patients — elderly, immunocompromised, infants):
+- First-line: Ciprofloxacin 500 mg twice daily for 5–7 days
+- Alternative: Azithromycin 500 mg daily for 3 days OR ceftriaxone 2g IV daily for 5 days
+
+Typhoid Fever (Salmonella Typhi):
+- Uncomplicated: Azithromycin 1g day 1, then 500 mg daily for 6 days
+- Severe: Ceftriaxone 2–4g IV daily for 10–14 days
+- XDR Typhoid (Pakistan strain): Azithromycin only oral option; meropenem for severe cases
+- Duration: 10–14 days
+
+Klebsiella pneumoniae
+
+Community-acquired Pneumonia (susceptible strain):
+- First-line: Ceftriaxone 1–2g IV daily for 7–10 days
+- Alternative: Respiratory fluoroquinolone (levofloxacin 750 mg daily)
+
+Hospital-acquired / Ventilator-associated Pneumonia:
+- First-line: Piperacillin-tazobactam 4.5g IV every 6 hours OR cefepime 2g every 8 hours
+- ESBL-producing Klebsiella: Meropenem 1–2g IV every 8 hours
+- Duration: 8–15 days
+
+Carbapenem-Resistant Klebsiella (CRK) — Critical Situation:
+- Ceftazidime-avibactam 2.5g IV every 8 hours (KPC-producing strains)
+- Meropenem-vaborbactam 4g IV every 8 hours
+- Colistin + meropenem combination (last resort)
+- Cefiderocol — newer siderophore cephalosporin for pan-resistant strains
+
+Pseudomonas aeruginosa
+
+Urinary Tract Infection:
+- Ciprofloxacin 500 mg twice daily for 7–10 days (if susceptible)
+- Ceftazidime 1–2g IV every 8 hours for catheter-associated UTI
+
+Pneumonia / VAP:
+- First-line: Piperacillin-tazobactam 4.5g IV every 6 hours OR cefepime 2g every 8 hours
+- Severe: Meropenem 1–2g IV every 8 hours ± aminoglycoside (tobramycin)
+
+MDR Pseudomonas:
+- Ceftolozane-tazobactam 3g IV every 8 hours — drug of choice for MDR Pseudomonas
+- Ceftazidime-avibactam — alternative for some resistance profiles
+- Imipenem-cilastatin-relebactam — approved for MDR Pseudomonas pneumonia
+- Duration: 10–21 days depending on severity
+
+Vibrio Species
+
+Vibrio cholerae (Cholera):
+- Rehydration is primary treatment
+- Doxycycline 300 mg single dose (adults) OR azithromycin 1g single dose
+- Children: azithromycin 20 mg/kg single dose
+
+Vibrio parahaemolyticus (Gastroenteritis):
+- Mild-moderate: rehydration only, self-limiting
+- Severe: ciprofloxacin 500 mg twice daily for 3 days OR doxycycline 100 mg twice daily for 3 days
+
+Vibrio vulnificus (Septicemia / Wound Infection) — Medical Emergency:
+- Ceftriaxone 2g IV every 12 hours PLUS doxycycline 100 mg IV every 12 hours
+- Alternative: ciprofloxacin 400 mg IV every 12 hours PLUS ceftriaxone
+- Duration: minimum 7–14 days; surgical debridement often required
+- ICU admission mandatory for septicemic cases
+
+Enterobacter Species
+
+Urinary Tract Infection:
+- First-line: Ciprofloxacin 500 mg twice daily for 7–14 days
+- IV: Cefepime 1–2g every 12 hours (avoid cephalosporins — AmpC induction risk)
+- AVOID: Ceftriaxone, ampicillin (intrinsic resistance)
+
+Pneumonia / Bacteremia:
+- Susceptible strains: Cefepime 2g IV every 8 hours OR piperacillin-tazobactam 4.5g every 6 hours
+- Severe infections: Meropenem 1–2g IV every 8 hours
+- Carbapenem-resistant Enterobacter (CRE): same approach as CRK — ceftazidime-avibactam, meropenem-vaborbactam
+
+Important note: AmpC induction
+Enterobacter is intrinsically capable of upregulating AmpC beta-lactamase production during cephalosporin treatment, causing treatment failure even in initially susceptible strains. This is why cefepime (a cephalosporin stable to AmpC) or carbapenems are preferred over ceftriaxone for serious Enterobacter infections.
+
+Duration: 14 days for bacteremia; 10–14 days for pneumonia
+
+Antibiotic Stewardship Summary
+- Use the narrowest effective antibiotic
+- Always obtain cultures before starting antibiotics
+- De-escalate from broad to narrow spectrum when culture results available
+- Reserve carbapenems for confirmed ESBL or resistant organisms
+- Report all suspected treatment failures to infectious disease specialists
+- Follow local antibiogram data for empirical therapy guidance

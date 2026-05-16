@@ -1,0 +1,68 @@
+ Water Treatment and Disinfection Methods for Salmonella Elimination
+
+ Introduction
+ Eliminating Salmonella from drinking water requires a multi-barrier approach combining physical removal, chemical disinfection, and continuous monitoring. Salmonella, being a non-spore-forming gram-negative bacterium, is generally more susceptible to standard water treatment methods than protozoan parasites, but effective treatment still requires proper dosing and contact time.
+
+ Physical Removal Methods
+
+ 1. Coagulation and Flocculation
+ The first stage in conventional water treatment. Chemicals such as aluminum sulfate (alum) or ferric chloride are added to water, causing suspended particles — including bacteria — to clump together into larger masses called flocs. Salmonella attached to organic particles is effectively captured in this process.
+
+ Removal efficiency: 90–99% of bacteria including Salmonella.
+
+ 2. Sedimentation
+ Flocs formed during coagulation settle to the bottom of sedimentation tanks under gravity. This step removes the bulk of suspended solids and associated bacteria before filtration.
+
+ 3. Filtration
+ Rapid sand filtration passes water through layers of sand and gravel, physically straining out remaining particles and bacteria. Slow sand filtration additionally develops a biological layer (schmutzdecke) on the sand surface that actively degrades pathogens including Salmonella.
+
+ Removal efficiency: 99–99.9% of Salmonella when combined with coagulation and sedimentation.
+
+ 4. Membrane Filtration
+ Ultrafiltration (UF) membranes with pore sizes of 0.01–0.1 micrometers effectively remove all bacteria including Salmonella. Nanofiltration and reverse osmosis provide even higher removal but are more expensive and energy-intensive.
+
+ Chemical Disinfection Methods
+
+ 1. Chlorination
+ The most widely used disinfection method globally. Free chlorine (hypochlorous acid, HOCl) disrupts Salmonella cell membranes and inactivates essential enzymes, killing the bacterium rapidly.
+
+ CT values for 99% inactivation of Salmonella at pH 7, 20°C:
+- Free chlorine: CT = 0.06 mg·min/L
+- This means a residual of 0.2 mg/L chlorine with 18 seconds contact time achieves 99% kill
+
+ WHO recommended residual chlorine in distribution systems: 0.2–0.5 mg/L
+
+ Salmonella is significantly more susceptible to chlorine than Giardia cysts or Cryptosporidium oocysts, making standard chlorination highly effective.
+
+ 2. Chloramine Disinfection
+ Chloramines (formed by combining chlorine with ammonia) are less reactive than free chlorine but provide a more stable residual in distribution systems. They are less effective against Salmonella than free chlorine, requiring longer contact times, but are used to reduce trihalomethane (THM) disinfection byproduct formation.
+ 
+ CT value for 99% Salmonella inactivation with chloramine: CT = 113 mg·min/L (much higher than free chlorine).
+
+ 3. Ultraviolet (UV) Disinfection
+ UV light at 254 nm wavelength damages Salmonella DNA, preventing replication. UV is highly effective against Salmonella and does not produce chemical disinfection byproducts.
+
+ UV dose for 99.99% (4-log) inactivation of Salmonella: 5–10 mJ/cm²
+ Standard treatment plants typically deliver 40 mJ/cm² — well above the required dose.
+
+ 4. Ozonation
+ Ozone (O₃) is a powerful oxidant that destroys Salmonella by attacking cell walls and oxidizing intracellular components. It is more effective than chlorine at equivalent doses and also eliminates taste and odor compounds.
+
+ CT value for 99% Salmonella inactivation with ozone at pH 7: CT = 0.02 mg·min/L
+
+ Ozone decomposes rapidly and provides no residual protection in distribution systems, so it is always combined with chlorination.
+ 
+ Point-of-Use Treatment
+ In areas without centralized treatment:
+- Boiling water for 1 minute kills all Salmonella (thermally sensitive above 70°C)
+- Sodium hypochlorite solution (household bleach): 2 drops per liter, 30 minutes contact
+- Ceramic pot filters: 99.9% Salmonella removal
+- Solar disinfection (SODIS): 6 hours in clear plastic bottles under direct sunlight
+
+ Monitoring and Verification
+ Post-treatment water quality is verified using:
+- Heterotrophic plate count (HPC) as general indicator
+- Total coliform and E. coli testing as fecal contamination indicators
+- Salmonella-specific PCR testing for high-risk situations (outbreak investigation)
+
+ WHO guidelines require zero Salmonella detectable per 100 mL of treated drinking water.

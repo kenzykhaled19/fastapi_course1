@@ -1,0 +1,20 @@
+
+Chlorine Derivatives
+
+| No. | Product Name | Molecular Formula | Product Application Field | Main Raw Material |
+|-----|--------------|------------------|----------------------------|------------------|
+| 1 | Bleaching powder concentrated | Ca(ClO)2 | Mainly used for bleaching the cotton fabric and fibers, linen fabrics, pulp and so on. Widely used in drinking water purification, water swimming pool, living water breeding and sewage disinfection and sterilization. Also used for manufacturing chemical toxicity and radioactive disinfectant. | Ca(OH)2, Cl2 |
+| 2 | Calcium chloride | CaCl2 | Can be used as food additives, drying agent, antifogging agent, snow-melting agent and oil gas, petroleum field, drilling and well completion fluid. | CaCO3, HCL |
+| 3 | Poly Aluminium Chloride | PAC | Mainly used for water treatment, function as water purifying agent, flocculant, coagulant. | Al(OH)3 / Bauxite / Kaolin Clay / Calcium aluminate / HCL |
+| 4 | Chlorinated paraffin | C15H26Cl6 | Used as plasticizer for industries like plastic, rubber, fiber etc.; also used as paint for fabric and packing material. | Liquid wax, Cl2 |
+| 5 | Strong chlorine | TCCA, SDIC / DCCNA | High bactericidal performance, widely used in drinking water disinfection, swimming pool, restaurant, hotel, public place and epidemic prevention. | Cyanuric acid / Urea, Cl2 |
+| 6 | Sodium Chlorite | NaClO2 | Mainly used for cotton, linen, acrylic and wood pulp bleaching; also water disinfection and medicine manufacture. | NaClO3, H2SO4, NaOH, H2O2 |
+| 7 | Barium chloride | BaCl2 | Used in producing alkalis of barium salt, pigment including barium, insecticide and so on. | BaCO3 / BaSO4, HCL |
+| 8 | Trichloroethane | SiHCl3 | Used for silicon organic compounds production; also main raw material for manufacturing polycrystalline silicon. | Si, HCL |
+| 9 | ADC foaming agent | Azo di-carbon amide | Used for foaming in slipper, shoe sole, wallpaper, ceiling, floor leather and insulation materials. | NaOH, Urea, Cl2 |
+| 10 | Ferric trichloride | FeCl3 | Used as etching agent for drilling well and water agent; mordant for dye industry and catalyst in organic synthesis. | Fe, HCL, Cl2 |
+| 11 | Chloroacetic acid | MCA | Used in manufacturing CMC, PVC and herbicides. | Acetic acid, Acetic anhydride |
+| 12 | Chlorinated polyvinyl chloride | CPVC | New type of chemical materials with high performance, widely used in piping, electrical engineering and medicine. | PVC, NaOH, Cl2 |
+| 13 | Polyvinyl chloride | PVC | Second largest synthetic resin material in the world. | CaC2, HCL |
+| 14 | Sodium carboxymethyl cellulose | CMC | Used as thickening agent, stabilizing agent, emulsifying agent and drilling additive. | Refined cotton / wood pulp / MCA / NaOH |
+| 15 | Epoxy chloropropane | C3H5ClO | Mainly used for producing fine chemicals like epoxy resin and synthetic glycerine. | C3H6, NaOH, Cl2 |

@@ -1,0 +1,101 @@
+WHO Guidelines for Drinking Water Quality: Overview of Treatment Standards and Microbial Safety
+
+The World Health Organization (WHO) Guidelines for Drinking Water Quality (GDWQ), currently in its 4th edition with 2022 addendum, provide the scientific basis for setting national standards and regulations to ensure safe drinking water. Microbial contamination represents the greatest risk to drinking water safety globally, responsible for an estimated 502,000 diarrheal deaths and millions of additional cases of illness per year.
+
+## 1. Core Principles of Safe Drinking Water
+
+The WHO framework is built on three pillars:
+
+### Health-Based Targets
+- Drinking water should not contain any microbial pathogen at a concentration that presents an unacceptable risk to health.
+- The reference risk level is 10^-6 disability-adjusted life years (DALYs) per person per year — equivalent to approximately 1 in 1 million risk of serious illness.
+
+### Water Safety Plans (WSPs)
+The primary management tool for ensuring drinking water quality:
+
+1. **System assessment:** Understand the entire water supply chain from catchment to consumer.
+2. **Identify hazards:** Determine what can go wrong at each step.
+3. **Control measures:** Implement barriers to prevent or reduce hazard occurrence.
+4. **Monitoring:** Verify that controls are working.
+5. **Corrective actions:** Response plan when monitoring indicates failure.
+6. **Management and communication:** Documented procedures and regular review.
+
+### Surveillance
+Independent monitoring by health authorities to verify that WSPs are effective and water is safe.
+
+## 2. Key Microbial Standards
+
+### Indicator Organisms
+WHO recommends testing for indicator organisms rather than individual pathogens (which would be impractical) because pathogens are present in very low concentrations even in contaminated water:
+
+| **Indicator** | **Standard** | **What it Indicates** |
+| --- | --- | --- |
+| E. coli | 0 CFU/100 mL | Fecal contamination; potential presence of enteric pathogens |
+| Enterococci | 0 CFU/100 mL | Fecal contamination; more resistant to chlorine than E. coli |
+| Total Coliforms | 0 CFU/100 mL | Treatment effectiveness; presence of warm-environment bacteria |
+| Clostridium perfringens | 0 CFU/100 mL | Fecal contamination; indicates possible protozoan presence |
+
+### For Recreational Water (WHO, 2021):
+- **Enterococci (marine):** < 100 CFU/100 mL (good quality)
+- **E. coli (freshwater):** < 100 CFU/100 mL (good quality)
+- **Pseudomonas aeruginosa (pools):** < 1 CFU/100 mL
+
+## 3. Treatment Technologies and Log Reduction Requirements
+
+WHO specifies minimum log reduction (LR) targets for pathogens in treated water:
+
+| **Pathogen Group** | **Required Log Reduction** | **Reference Pathogen** |
+| --- | --- | --- |
+| Bacteria | 6-log (99.9999%) | Campylobacter jejuni |
+| Viruses | 6-log (99.9999%) | Rotavirus |
+| Protozoa | 4-log (99.99%) | Cryptosporidium parvum |
+
+Standard multi-barrier treatment achieves these targets:
+
+- **Coagulation + Flocculation + Sedimentation:** 2-3 log bacteria removal
+- **Rapid Sand Filtration:** 1-2 log bacteria removal
+- **Slow Sand Filtration:** 2-4 log bacteria removal (including some viruses)
+- **Chlorination (0.5 mg/L, 30 min, pH < 8):** 3+ log bacteria inactivation; 4+ log virus inactivation
+- **UV (40 mJ/cm²):** 4+ log bacteria and virus inactivation; effective against Cryptosporidium
+
+## 4. Chemical Disinfectants: WHO Maximum Guideline Values
+
+| **Disinfectant** | **WHO Guideline Value** | **Primary Use** |
+| --- | --- | --- |
+| Free Chlorine | Maximum 5 mg/L | Primary and residual disinfection |
+| Chloramine | Maximum 3 mg/L | Residual disinfection in distribution |
+| Chlorine Dioxide | Maximum 0.8 mg/L | Primary disinfection; biofilm control |
+| Ozone | No guideline (used as pre-treatment; residual negligible) | Pre-oxidation; primary disinfection |
+| Monochloramine | Maximum 3 mg/L | Long-distance distribution systems |
+
+## 5. Special Situations Requiring Enhanced Treatment
+
+### Emergency Water Treatment
+When infrastructure is disrupted (natural disasters, conflict, outbreak):
+
+1. **Settling:** Allow suspended particles to settle for 1 hour.
+2. **Filtration:** Pour water through multiple layers of clean cloth.
+3. **Disinfection:** Add 2 drops of household bleach (0.5% NaOCl) per liter; wait 30 minutes.
+4. **Verification:** Water should have faint chlorine smell; if not, repeat dose and wait 15 more minutes.
+
+### Groundwater Treatment
+Groundwater (wells, boreholes) is generally more protected than surface water but still requires:
+
+- Regular bacteriological testing (at least quarterly).
+- Well head protection to prevent surface water intrusion.
+- Chlorination if coliform contamination is detected.
+
+### Small Community Systems
+For communities with fewer than 500 people and limited infrastructure:
+
+- Biosand filters combined with solar disinfection (SODIS).
+- Ceramic pot filters with colloidal silver.
+- Chlorination tablets (1 NaDCC tablet per 10 liters).
+
+## 6. Global Burden and Sustainable Development Goals
+
+- **SDG 6.1:** By 2030, achieve universal and equitable access to safe and affordable drinking water for all.
+- Currently (2022 WHO/UNICEF JMP data): 2.2 billion people still lack safely managed drinking water.
+- Waterborne diarrheal disease remains the 2nd leading cause of death in children under 5 globally.
+- Bacterial waterborne pathogens (E. coli, Salmonella, Shigella, Vibrio) account for the majority of this burden.
+- Climate change is increasing the frequency and severity of water contamination events through flooding, drought, and rising water temperatures.

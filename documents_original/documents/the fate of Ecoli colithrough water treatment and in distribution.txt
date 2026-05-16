@@ -1,0 +1,271 @@
+The fate of Escherichia colithrough water treatment and indistribution
+1. SUMMARY
+The removal of E. colibacteria at each stage of water treatment is presented, showing how the filtration stages contribute most to reduction of bacterial numbers in the water.
+ At treatment works without filtration stages, the emphasis
+ is put on catchment management to limit contamination of
+ the raw water and ensure that the numbers of viable E. coli
+ in the source water remain low. Routine monitoring of the
+ raw water provides data on seasonal trends in numbers of
+ E. colibacteria and allows effective management of supply.
+ In the UK there is no evidence that E. coligrows in the
+ water distribution system, whether in the planktonic stage
+ or within biofilms (O'Neill et al. 1997). The detection of E.coli in the distribution system is rare and prompts a thorough investigation. Repeat samples are taken from the
+ point which originally failed, along with a number of
+ hydraulically linked samples including samples from
+ hydrants. The response to the detection of E. coli is discussed.
+ A series of experiments carried out on a pilot pipe system is briefly described and the results discussed in relation
+ to the routine samples taken in the Thames Water Supply area.
+2. INTRODUCTION
+ The coliform group of organisms, and more specifically Escherichia coli, have been used as indicators of water quality almost since they were proposed by Escherich in 1885,
+ that the absence of these organisms is
+ evidence of the absence of waterborne pathogens.
+ The Water Supply (Water Quality) Regulations (1989)
+ set the standard that water supplied for human consumption should not contain any E. coli bacteria in 100 ml of
+ water. The regulations also specify sampling requirements;
+ at the point that the water enters supply from the treatment works and at treated water reservoirs and at customers taps in distribution.
+In the UK, improvements in treatment processes have
+ ensured that the water entering distribution generally has
+ no detectable coliforms. Since 1991, the frequency of E.coli failures in water samples taken at customers taps hasdecreased 10fold (Table 1) (DWI 1998).
+ Ingress of contaminated water into the distribution system is most likely to occur when the integrity of a pipe is
+ breached, for example during work on mains or due to
+ damage to pipes which may not be detected immediately.
+ Ingress can also occur where the structure of service reservoirs is breached.
+3. REMOVAL OF E. COLI DURING
+ TREATMENT
+ 3.1. Surface water works
+ Surface water from direct river abstraction or after reservoir storage can be treated by a number of different processes. In the Thames region the majority of surface water
+ is treated by storage in open reservoirs followed by a combination of ozonation and filtration stages. Figure 1 shows
+ typical data for the number of E. coli in the raw water
+(expressed as the 10glO E. coli per litre sample). The
+©2000 The Society for Applied Microbiology 88, 117S-123S
+118S S.M. MCMATH AND D.M. HOLT
+Table1 E. colifailures ex-works 1991-98 (Thames region)
+Year
+% samplescontaining E. coli
+Month
+Fig.1 Numbers of Escherichia coliin water supplying surface
+ water treatment works
+ seasonal vanation is evident; higher numbers of E. coli
+ generally coincide with the months of higher rainfall.
+ There have been a number of studies that demonstrate
+ the removal of E. coli through a multistage treatment
+ works. Individual processes vary in their efficiency of
+ removal. In some instances there may be a net increase
+ across a treatment process due to proliferation or capture
+ and then delayed release ofbacteria.
+ Research carried out at Kempton Park Advanced Water
+ Treatment centre showed that when coliforms and E. coli
+ are present in the influent to the GAC adsorbers they can
+ be retained and then shed over a period of several days
+ (Holt 1993).
+ The process diagram (Fig. 2) shows how E. colibacteria
+ are removed through a multistage water treatment works
+ which receives water from the river Thames via storage
+ reservoirs. There are two streams, the first consisting of
+ pre-ozonation, rapid gravity filters followed by main ozonation and then three parallel slow sand filters. Stream 2 consisted of rapid gravity filters, ozonation, granular activated
+ carbon (GAC) filters and then three parallel slow sand filters. The water from both streams were then disinfected using chlorination with postammoniation. For stream I, it can be seen that the main ozonation and slow sand filter
+ stages result in the highest reduction in numbers of viable
+ E. colibacteria. For stream 2 it can be seen that the GAC
+ filters have the biggest impact on E. coli numbers. For both
+ streams viable E. coliwere not detected after chlorination.
+ Chemical disinfection procedures used in the Water
+ Industry were originally devised on a basis of sufficient
+ chlorine contact to ensure the elimination of resistant
+ organisms such as Coxsacckie A virus. This ensured that
+ more susceptible pathogens would be killed during chemical disinfection. Whilst certain strains of E. coli are more
+ susceptible to disinfection than Coxsacckie A viruses, it
+ provides a relatively simple inexpensive tool. This, together
+ with the measurement of chlorine residuals and mainte
+ nance of adequate disinfection contact times, provides a
+ robust process monitoring system for ensuring the effectiveness ofchemical disinfection ofdrinking water.
+3.2. Groundwater sites
+ At groundwater sites the main strategy to ensure that
+ strains of E. coli (and other pathogens) do not enter the
+ raw water supply is to protect the source. This involves
+ ensuring that the boreholes are integrally sound and that
+ there is no possibility for the ingress of contaminated
+ water, for example during periods of heavy rainfall. The
+ areas around the boreholes are physically protected to pre
+ vent the grazing of farm animals or walking of dogs over
+ the site. Raw water quality is monitored routinely for viable
+ E. coli and trigger levels (e.g. 10 E. coli 100ml-1 in a raw
+ water sample) are set, above which the works will be run to
+ waste to prevent the water entering supply. Risk assessments are carried out to determine the frequency of monitoring required.
+All groundwater sources are also chemically disinfected
+ with a sufficient chlorine residual and contact time to eliminate bacterial and viral pathogens.
+4. FATE OF E. COLI IN DISTRIBUTION
+SYSTEMS
+ There has been much work reported on the fate of water
+ borne organisms artificially introduced into experimental
+ systems, with often conflicting results (Camper et al. 1991,
+ 1998; Fass et al. 1996; Block et al. 1997; Wiedenmann et al.
+ 1997; Sibelle et al. 1998). Some workers have postulated
+ that E. coli could grow in the distribution system within
+ 13652672, 2000, S1, Downloaded from https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2672.2000.tb05339.x by Egyptian National Sti. Network (Enstinet), Wiley Online Library on [10/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ ©2000 The Society for Applied Microbiology, Journal ofAppliedMicrobiology Symposium Supplement88, 1178-1238
+ FATE OF E. COLliN TREATED WATER 1195
+ STREAM 1
+4
+Fig.2 Removal of Escherichia coliby
+ Advanced Biological Filtration (trial 2).
+ Numbers in boxes are average numbers of
+ E. coli1-1 using one years data. SSF, Slow
+ sand filters; GAC, Granlular Activated Carbon biofilms on the pipe walls (Block et al. 1997), whilst other have suggested biofilms as a source of environmental coli
+ forms in distribution (Baylis 1930; Hudson et al. 1983;
+ Wierenga 1985; LeChevallier et al. 1996). However, these
+ studies are small scale and, whilst valuable for increasing
+ understanding of the factors governing growth of coliform
+ bacteria, they cannot create the conditions found in distribution systems. There is no convincing published evidence
+ that E. coli can grow within drinking water systems in the
+ UK.
+ For the purposes of water quality monitoring, the distribution system is divided into water supply zones. Samples
+ are taken in each water supply zone at a frequency determined by the population within the zone. All the regulatory samples taken in distribution are taken from
+ customers' taps.
+ If a water sample from a customer's tap contains viable
+ E. coli bacteria then the customer is advised to boil their
+ water before drinking, the local health authority are
+ informed and repeat samples are taken from the tap which
+ failed, an associated hydrant of the feeding main and 2-5
+ hydraulically linked samples from other properties in the
+ vicinity. Swabs are also taken of the inside of the customers
+ taps. These repeat samples are analysed for a number of
+ microorganisms in addition to the total number of coliform
+ bacteria and E. coli and may include salmonellas, campylo
+ bacters, viruses and pseudomonads. If all the repeat samples are clear then the boil notice is lifted and no further action is taken. If the swab taken from the customer's tap
+ fails, then the failure can be attributed to the customer's
+ internal plumbing and the local environmental health officer is informed. In the extremely rare event that any of the
+ hydraulically linked samples fail, then a boil order may be
+ put on the water pressure area that may encompass more
+ than one water supply zone, further samples taken and
+ hydraulic models used to identify the possible source of the
+ contamination.
+ 5. PIPE-RIG EXPERIMENTS
+ This work was undertaken to investigate the fate of coli
+ form bacteria in a 1·3-km long drinking water distribution
+ system after the introduction of tertiary treated sewage effluent (i.e. to simulate a contamination event). The
+organisms were introduced into the main body of water
+and into a 'dead-end' in the system.
+5.1. Experimental pipe-rig
+ The pipe-rig at Kempton Park Advanced Water Treatment
+ Centre is a 1·3-km long pipe system with an internal diameter of 110mm that was purpose built for studying the
+ effects of microbial growth on water quality in distribution
+ systems. The pipe-rig is described in a number of papers
+ (Holt 1993 and McMath et at. 1997a, b) and a schematic is
+ presented in Fig. 3. It is generally operated under low flow
+ Water supply
+ Waste
+ + t
+ conditions (0·081s-I) to simulate the conditions at the far
+ reaches of a distribution system. Low levels of chloramine
+ were maintained throughout the pipe-rig during these
+ experiments.
+ 5.2. Coliform inoculum
+ Effluent from one of Thames Water's sewage treatment
+ works receiving only domestic wastewater was used in
+ these experiments. Processes at the treatment works
+ include primary screening, secondary treatment provided
+ by trickling filters and tertiary lagoons.
+ The effluent from these lagoons discharges into a small
+ stream, of which the effluent is the bulk of the flow. This contains coliforms adapted to low temperatures and relatively low nutrient levels in a water environment. The annual average total number of coliform bacteria, for the
+ tertiary effluent, was 9·6 x 104 coliforms ml-I , with an
+ average of 3·0 x 103 faecal coliforms ml-I .
+5.3. Jar tests
+ A series of jar tests was carried out to determine the survi
+ val time of the effluent coliforms in pipe-rig water at 9°C
+ and 15°C. The lower water temperature is the average
+ water temperature in the distribution system in the winter
+ months in the Thames region, whilst the higher tempera
+ ture represents the water temperature in early summer.
+ These experiments were carried out on the same day as the
+ direct inoculation experiments (see Section 5.4). Aliquots
+ of the effiuent were mixed in sterile sample bottles with
+ pipe-rig water to give effiuent concentrations of 1% and
+ 10% for the lower temperature experiment and 1%, 5%
+ and 10% at for the higher temperature experiment. These
+ concentrations are similar to those expected in a plug flow
+ of inoculum injected into the pipe-rig, as in the experiment
+ described in Section 5.4. At predetermined time intervals,
+ sodium thiosulphate tablets (0·05%) were added to the bottles to neutralize the chlorine residual, the samples refrigerated and analysed for total coliforms including E. coliusing
+ a commercial kit, Colilert (IDEXX Laboratories Limited;
+ Chalfont St Peter).
+ The results of the experiments carried out at the higher
+ temperature are shown in Fig. 4, and show that E. colisurvive for the first six hours. There were no viable E. coli
+ detected in any of the bottles left for more than 6h.
+ 5.4. Direct inoculation experiments
+ A 25 litre aliquot of effiuent (imitating an ingress event)
+ was injected into the experimental pipe-rig at a point 400m along its length. One litre water samples were taken at
+ the next sample point, 400m downstream of the inoculation point, starting 12h after inoculation. The experiment
+ was carried out when the water temperature was 9°C and
+ again when the water temperature reached 15°C. The samples were analysed both using the Colilert method, as for
+ the jar test samples, and using a standard membrane filtration method using membrane lauryl sulphate (MLS)
+ method (filtration onto a 0·45-Jim membrane which is
+ placed on a sterile pad soaked in the MLS broth and then
+ incubated at 37°C for 24h).
+ In the 9°C experiment, a 25 litre aliquot of a solution of
+ 1% lithium chloride (BDH) was injected into the experi
+ mental pipe-rig 10min after the inoculation of the effiuent.
+ The water was then sampled for a period 12-24 h after
+ inoculation, to determine the approximate time taken for
+ the aliquot of effiuent to travel from the inoculation point
+ to the sample point 400m downstream. Theoretical travel
+ time is estimated at 15h.
+ Strains of E. coliand other coliforms were not detected
+ in any of the samples taken downstream of the inoculation
+ point.
+ 5.5. Dead-end experiments
+ The bypass section at 900m along the length of the experi
+ mental pipe-rig, was initially isolated for 25d to allow
+ development of a biofilm on the pipe walls. The pipe-rig
+ water was drained and tertiary effiuent (see Section 5.2)
+ pumped into the bypass section in order to investigate the
+ survival of coliforms under zero flow conditions of a distri
+ bution system, i.e. in a dead-end. Numbers of viable coli
+ form bacteria and E. coli in effiuent samples from the
+ bypass section were then monitored three times a week
+ until they reached a consistent low level (three consecutive
+ samples with < 2 viable coliform bacteria ml-1 ), when the
+ water flow from the main rig was directed through the
+ bypass. This introduced the effiuent into the main rig and
+ sloughed off any biofilm present on the pipe walls. The
+ fate of any coliforms adapted to growth under zero flow
+ and on pipe walls was then studied over time. One litre
+ water samples were taken 1m and 400m downstream of
+ the bypass and analysed for total coliforms (using a standard membrane filtration method) for a period of 30d.
+ These experiments were carried out with water temperature ranges of 6-9°C (winter temperatures) and 17-22°C
+ (summer temperatures).
+ Figure 5 shows the survival of coliforms and E. coli in
+ the bypass (dead-end) over a 32-d period. The numbers of
+ E. coliin the dead-end decreased by a factor of 104 in the
+ first 2 d. After 5 d the numbers had decreased to 1 E. coli
+ 100ml-l, with no E. coli detected after this time. Other
+ coliform bacteria survived for 32d at the higher temperature. Coliform bacteria were not detected in any of the
+ samples taken after the bypass water had been released into
+ the main pipe-rig. This indicates that E. coli and other coli
+ forms had not grown within the biofilm on the pipe surface
+ under favourable distribution system conditions.
+ 5.6. Biofilm sloughing experiment
+ One week following the second bypass experiment the flow
+ rate in the main pipe-rig was increased 12 times, to establish if coliforms were present in sediments or in biofilm on
+ Fig.5 Coliform and Escherichiacoli survival in dead-end. (.)
+ total coliforms, (0) E. coli and (0) temperature
+ the pipe wall. Previous experiments on the experimental
+ pipe-rig have shown that a flow rate increase of 10 times
+ the baseline flow will cause the re-entrainment of sediment
+ and biofilm into the water (McMath et al. 1997b).
+ Before the flow rate was returned to normal, the pipe-rig
+ water was directed from the main pipe-rig into the bypass
+ section at a flow rate of 41 sec-I. One litre samples were
+ taken 1m and 400m downstream of the point where the
+ bypass water enters the main pipe-rig and analysed for coli
+ forms and E. coli using the standard membrane filtration
+ method.
+ Coliform bacteria were not detected in any of the water
+ samples analysed indicating that they were unable to colonize and proliferate in biofilms on the pipe wall.
+6. DISCUSSION AND CONCLUSION
+ There is a substantial base of research which shows that
+ strains ofE. coli are removed by water treatment processes
+ and this organism is a simple and useful measure of micro bial process removal efficiency.
+ The studies on a large scale pilot distribution system
+(1·3 km) show that E. coli can survive for several d in a
+ dead-end section of the distribution, but does not proliferate within a biofilm. As E. coli bacteria appear not to proliferate within biofilms and have limited survival within
+ distribution systems, it serves as a valuable indicator offaecal contamination for drinking water supplies.

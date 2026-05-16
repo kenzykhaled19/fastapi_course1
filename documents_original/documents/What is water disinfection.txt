@@ -1,0 +1,42 @@
+What is water disinfection?
+Water disinfection
+
+What is water disinfection?
+
+Water disinfection means the removal, deactivation or killing of pathogenic microorganisms. Microorganisms are destroyed or deactivated, resulting in termination of growth and reproduction. When microorganisms are not removed from drinking water, drinking water usage will cause people to fall ill.
+Sterilization is a process related to disinfection. However, during the sterilization process all present microorganisms are killed, both harmful and harmless microorganisms.
+
+Media
+Disinfection can be attained by means of physical or chemical disinfectants. The agents also remove organic contaminants from water, which serve as nutrients or shelters for microorganisms. Disinfectants should not only kill microorganisms. Disinfectants must also have a residual effect, which means that they remain active in the water after disinfection. A disinfectant should prevent pathogenic microorganisms from growing in the plumbing after disinfection, causing the water te be recontaminated.
+
+For chemical disinfection of water the following disinfectants can be used:
+- Chlorine (Cl2)
+- Chlorine dioxide (ClO2)
+- Hypo chlorite (OCl-)
+- Ozone (O3)
+- Halogens: bromine (Br2), iodene (I)
+- Bromine chloride (BrCl)
+- Metals: copper (Cu2+), silver (Ag+)
+- Kaliumpermanganate (KMnO4)
+- Fenols
+- Alcohols
+- Soaps and detergents
+- Kwartair ammonium salts
+- Hydrogen peroxide
+- Several acids and bases
+
+For physical disinfection of water the following disinfectants can be used:
+- Ultraviolet light (UV)
+- Electronic radiation
+- Gamma rays
+- Sounds
+- Heat
+
+How does disinfection work?
+
+Chemical inactivation of microbiological contamination in natural or untreated water is usually one of the final steps to reduce pathogenic microorganisms in drinking water. Combinations of water purification steps (oxidation, coagulation, settling, disinfection, filtration) cause (drinking) water to be safe after production. As an extra measure many countries apply a second disinfection step at the end of the water purification process, in order to protect the water from microbiological contamination in the water distribution system. Usually one uses a different kind of disinfectant from the one earlier in the process, during this disinfection process. The secundairy disinfection makes sure that bacteria will not multiply in the water during distribution. Bacteria can remain in the water after the first disinfection step or can end up in the water during backflushing of contaminated water (which can contain groundwater bacteria as a result of cracks in the plumbing).
+
+Disinfection mechanism
+
+Disinfection commonly takes place because of cell wall corrosion in the cells of microorganisms, or changes in cell permeability, protoplasm or enzyme activity (because of a structural change in enzymes). These disturbances in cell activity cause microorganisms to no longer be able to multiply. This will cause the microorganisms to die out. Oxidizing disinfectants also demolish organic matter in the water, causing a lack of nutrients.
+More information about the effects of detergent pollution in freshwater ecosystems

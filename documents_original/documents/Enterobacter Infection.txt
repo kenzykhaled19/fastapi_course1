@@ -1,0 +1,930 @@
+Overview
+Practice Essentials
+Enterobacter infections can include bacteremia, lower respiratory tract infections, skin and soft tissue infections, urinary
+tract infections (UTIs), endocarditis, intra-abdominal infections, septic arthritis, osteomyelitis, CNS infections, and
+ophthalmic infections.[1]Enterobacter infections can necessitate prolonged hospitalization, multiple and varied imaging
+studies and laboratory tests, various surgical and nonsurgical procedures, and powerful and expensive antimicrobial
+agents.[2]
+Signs and symptoms
+Enterobacter infections do not have a clinical presentation that is specific enough to differentiate them from other acute
+bacterial infections.
+Bacteremia
+Signs of Enterobacter bacteremia include the following:
+Physical examination and laboratory findings consistent with systemic inflammatory response syndrome (SIRS):
+Including heart rate that exceeds 90 bpm, a respiratory rate greater than 20, a temperature above 38°C or below
+36°C, and a WBC of over 12,000 or under 4000/microliter
+Fever: Occurring in more than 80% of children and adults with Enterobacter bacteremia
+Hypotension and shock: Occurs in as many as one third of cases
+Septic shock: Manifested as disseminated intravascular coagulation, jaundice, acute respiratory distress
+syndrome, and other complications of organ failure
+Purpura fulminans and hemorrhagic bullae
+Ecthyma gangrenosum
+Cyanosis and mottling: Frequently reported in children with Enterobacter bacteremia[2]
+Lower respiratory tract infections
+Enterobacter lower respiratory tract infections can manifest identically to those caused by Streptococcus pneumoniae or
+other organisms. The physical examination findings may include the following:
+Apprehension
+High fever or hypothermia
+Tachycardia
+Hypoxemia
+Tachypnea
+Cyanosis[2]
+Patients with pulmonary consolidation may present with crackling sounds, dullness to percussion, tubular breath sounds,
+and egophony. Pleural effusion may manifest as dullness to percussion and decreased breath sounds.
+See Clinical Presentation for more detail.
+Diagnosis
+Laboratory studies
+Studies for the evaluation of Enterobacter infections include the following:
+Complete blood count
+Creatinine level
+Electrolyte evaluation
+Fluid analysis, recommendeded for pleural, articular, pericardial, peritoneal, and cerebrospinal fluids; studies may
+include cell count and differential, protein, glucose, and, in some cases, pH, lactate dehydrogenase, and amylase 
+Urine analysis: Always indicated for urinary tract infections (UTIs)
+Factors in the microbiologic diagnosis and assessment of Enterobacter infection include the following:
+The most important test to document Enterobacter infections is culture; when the patient presents with signs of
+systemic inflammation (eg, fever, tachycardia, tachypnea, elevated or depressed WBC) with or without shock (eg,
+hypotension, decreased urinary output), blood cultures are mandatory
+Direct Gram staining of the specimen is also useful, because it allows rapid diagnosis of an infection caused by
+gram-negative bacilli and helps in the selection of antibiotics with known activity against most of these bacteria
+In the laboratory, growth of Enterobacter isolates is expected to be detectable in 24 hours or less; Enterobacter
+species grow rapidly on selective (ie, MacConkey) and nonselective (ie, sheep blood and chocolate) agars
+Imaging studies
+Studies used in the investigation and management of Enterobacter infections include the following:
+Chest infections: Serial chest radiography, chest ultrasonography, and computed tomography (CT) scanning
+Intra-abdominal infections: CT scanning and ultrasonography
+Endocarditis and intravascular infections: Echocardiography (preferably transesophageal) and nuclear indium
+scanning
+UTIs: Renal ultrasonography; occasionally, CT scanning and pyelography
+Central nervous system (CNS) and ophthalmic infections: CT scanning and/or magnetic resonance imaging (MRI)
+Bone and joint infections: Plain radiography, CT scanning and/or MRI studies, nuclear medicine studies
+New technologies such as positron emission tomography (PET) scanning may be indicated in very selective cases,
+particularly for differentiation of neoplasia and infection.
+See Workup for more detail.
+Management
+Antimicrobial therapy is indicated in virtually all Enterobacter infections. With few exceptions, the major classes of
+antibiotics used to manage infections with these bacteria include the following:
+Beta-lactams: Carbapenems are the most reliable beta-lactam drugs for the treatment of severe Enterobacter
+infections; fourth-generation cephalosporins are a distant second choice
+Aminoglycosides: Aminoglycoside resistance is relatively common and varies widely among centers; concerns
+about potential toxicities and penetration into some body tissues limit their use
+Fluoroquinolones: Resistance to fluoroquinolones is increasing and may be very high in some parts of the world
+Trimethoprim-sulfamethoxazole (TMP-SMZ): Resistance to TMP-SMZ is more common
+See Treatment and Medication for more detail.
+Background
+Enterobacter species, particularly those in the Enterobacter cloacae complex are important nosocomial pathogens
+responsible for various infections, including bacteremia, lower respiratory tract infections, skin and soft tissue infections,
+urinary tract infections (UTIs), endocarditis, intra-abdominal infections, septic arthritis, osteomyelitis, CNS, and
+ophthalmic infections.[3]Enterobacter species can also cause various community-acquired infections, including UTIs, skin
+and soft tissue infections, and wound infections, among others. They are one of the ESKAPE pathogens: a group
+comprised of Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii,
+Pseudomonas aeruginosa and Enterobacter spp.) that are capable of 'escaping' the biocidal action of antibiotics and that
+cause most of the hospital-associated infections in the United States.[4,5]
+The genetic variation (heterogenicity) and biochemical diversity among E cloacae has led to use of the
+terminology Enterobacter cloacae complex (ECC).[2,3] Of note, the species formerly known as Enterobacter
+aerogenes was reassigned to the genus Klebsiella (now known as Klebsiella aerogenes) in 2017[6] although this
+reassignment still is debated. Much of the literature regarding Enterobacter species prior to this date includes data
+attributable to K aerogenes. Nevertheless, conclusions regarding E cloacae complex and other individual species (eg, E
+cloacae, Enterobacter hormaechei, etc) that may cause human infections remain valid. 
+Risk factors for nosocomial Enterobacter infections include hospitalization of greater than 2 weeks, invasive procedures in
+the past 72 hours, treatment with antibiotics in the past 30 days, and the presence of a central venous catheter.[7]
+Specific risk factors for infection with nosocomial multidrug-resistant strains of Enterobacter species include the recent
+use of broad-spectrum cephalosporins or aminoglycosides and ICU care.[8]
+These "ICU bugs" cause significant morbidity and mortality, and infection management is complicated by resistance to
+multiple antibiotics. Multi-drug resistant Enterobacter cloacae complex, especially those resistant to carbapenems, have
+emerged as a global diversifying threat.[9,3]Enterobacter species possess inducible beta-lactamases, which are
+undetectable in vitro but are responsible for resistance during treatment. Physicians treating patients with Enterobacter
+infections are advised to avoid certain antibiotics, particularly third-generation cephalosporins, because resistant mutants
+can quickly appear. [10]The crucial first step is appropriate identification of the bacteria. Antibiograms must be interpreted
+with respect to the different resistance mechanisms and their respective frequency, as is reported for Enterobacter
+species, even if routine in vitro antibiotic susceptibility testing has not identified resistance.[11,12]
+Pathophysiology
+Enterobacter species rarely cause disease in healthy individuals. This opportunistic pathogen, similar to other members of
+the Enterobacteriaceae family (in the order Enterobacterales), possesses an endotoxin known to play a major role in the
+pathophysiology of sepsis and its complications.
+Although community-acquired Enterobacter infections occasionally are reported, nosocomial Enterobacter infections are,
+by far, most common. Patients most susceptible to Enterobacter infections are those who stay in the hospital, especially
+the ICU, for prolonged periods.[7] Other major risk factors for Enterobacter infection include prior use of antimicrobial
+agents, concomitant malignancy (especially hemopoietic and solid-organ malignancies), hepatobiliary disease, ulcers of
+the upper gastrointestinal tract, use of foreign devices such as intravenous catheters, and serious underlying conditions
+such as burns, mechanical ventilation, and immunosuppression.
+The source of infection may be endogenous (via the patient's gastrointestinal tract, colonization of the skin, or urinary
+tract) or exogenous, resulting from the ubiquitous nature of Enterobacter species. Multiple reports have incriminated the
+hands of health care personnel, endoscopes, blood products, devices for monitoring intra-arterial pressure, and
+stethoscopes as sources of infection. Outbreaks have been traced to various common sources: total parenteral nutrition
+solutions, isotonic saline solutions, albumin, digital thermometers, and dialysis equipment.[13]
+Enterobacter species contain a subpopulation of organisms that produce a beta-lactamase at low-levels. Once exposed to
+broad-spectrum cephalosporins, the subpopulation of beta-lactamase–producing organisms predominate. Thus, an
+Enterobacter infection that appears sensitive to cephalosporins at diagnosis may quickly develop into a resistant infection
+during therapy. Carbapenems and cefepime have a more stable beta-lactam ring against the lactamase produced by
+resistant strains of Enterobacter.
+Epidemiology
+Frequency
+United States
+National surveillance programs continually demonstrate that Enterobacter species remain a significant source of morbidity
+and mortality in hospitalized patients.
+In the Surveillance and Control of Pathogens of Epidemiological Importance [SCOPE] project, 24,179 nosocomial
+bloodstream infections from 1995-2002 were analyzed. Enterobacter species were the second-most-common gram
+negative organism behind Pseudomonas aeruginosa; however, both bacteria were reported to each represent 4.7% of
+bloodstream infections in ICU settings. Enterobacter species represent 3.1% of bloodstream infections in non-ICU wards.
+Of nearly 75,000 gram-negative organisms collected from ICU patients in the United States between 1993 and 2004,
+Enterobacter species comprised 13.5% of the isolates. Multidrug resistance increased over time, especially in infections
+caused by E cloacae.[8,14]
+The National Healthcare Safety Network (NHSN) reported on healthcare-associated infections (HAI) between 2006 and
+2007. They found Enterobacter species to be the eighth most common cause of HAI (5% of all infections) and the fourth
+most common gram-negative cause of HAIs.[15]
+Previous reports from the National Nosocomial Infections Surveillance System (NNIS) demonstrated that Enterobacter
+species caused 11.2% of pneumonia cases in all types of ICUs, ranking third after Staphylococcus aureus (18.1%) and P
+aeruginosa (17%).[7] The corresponding rates among patients in pediatric ICUs were 9.8% for pneumonia, 6.8% for
+bloodstream infections, and 9.5% for UTIs.[16,17,18]
+Enterobacter species were also among the most frequent pathogens involved in surgical-site infections, as reported in the
+NNIS report from October 1986 to April 1997. The isolation rate was 9.5% (with enterococci, coagulase-negative
+staphylococci, S aureus, and P aeruginosa rates being 15.3%, 12.6%, 11.2%, and 10.3%, respectively).
+Data on antibiotic resistance are available from the Intensive Care Antimicrobial Resistance Epidemiology (ICARE)
+surveillance report. The rates of Enterobacter resistance to third-generation cephalosporins were 25.3% in ICUs, 22.3%
+among non-ICU inpatients, 10.1% among ambulatory patients, and as high as 36.2% in pediatric ICUs.
+[10,19]Carbapenem resistance among Enterobacteriaceae (including Escherichia coli, Klebsiella, and E cloacae complex
+species) rose significantly in US hospitals from 2001-2011.[20]
+International
+Enterobacter species have a global presence in both adult and neonatal ICUs. Surveillance data and outbreak case
+reports from North and South America, Europe, and Asia indicate that these bacteria represent an important opportunistic
+pathogen among neonates and debilitated patients in ICUs. 
+The investigation of a multiclonal outbreak of Enterobacter cloacae infections in a neonatal ICU in France found over 469
+gastrointestinally colonized infants, 30 infections including 2 cases of meningitis, and 12 deaths. The infection strains
+were genetically diverse, supporting the hypothesis of multiple hygiene defects rather than dissemination of a single
+bacterial clone. Their interventions included several hygienic preventive measures, education of staff, and limiting the use
+of cephalosporin antibiotics. The outbreak eventually was successfully contained, although direct attribution to the
+interventions was not conclusive.[21]
+The prevalence of Enterobacter resistance to beta-lactam antibiotics, aminoglycosides, trimethoprim-sulfamethoxazole
+(TMP-SMZ), and quinolones seems to be higher in certain European countries and Israel than in the United States and
+Canada. Higher rates of Enterobacter resistance to fluoroquinolones and to beta-lactam and cephalosporin antibiotics due
+to the production of extended-spectrum beta-lactamases have been reported in South America and the Asian and Pacific
+regions.[22,23]
+In a recent publication from Saudi Arabia, authors assessed epidemiologic patterns, resistance characteristics, and
+clinical outcomes of E cloacae infections and also assessed the impact of the COVID-19 epidemic on resistance patterns
+and mortality rates. They found a high number of E cloacae respiratory isolates, possibly due to higher risks with COVID
+19 severe respiratory disease and intubation, but that the percentage of resistant isolates fell from 48.36% in 2019 (pre
+pandemic) to 38% in 2020 and 37.6% in 2021. The ICU mortality rate was 40.5%. The authors proposed that the decrease
+in resistant E cloacae isolates during the first 2 years of the COVID-19 epidemic may have been attributable to infection
+control measures, the use of personal protective equipment by healthcare workers, and decontamination procedures.[24]
+Mortality/Morbidity
+Enterobacter infections cause considerable mortality and morbidity rates.
+Enterobacter species can cause disease in virtually any body compartment. They are responsible for frequent and severe
+nosocomial infections that require prolonged hospitalization, multiple and varied imaging studies and laboratory tests,
+various surgical and nonsurgical procedures, and powerful and expensive antimicrobial agents. Most importantly,
+Enterobacter infections that do not directly result in death cause considerable suffering in many patients, most of whom
+already are afflicted with chronic diseases.
+In patients with Enterobacter bacteremia, the most important factor in determining the risk for mortality is the severity of
+the underlying disease. Higher 30-day mortality rates were noted in patients presenting with septic shock and increasing
+Acute Physiology and Chronic Health Evaluation II scores. Other factors implicated, independently or by association, in
+the outcome of Enterobacter bacteremia include thrombocytopenia, hemorrhage, a concurrent pulmonary focus of
+infection, renal insufficiency, ICU admission, prolonged hospitalization, prior surgery, intravascular and/or urinary
+catheters, immunosuppressive therapy, neutropenia, antibiotic resistance, and inappropriate antimicrobial therapy.
+Studies have demonstrated that empirical aminoglycoside use and appropriate initial antibiotic therapy were associated
+with lower mortality rates, whereas vasopressor use, ICU care, and acute renal failure were associated with higher
+mortality rates. Independent risk factors for mortality included cephalosporin resistance, trimethoprim-sulfamethoxazole
+resistance, mechanical ventilation, and nosocomial infection.[25,26]
+Crude mortality rates associated with Enterobacter infections range from 15-87%, but most reported rates range from 20
+46%. Attributable mortality rates are reported to range from 6-40%.
+E cloacae infection is associated with the highest mortality rate of all Enterobacter infections.
+Bacteremia with cephalosporin-resistant Enterobacter species is associated with a 30-day mortality rate that significantly
+exceeds that of infections with susceptible strains (33.7% vs 18.6%).
+Mortality rates associated with Enterobacter pneumonia are higher than those of pneumonia due to many other gram
+negative bacilli. These rates range from 14-71%. As with bacteremia, the severity of the underlying disease is the major
+factor that predicts outcome. Other factors that indicate an unfavorable outcome include the extent of the disease as seen
+on chest radiographs, corticosteroid therapy, isolation of multiple pathogens from lower respiratory tract secretions, and,
+possibly, treatment with a single antibiotic.
+A review of 17 cases of Enterobacter endocarditis reported an overall mortality rate of 44.4%.
+Race
+Enterobacter infections have no reported or presumed racial predilection.
+Sex
+The male-to-female ratio of Enterobacter bacteremia is 1.3-2.5:1. This male predominance also is found in the pediatric
+population.
+Age
+Enterobacter infections are most common in neonates and in elderly individuals, reflecting the increased prevalence of
+severe underlying diseases at these age extremes. In the pediatric ICU setting, an age younger than 2.5 years is a risk
+factor for colonization.
+Enterobacter sakazakii, now known as Cronobacter sakazakii, has been reported as a cause of sepsis and meningitis,
+complicated by ventriculitis, brain abscess, cerebral infarction, and cyst formation.[27] This clinical pattern appears to be
+specific to C sakazakii in neonates and infants infected with this bacterium. C sakazakii also has been associated with
+many outbreaks due to contaminated powdered formula for infants.[28,29]
+The taxonomic reclassification of E sakazakii within a new genus "Cronobacter" within the Enterobacteriaceae was
+proposed in 2007.[30]
+Prognosis
+The prognosis of E cloacae complex infections depends on numerous variables, including the infection site (eg,
+bloodstream, meninges, lungs), time to diagnosis and treatment, antimicrobial resistance, and underlying host
+vulnerabilities. The mortality rate generally is high, similar to infections caused by other invasive gram-negative bacilli.
+Presentation
+History
+Enterobacter infections do not produce a unique enough clinical presentation to differentiate them clinically from other
+acute bacterial infections. Consequently, details on the patient history and physical examination findings for each infected
+body compartment are not provided in this article, with the exception of lower respiratory tract infections and bacteremia.
+Details regarding similar disease presentations are available throughout Medscape Reference via the links provided in the
+Differentials section.
+Bacteremia
+Most cases of Enterobacter bacteremia are nosocomial, frequently acquired in the ICU.
+E cloacae, followed by E hormaechei, are the species implicated most frequently in Enterobactercloacae
+complex bacteremia cases.
+Mixed bacteremia is common (14-53%).
+The portal of entry into the bloodstream is frequently unknown, but any infected organ, central line, or arterial catheter
+may be the primary source of bacteremia.
+Symptoms of Enterobacter bacteremia are similar to those of bacteremia due to other gram-negative bacilli.
+Lower respiratory tract infections
+The clinical presentations caused by Enterobacter lower respiratory tract infections include asymptomatic colonization,
+tracheobronchitis, pneumonia, lung abscess, and empyema.
+As with other respiratory pathogens, recent respiratory virus infection, chronic obstructive pulmonary disease, diabetes
+mellitus, alcohol abuse, malignancy, and neurologic diseases are risk factors for the acquisition of lower respiratory tract
+infections.
+Prior antimicrobial therapy may predispose to Enterobacter pneumonia.
+Enterobacter species are a significant cause of ventilator-associated pneumonia.
+Enterobacter species are major pathogens in early post–lung transplant pneumonia. In most cases, the bacteria are
+transmitted from the donor.
+Symptoms of Enterobacter pneumonia are not specific to these bacteria. Fever, cough, production of purulent sputum,
+tachypnea, and tachycardia are usually present.
+As with infections caused by organisms such as Streptococcus pneumoniae, many Enterobacter infections in elderly
+debilitated patients do not cause a systemic inflammatory reaction. However, this clinical presentation is by no means
+benign, and the associated mortality rate is particularly high in this population.
+Skin and soft tissue infections
+In most cases, Enterobacter skin and soft tissue infections are hospital-acquired and include cellulitis, fasciitis, myositis,
+abscesses, and wound infections.
+Enterobacter species can infect surgical wounds in any body site, and these infections are clinically indistinguishable
+from infections caused by other bacteria.
+In 1985, Palmer et al reviewed an outbreak of postsurgical Enterobactermediastinitis.[31] Cases varied in severity from
+fulminant bacteremic infections to less-severe wound infections. The source was unknown, and a case-control analysis
+suggested that surgical complications and prophylaxis with cephalosporins were associated with the infection. The level of
+skin and wound colonization was high among patients who underwent cardiac surgery during this outbreak. The outbreak
+was controlled with barrier isolation, restriction of contacts, and a reduction in the duration of cephalosporin prophylaxis.
+Other Enterobacter wound infections have been reported in the literature. Infected body sites have included a posterior
+spinal wound, burn wounds (many reports), and different types of injuries involving trauma to multiple sites. Some of the
+infections were polymicrobial. Some authors have noted a trend of traditional wound bacteria (eg, S aureus) being
+replaced by Enterobacter species and other nosocomial pathogens. Some trauma-related wound infections are acquired
+before hospital admission. This was the case with agricultural mutilating wounds caused by corn-harvesting machines.
+Gram-negative rods were predominant (81%), the most common being Enterobacter species and Stenotrophomonas
+maltophilia.
+Enterobacter species occasionally cause community-acquired soft-tissue infections in healthy individuals, including those
+who sustain war-related or trauma-related injuries.
+Endocarditis
+A case report described a patient with E cloacae endocarditis on a porcine mitral heterograft. An accompanying literature
+review disclosed 17 additional cases. Two thirds of the patients had underlying cardiac disease; most had mitral valve
+infection, and 4 patients had concomitant aortic valve involvement.[32]
+A few more case reports subsequent to this case series have been published in both English and non-English literature,
+including one case of E asburiae causing both cotton fever and native valve endocarditis in an intravenous drug user.
+[33,34]
+Urinary tract infections
+Enterobacter UTI is indistinguishable from a UTI caused by other gram-negative bacilli.
+Pyelonephritis with or without bacteremia, prostatitis, cystitis, and asymptomatic bacteriuria can be caused by
+Enterobacter species, as with Escherichia coli and other gram-negative bacilli.
+Most Enterobacter UTIs are nosocomial and are associated with indwelling urinary catheters and/or prior antibiotic
+therapy.
+Intra-abdominal infections
+Enterobacter species may be isolated together with colonic flora in intra-abdominal abscesses or peritonitis following
+intestinal perforation or surgery.
+A frequent cause of Enterobacter involvement is prior digestive-tract colonization by Enterobacter species during
+hospitalization.
+Case reports have described Enterobacter hepatobiliary sepsis, including emphysematous cholecystitis, suppurative
+cholangitis, and hepatic gas gangrene in a child after liver transplantation. Hemorrhagic necrotizing pancreatitis developed
+in a 72-year-old woman with obstructive jaundice.
+Central nervous system infections
+Neonatal meningitis resulting from C sakazakii infection is described in Age.
+In 1993, Durand et al published a review of 493 episodes of acute bacterial meningitis.[35] This study involved patients
+aged 16 years or older admitted to Massachusetts General Hospital from January 1962 through December 1988. Gram
+negative bacilli were the etiologic agents in 4% and 38% of community-acquired and nosocomial meningitis, respectively.
+In community-acquired infections, Enterobacter was isolated in one of the 9 cases of meningitis caused by gram-negative
+bacilli (E coli 4 times, Klebsiella species 3 times, and Proteus once) and in 5 of the 57 episodes of nosocomial meningitis
+(E coli 17 times, Klebsiella species 13 times, Pseudomonas species 6 times, and Acinetobacter species 6 times).
+Other series were reported from various countries (United States, Iceland, United Kingdom, Senegal, Brazil). Gram
+negative bacilli were not among the 5 most common causes of meningitis in any of these countries.
+Ophthalmic infections
+Enterobacter species account for a small fraction of postsurgical endophthalmitis and posttraumatic cases.[36]
+Most ophthalmic infections are caused by gram-positive organisms, but Enterobacter species and Pseudomonas species
+are among the most aggressive pathogens.
+Bone and joint infections
+Enterobacter species are occasionally implicated in septic arthritis, on both native and prosthetic joints, and can result in
+osteomyelitis and discitis in adults and children.
+Enterobacter bone and joint infections are usually more difficult to cure than those caused by S aureus. They often occur
+in patients with complex surgical and medical histories.[37] The authors have observed relapses that required additional
+treatment following the initial 6 weeks of intravenous therapy. 
+Physical
+Bacteremia
+Physical examination findings consistent with systemic inflammatory response syndrome (SIRS) include heart rate that
+exceeds 90 bpm, a respiratory rate greater than 20, and temperature greater than 38°C or less than 36°C.
+More than 80% of children and adults with Enterobacter bacteremia develop fever.
+Hypotension and shock occur in as many as one third of cases.
+Disseminated intravascular coagulation, jaundice, acute respiratory distress syndrome, and other organ failures reflect the
+severity of septic shock.
+Purpura fulminans and hemorrhagic bullae that usually are observed with meningococci or viruses causing hemorrhagic
+fever may be part of the clinical presentation of Enterobacter bacteremia.
+Ecthyma gangrenosum, usually associated with Pseudomonas or Aeromonas bacteremia, also may be observed.
+Cyanosis and mottling frequently is reported in children with Enterobacter bacteremia.
+Lower respiratory tract infections
+The physical manifestations caused by Enterobacter are not specific for infection with these bacteria. Enterobacter lower
+respiratory tract infections can manifest identically to those caused by S pneumoniae or other organisms.
+The physical examination findings may include apprehension, high fever or hypothermia, tachycardia, hypoxemia,
+tachypnea, and cyanosis. Patients with pulmonary consolidation may present with crackling sounds, dullness to
+percussion, tubular breath sounds, and egophony. Pleural effusion may manifest as dullness to percussion and decreased
+breath sounds.
+Causes
+Species of the Enterobactercloacae complex are gram-negative bacilli that belong to the Enterobacteriaceae family. Other
+members of this family include Klebsiella, Escherichia, Citrobacter,Cronobacter, Serratia, Salmonella, and Shigella
+species, among many others. Enterobacteriaceae are the most common bacterial isolates recovered from clinical
+specimens. These bacteria have an outer membrane that contains, among other things, lipopolysaccharides from which
+lipid-A plays a major role in sepsis. Lipid-A, also known as endotoxin, is the major stimulus for the release of cytokines,
+which are the mediators of systemic inflammation and its complications.
+In the microbiology laboratory, colonies of Enterobacteriaceae appear large, dull-gray, and dry or mucoid on sheep blood
+agar. All Enterobacteriaceae ferment glucose and, consequently, are able to grow in aerobic and anaerobic atmospheres.
+MacConkey agar is a lactose-containing medium that is selective for nonfastidious gram-negative bacilli such as
+Enterobacteriaceae. Using the enzymes beta-galactosidase and beta-galactoside permeases, the most frequently
+encountered species of Enterobacter strains activate the pH indicator (neutral red) included in MacConkey agar, giving a
+pink or red stain to the growing colonies. Klebsiella and Enterobacter species may appear similar as mucoid colonies but
+can be differentiated with a few specific tests. In contrast to Klebsiella species, Enterobacter organisms are motile,
+usually ornithine decarboxylase-positive, and urease-negative. E sakazakii (reclassified into the Cronobacter genus in
+2007) produces a characteristic yellow pigment.
+Six different species comprise the E cloacae complex. Some have never been associated with human infections. The
+most commonly isolated species include E cloacae and E hormaechei, followed by the rarely encountered Enterobacter
+asburiae, Enterobacter gergoviae, Enterobacter taylorae, and Enterobacter cancerogenus. Enterobacter aerogenes was
+renamed K aerogenes in 2017.[6]
+DDx
+Differential Diagnoses
+Abdominal Abscess
+Acute Bacterial Prostatitis and Prostatic Abscess
+Acute Pancreatitis
+Acute Pyelonephritis
+Acute Respiratory Distress Syndrome (ARDS)
+Acute Sinusitis
+Adrenal Crisis
+Ascites
+Aspiration Pneumonitis and Pneumonia
+Bacterial Pneumonia
+Bacterial Sepsis
+Biliary Disease
+Bronchitis
+Cellulitis
+Cholangitis
+Acute Cholecystitis
+Chronic Pyelonephritis
+Urinary Tract Infection (UTI) and Cystitis (Bladder Infection) in Females
+Emphysema
+Emphysematous Cholecystitis
+Escherichia coli (E coli) Infections
+Gallbladder Empyema
+Emphysematous Pyelonephritis (EPN) Imaging
+Infective Endocarditis
+Klebsiella Infections
+Liver Abscess
+Lung Abscess
+Mediastinitis
+Meningitis
+Meningococcal Infections
+Meningococcemia
+Morganella Infections
+Neutropenia
+Nongonococcal Infectious Arthritis
+Parapneumonic Pleural Effusions and Empyema Thoracis
+Pneumococcal Infections (Streptococcus pneumoniae)
+Prostatitis, Bacterial
+Septic Arthritis
+Septic Shock
+Splenic Abscess
+Systemic Inflammatory Response Syndrome (SIRS)
+Urinary Tract Infection (UTI) in Males
+Urinary Tract Infections in Pregnancy
+Urinary Tract Obstruction
+Workup
+Workup
+Laboratory Studies
+Microbiological studies
+The most important test to document Enterobacter infections is culture.
+Direct Gram staining of the specimen also is very useful because it allows rapid diagnosis of an infection caused by gram
+negative bacilli and helps in the selection of antibiotics with known activity against most of these bacteria. The specimen
+submitted to the microbiology laboratory should represent the infectious process in evolution.
+When the patient presents with signs of systemic inflammation (eg, fever, tachycardia, tachypnea) with or without shock
+(eg, hypotension, decreased urinary output), blood cultures are mandatory. Older and debilitated patients or patients
+receiving nonsteroidal anti-inflammatory drugs, steroids, or immunosuppressive therapy may be bacteremic in the
+absence of any sign of inflammation. In addition, hypothermia is a characteristic of particularly severe sepsis.
+In the laboratory, growth of Enterobacter isolates is expected to be detectable in 24 hours or less. Enterobacter species
+grow rapidly on selective (ie, MacConkey) and nonselective (ie, sheep blood) agars. After growth in blood or on agar plates
+has been confirmed, the bacterial colonies are identified through various, usually automated, methods. When identification
+of a particular isolate is difficult, newer molecular (rRNA or PCR) methods can be used in certain laboratories. Mass
+spectrometry (MALDI-TOF) also is used in some laboratoties for organism identification, the detection of resistance genes
+and in outbreak investigations.[38,39]
+Blood culture details
+Two sets (with one aerobic and one anaerobic bottle in each set) should be obtained 20-30 minutes apart, from 2 different
+sites (if possible). If the patient has a central venous catheter, one set should be drawn through it. In the adult patient, 8
+10 mL of blood should be collected in each bottle. Enterobacteriaceae ferment glucose and thus should grow in both
+bottles.
+Growth in the presence and absence of oxygen is very important early information permitting a presumptive diagnosis of
+Enterobacteriaceae bacteremia because nonfermentative gram-negative bacilli (eg, Pseudomonas, Acinetobacter,
+Stenotrophomonas) usually cannot grow in the absence of oxygen.
+Lower respiratory tract specimens
+Routine Gram staining of sputum is mandatory for every specimen to evaluate the degree of contamination.
+A good specimen should show few epithelial cells and many white cells unless the patient is severely neutropenic. In the
+case of pneumonia, the pathogen (ie, in this article, gram-negative bacilli) should be easily visualized with a high-power
+lens under oil immersion.
+A poor-quality specimen should not be cultured because the identification of organisms that colonize the oropharynx is
+not helpful for the management of the infection and can cause confusion regarding the cause of the pneumonia. With a
+lower respiratory tract infection, a significant number of organisms (gram-negative bacilli) should be visible after direct
+staining. The threshold of optical detection of these bacteria is approximately 105 bacteria/mL. A positive culture result
+with a negative Gram stain result likely represents colonization rather than infection, at least in untreated patients.
+Endotracheal secretions obtained from intubated patients via fluid from bronchoalveolar lavage or bronchoscopy often are
+contaminated with upper respiratory secretions, and the same caution should be applied in the interpretation of culture
+results as in the interpretation of sputum specimens. However, bronchoscopy specimens obtained through a protective
+shield are not contaminated or are only slightly contaminated. Specimens obtained by bypassing the oropharynx (eg,
+transthoracic biopsy, open lung biopsy) are sterile, and any bacterial growth should be considered significant.
+All other specimens
+Pus and joint, pleural, pericardial, peritoneal, and cerebrospinal fluids; bile; urine; and biopsy specimens of the skin and
+subcutaneous tissues, muscles, bone, and any other specimen should be promptly transported to the laboratory for rapid
+Gram staining and culture (or kept refrigerated for the shortest possible period).
+Ophthalmologic specimens, such as those obtained from patients with endophthalmitis, are so small that the frequent
+recommendation is that they be injected into a blood culture bottle. This practice also is favored for potentially infected
+ascites fluid, as some evidence in the literature suggests that this method is more sensitive than direct plating on agar.
+Generally, inoculation of non-blood specimens into blood culture bottles requires direct coordination with and approval from
+the microbiology laboratory.
+Intravenous and intra-arterial catheters also should be cultured if catheter sepsis is suggested. The catheter tip is rolled
+over the agar. Any growth of more than 15 colonies likely represents, according to studies by Maki et al, catheter infection
+rather than contamination.[40]
+Drugs to include for antimicrobial susceptibility testing
+For nonfastidious gram-negative bacilli, potential antimicrobial activity should be tested in vitro. The choice of specific
+antibiotics to be tested should reflect the availability of each drug in the pharmacy of each institution.
+Penicillins should include ampicillin and at least one of the extended-spectrum penicillins (eg, carboxy, ureido, or
+acylaminopenicillin) such as ticarcillin, mezlocillin, or piperacillin. The addition of ticarcillin-clavulanic acid or piperacillin
+tazobactam is optional.
+Cephalosporins include a first-generation drug of this class of antibiotics, such as cefazolin, and a third-generation drug
+with and without Pseudomonas activity, such as ceftriaxone or ceftazidime, as well as the fourth-generation cephalosporin
+cefepime.
+Include at least one carbapenem, usually imipenem or meropenem, in accordance with available pharmaceutical agents in
+the institution.
+Include aminoglycosides, usually gentamicin and tobramycin. Amikacin may be tested primarily or when bacteria show
+resistance to gentamicin and/or tobramycin.
+Include a quinolone, such as ciprofloxacin or levofloxacin.
+Include TMP-SMZ.
+Some laboratories routinely add aztreonam.
+A cephamycin, such as cefoxitin, is a useful addition to screen for some specific beta-lactamases, such as those of class
+C (see Medical Care).
+Other antibiotics that may be considered for testing include tigecycline, eravacycline, polymyxin B, colistin, cefidericol,
+plazomicin, meropenem-vaborbactam, imipenem-cilastatin-relebactam, and ceftazidime-avibactam, especially when
+particularly resistant organisms are identified.
+Methods and results of antimicrobial susceptibility testing
+Different methods of testing are available.
+One of the most popular is the Kirby-Bauer disk method, which is simple, reliable, and inexpensive but does not quantify
+the results in terms of minimal inhibitory concentration (MIC).
+MIC methods include antimicrobial agar dilution, usually regarded as the criterion standard, or broth (micro) dilution.
+Manual methods are more time-consuming than disk methods for measuring MIC. Automation for broth microdilution
+methods is available from different manufacturers.
+The results of sensitivity testing are expressed in millimeters of growth inhibition with disk testing or in mcg/mL in MIC
+testing.
+These results are compared to breakpoints issued by the Clinical and Laboratory Standards Institute (CLSI) in order to
+determine if an organism is susceptible, intermediately susceptible, or resistant to the tested antimicrobial agent. The
+CLSI may not have breakpoints for some Enterobacter species or for some antibiotics.
+Unfortunately, these elegant methods are not flawless, and reports of falsely susceptible (less frequently, falsely resistant)
+bacteria are by no means rare in daily clinical practice.
+Many resistance mechanisms are not detectable with these routine tests, and this is particularly true for the production of
+some beta-lactamases (see Medical Care).
+A good knowledge of the major resistance mechanisms is important for the interpretation of the crude sensitivity results.
+Consultation with a senior microbiologist and/or an infectious disease specialist should be considered when the organism
+is resistant to several antibiotics or when additional testing to newer antibiotics is being considered.
+Other laboratory studies
+Complete blood cell count, creatinine level, and electrolyte evaluation are part of the minimal investigation required for the
+management of Enterobacter infections.
+Fluid analysis (eg, cells and differential, proteins, glucose, and in some cases pH, lactate dehydrogenase, and amylase)
+is required for pleural, articular, pericardial, peritoneal, and cerebrospinal fluids.
+Urine analysis always is indicated for UTIs.
+Tests for liver enzymes, creatine kinase, sedimentation rate, C-reactive protein, bone marrow examination, and
+microscopic examination of stained biopsy specimens are indicated according to the type of infection involved.
+Imaging Studies
+Imaging studies are an important part of the investigation and management of Enterobacter infections. Specific studies are
+chosen based on the organ or systems involved in the infectious process.
+For chest infections, serial chest radiography, chest ultrasonography, and CT scanning are useful when pulmonary
+abscesses, pleural or pericardial effusions, empyema, and/or mediastinitis are a concern.
+Intra-abdominal infections may require CT scanning and ultrasonography.
+Endocarditis and intravascular infections may require echocardiography, preferably transesophageal. In some situations,
+nuclear indium scanning may be helpful.
+UTIs may require renal ultrasonography. Occasionally, CT scanning and pyelography (ie, intravenous or retrograde) are
+useful.
+Central nervous system and ophthalmic infections may require CT scanning and/or MRI.
+Bone and joint infections may require plain radiography. CT scanning and/or MRI studies are helpful in selected cases of
+soft-tissue infections, osteomyelitis, and septic arthritis. Nuclear medicine studies, bone and gallium scans in particular,
+are frequently a useful complement to plain radiography. Findings from indium scans or other types of marked white blood
+cell scans are somewhat more specific for the diagnosis of deep infections than gallium scan, although they may be less
+sensitive. See the image below.
+Radiograph of an open right tibial fracture in a 21-year-old male marine who was wounded when an improvised explosive
+device detonated while he was on patrol in Iraq.
+New technologies such as positron emission tomography (PET) scans may be indicated in very selective cases,
+particularly for differentiation of neoplasia and infection.
+Procedures
+Procedures indicated for various Enterobacter infections may include the following:
+Removal of central venous catheters within 72 hours of gram-negative bacilli bacteremic infections (This has been
+shown to lower the risk for relapse.)
+Surgical or percutaneous drainage of infected collections
+Endoscopic retrograde cholangiopancreatography or magnetic resonance cholangiopancreatography (MRCP) for
+biliary obstruction
+Lumbar puncture for evaluation of CNS infections
+Soft tissue or bone needle biopsy
+Aspiration of joint fluid 
+Histologic Findings
+Along with signs of infection (leukocytic infiltration), histology should reveal the presence of bacterial rods.
+Treatment
+Approach Considerations
+Investigate and attempt to eliminate all potential sites of infection (ie, attain good "source control"). For instance, an
+identified abscess should be drained, or an infected joint should prompt surgical consultation for drainage. Remove any
+potentially infected invasive devices, such as central intravenous or urinary catheters.
+Medical Care
+Antimicrobial therapy is indicated in virtually all Enterobacter infections. Considerations for empiric therapy include an
+assessment regarding potential resistance to antibiotics, the infection site, anticipated achievable tissue concentrations of
+antibiotic, and predicted antibiotic adverse effects. The Infectious Diseases Society of America's (IDSA's) regularly
+updated guideline on the treatment of gram negative organisms resistant to antimicrobial agents contains good information
+on optimal antibiotic dosing for infections at many sites.[41]
+Occasionally, for a simple infection due to Enterobacter cloacae complex (eg, cystitis without concern for pyelonephritis)
+macrodantin may be a reasonable choice. Fosfomycin may be used in some cases to treat simple cystitis caused by E
+cloacae complex, but most US microbiology laboratories do not routinely test for antimicrobial susceptibility of this drug
+against urinary tract isolates.
+With few exceptions, the major classes of antibiotics used to manage serious infections with the E cloacae complex
+include the beta-lactams, carbapenems, the fluoroquinolones, the aminoglycosides, and TMP-SMZ. Because most
+Enterobacter species either are very resistant to many agents or can develop resistance during antimicrobial therapy, the
+choice of appropriate antimicrobial agents is complicated. Consultation with experts in clinical infectious diseases and
+microbiology usually is indicated, in addition to infectious disease pharmacists. In 2006, Paterson published a good
+review of resistance among various Enterobacteriaceae.[42] Ritchie et al (2009) published a good discussion regarding
+antibiotic choices for infection encountered in the ICU.[43]
+Newer options to treat Enterobacter cloacae complex infections include tigecycline, eravacycline, ceftazidime/avibactam,
+meropenem-vaborbactam, and plazomicin,[44] aztreonam in combination with ceftazidime-avibactam[45], and the recently
+FDA approved cefidericol.[46]
+Older options might include intravenous administration of polymyxin B or colistin, drugs that are rarely used, even in large
+medical centers, and for which standard susceptibility criteria are not available. 
+Emerging strategies to combat and treat ESKAPE pathogens including Enterobacter include consideration for
+combination antibiotics including dual therapy (carbapenems in particular), phage therapy, antimicrobial peptides, silver
+nanoparticles and photodynamic light therapy.[47] The reasoning for using a dual carbapenem regimen in carbapenem
+resistant Enterobacterales infections is that one carbapenem acts as a "sacrificial" medication due to its greater affinity
+for binding the bacterial carbapenemase, thus allowing the concomitant carbapenem to maintain an effectively higher
+concentration against the infecting bacteria.[48,49]
+Beta-lactams
+With rare exceptions, E cloacae complex species are resistant to the narrow-spectrum penicillins that traditionally have
+good activity against other Enterobacteriaceae such as E coli (eg, ampicillin, amoxicillin) and to first-generation and
+second-generation cephalosporins (eg, cefazolin, cefuroxime). They also usually are resistant to cephamycins such as
+cefoxitin. Initial resistance to third-generation cephalosporins (eg, ceftriaxone, cefotaxime, ceftazidime) and extended
+spectrum penicillins (eg, ticarcillin, azlocillin, piperacillin) varies but can develop during treatment.[10] The activity of the
+fourth-generation cephalosporin (eg, cefepime) is fair, and the activity of the carbapenems (eg, imipenem, meropenem,
+ertapenem) is excellent. However, resistance has been reported, even to these agents.
+The bacteria designated by the acronym SERMOR-PROVENF (SER = Serratia, MOR = Morganella, PROV =
+Providencia, EN = Enterobacter, F = freundii for Citrobacter freundii) have similar, although not identical, chromosomal
+beta-lactamase genes that are inducible. With Enterobacter, the expression of the gene AmpC is repressed, but
+derepression can be induced by beta-lactams. Of these inducible bacteria, mutants with constitutive hyperproduction of
+beta-lactamases can emerge at a rate between 105 and 108. These mutants are highly resistant to most beta-lactam
+antibiotics and are considered stably derepressed.
+AmpC beta-lactamases are cephalosporinases from the functional group 1 and molecular class C in the Bush-Jacoby
+Medeiros classification of beta-lactamases. They are not inhibited by beta-lactamase inhibitors (eg, clavulanic acid,
+tazobactam, sulbactam). Ampicillin and amoxicillin, first- and second-generation cephalosporins, and cephamycins are
+strong AmpC beta-lactamase inducers. They also are rapidly inactivated by these beta-lactamases; thus, resistance is
+readily documented in vitro and may emerge rapidly in vivo. Jacoby (2009) published a good discussion about the
+emerging importance of AmpC beta-lactamases.[50]
+Third-generation cephalosporins and extended-spectrum penicillins, although labile to AmpC beta-lactamases, are weak
+inducers.[10] Resistance is expressed in vitro only with bacteria that are in a state of stable derepression (mutant
+hyperproducers of beta-lactamases). However, the physician must understand that organisms considered susceptible with
+in vitro testing can become resistant during treatment by the following sequence of events: (1) induction of AmpC beta
+lactamases, (2) mutation among induced strains, (3) hyperproduction of AmpC beta-lactamases by mutants (stable
+derepression), and (4) selection of the resistant mutants (the wild type sensitive organisms being killed by the antibiotic).
+For unknown reasons, extended-spectrum penicillins are less selective for developing resistance than third-generation
+cephalosporins.[10] The in-therapy resistance phenomenon is less common with carboxy, ureido (eg, piperacillin), or
+acylaminopenicillins. This phenomenon has been well documented as a cause of treatment failure with pneumonia and
+bacteremia; however, it rarely occurs with UTIs.[51]
+The fourth-generation cephalosporin cefepime is relatively stable to the action of AmpC beta-lactamases; consequently, it
+retains moderate activity against the mutant strains of Enterobacter, hyperproducing AmpC beta-lactamases.
+Nevertheless, resistance has been reported to develop when this antibiotic was used to treat Enterobacter infections.
+Ceftazidime-avibactam initially was approved in 2015 for the treatment of complicated intra-abdominal infections (cIAI)
+when given with metronidazole and complicated urinary tract infections (cUTI) due to susceptible organisms including E
+cloacae. It was subsequently approved for hospital-acquired and ventilator-associated pneumonia. It also was approved in
+March 2019 for treatment in children older than 3 months with cIAI (given with metronidazole) and cUTI. This antibiotic has
+been shown both in vitro and in vivo to have activity against multidrug-resistant E cloacae isolates.[52,53,8]
+Ceftaroline, a "fifth generation" cephalosporin with activity against S aureus and other staphylococci, including methicillin
+resistant isolates, has activity and resistance potential against E cloacae complex isolates similar to those of third
+generation cephalosporins.[10] Ceftolozane-tazobactam had reliable activity against only wild-type E cloacae complex
+isolates, but not against ESBL or AmpC-overproducing strains.[54] Therefore, neither of these antibiotics would be
+considered useful for empiric treatment of serious Enterobacter infections.
+Carbapenems are strong AmpC beta-lactamase inducers, but they remain very stable to the action of these beta
+lactamases. As a consequence, no resistance to carbapenems, either in vitro or in vivo, can be attributed to AmpC beta
+lactamases. However, Enterobacter species can develop resistance to carbapenems via other mechanisms. The New
+Delhi metallo-beta-lactamase (NDM-1) has affected Enterobacter species around the world.[55,56,57]
+The production of extended-spectrum beta-lactamases (ESBLs) has been documented in Enterobacter. Usually, these
+ESBLs are TEM1 -derived or SHV1 -derived enzymes, and they have been reported since 1983 in Klebsiella pneumoniae,
+Klebsiella oxytoca, and E coli.[58] Bush et al classify these ESBLs in group 2be and in molecular class A in their beta
+lactamase classification.[59] The location of these enzymes on plasmids favors their transfer between bacteria of the
+same and of different genera. Many other gram-negative bacilli may also possess such resistant plasmids.
+Bacteria-producing ESBLs should be considered resistant to all generations of cephalosporins, all penicillins, and to the
+monobactams such as aztreonam, even if the in vitro susceptibilities are in the sensitive range according to the CLSI
+breakpoints. In the past, the CLSI has cautioned physicians regarding the absence of a good correlation with
+susceptibility when its breakpoints are applied to ESBL-producing bacteria.
+The CLSI has published guidelines for presumptive identification and for confirmation of ESBL production by Klebsiella and
+E coli, guidelines that often are applied to other Enterobacteriaceae. From the above, one can conclude that, when a
+bacterium of the genus Enterobacter produces ESBL(s) (more than 1 ESBL can be produced by the same bacteria), it
+does so in addition to the AmpC beta-lactamases that are always present, either in states of inducibility or in states of
+stable derepression. With stable derepressed mutants, additional ESBL and carbapenemase detection laboratory
+methods have been published by the CLSI.[60]
+Carbapenems are the most reliable beta-lactam drugs for the treatment of severe Enterobacter infections, and fourth
+generation cephalosporins are a distant second choice. The use of an extended-spectrum penicillin with a beta-lactamase
+inhibitor (e.g. piperacillin-tazobactam) versus use of a carbapenem (eg, meropenem) remains a controversial issue for
+therapy of ESBL-producing organisms.[61]
+Resistance to carbapenems is rare but has been reported and is considered an emerging clinical threat posed by
+Enterobacter species, as well as by other Enterobacteriaceae.[55,56] The beta-lactamases first implicated in imipenem
+resistance were NMC-A and IMI-1, both molecular class A and functional group 2f carbapenemases, which are inhibited by
+clavulanic acid and then able to hydrolyze all the beta-lactams not associated with a beta-lactamase inhibitor.
+In August 2017, meropenem/vaborbactam was FDA approved for complicated urinary tract infections (cUTI) caused by
+carbapenem-resistant Enterobacteriaceae (CRE). The novel carbapenem/beta-lactamase inhibitor
+meropenem/vaborbactam (Vabomere) specifically addresses carbapenem-resistant Enterobacteriaceae (CRE) (eg, E coli,
+K pneumoniae) by inhibiting the production of enzymes that block carbapenem antibiotics, one of the more powerful
+classes of drugs in the antibiotic arsenal.[49] Bacteria that produce the K pneumoniae carbapenemase (KPC) enzyme are
+responsible for a large majority of CRE infections in the United States.
+The approval was based on data from a phase 3 multicenter, randomized, double-blind, double-dummy study, TANGO-I
+(n=550) in adults with cUTI, including those with pyelonephritis. The primary endpoint was overall cure or improvement and
+microbiologic outcome of eradication (defined as baseline bacterial pathogen reduced to < 104 CFU/mL). Data showed
+about 98.4% of patients treated with intravenous meropenem/vaborbactam exhibited cure/improvement in symptoms and a
+negative urine culture result, compared with 94.3% of patients treated with piperacillin/tazobactam. Approximately 1 week
+posttreatment, approximately 77% of patients treated with meropenem/vaborbactam had symptom resolution and a
+negative urine culture result, compared with 73% of patients treated with piperacillin/tazobactam.[62]
+Hyperproduction (stable derepression) of AmpC beta-lactamases associated with some decrease in permeability to the
+carbapenems  also may cause resistance to these agents. In vitro low-level ertapenem resistance was not associated
+with resistance to imipenem or meropenem, but high-level ertapenem resistance predicted resistance to the other
+carbapenems.[63]
+Metallo-beta-lactamases cause resistance across the carbapenem class, are transmissible, and have been associated
+with clinical outbreaks in hospitals worldwide. In one reported outbreak of 17 cases of infection (2 due to Enterobacter
+species), molecular studies demonstrated presence of a gene belonging to bla(VIM-1) cluster.[64] KPC-type
+carbapenemases have emerged in New York City.[42] The new NDM-1 carbapenemase has already rapidly spread to
+many countries.[23]
+Aminoglycosides
+Aminoglycoside resistance is relatively common and varies widely among centers. Amikacin and the new aminoglycoside
+plazomicin may have better activity than gentamicin or tobramycin but usually are not administered to persons with renal
+compromise owing to the high potential for toxicity. They usually are given in close consultation with pharmacists who
+have infectious disease or antibiotic expertise.
+Quinolones and TMP-SMZ
+Resistance to fluoroquinolones is becoming more common and may be very high in some parts of the world. When
+susceptibility to fluoroquinolones is demonstrated, ciprofloxacin and levofloxacin have somewhat better activity than
+moxifloxacin.
+Resistance to TMP-SMZ is more common, and it should be selected only when the susceptibility report is available from
+the microbiology laboratory and other drugs (eg, carbapenems) are not available for therapy or when "switch to oral"
+therapy is being considered in eligible patients.
+Colistin and polymyxin B
+These drugs are being used more frequently to treat serious infection caused by multidrug-resistant organisms,
+sometimes as monotherapy or in combination with other antibiotics.[8] Clinical experience, including documentation of
+success rates and attributable mortality is broadening.[65,66] Heteroresistance to colistin was demonstrated in a few
+Enterobacter isolates collected from ICU patients and was best identified using broth microdilution, agar dilution, or E-test
+methods.[67] Polymyxin B was not as active against Enterobacter species as it was against other Enterobacteriaceae
+but did demonstrate an MIC50 of less than or equal to 1, with 83% of Enterobacter isolates considered susceptible.[68]
+One recent in vitro study documented a colistin MIC90 of 2 mcg/mL or less in more than 90% of Enterobacter isolates
+from Canada.[69] A study of 89 carbapenem-nonsusceptible Enterobacteriaceae isolates from China showed that
+polymyxin B was much more active than tigecycline.[70]
+Tigecycline and eravacycline
+Although not indicated specifically for Enterobacter pneumonia or bloodstream infections, tigecycline showed excellent in
+vitro activity against these gram-negative bacilli.[71,72,73] In one laboratory study of multidrug-resistant gram-negative
+bacilli, tigecycline maintained a low MIC against all of the organisms.[74,8]
+Eravacycline is a new fluorocycline antibiotic in the tetracycline class. It is similar to tigecycline, but with expanded
+activity.[75,76] It was approved by the FDA in 2018 for the treatment of intra-abdominal infections caused by susceptible
+organisms, including E cloacae. Clinical data are not extensive but are growing. Neither tigecycline nor eravacycline has
+FDA approval for use in patients younger than 18 years.
+Cefidericol
+Cefiderocol is a first in its class injectable siderophore cephalosporin that combines a catechol-type siderophore and
+cephalosporin core with side chains similar to cefepime and ceftazidime. This structure and its unique mechanism of
+action confer enhanced stability against hydrolysis by many beta-lactamases, including extended spectrum beta
+lactamases such as CTX-M, and carbapenemases such as KPC, NDM, VIM, IMP, OXA-23, OXA48-like, OXA-51-like and
+OXA-58. Cefiderocol’s spectrum of activity encompasses both lactose fermenting and non-fermenting Gram-negative
+pathogens, including carbapenem-resistant Enterobacterales.[47,77,49]
+Cefiderocol has received US Food and Drug Administration approval for the treatment of patients aged 18 years or older
+with complicated urinary tract infections and pyelonephritis caused by susceptible gram-negative
+microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, and Enterobacter
+cloacae complex.
+It received approval in 2022 for the treatment of patients aged 18 years or older with hospital-acquired bacterial pneumonia
+and ventilator-associated bacterial pneumonia, caused by the following susceptible gram-negative
+microorganisms: Acinetobacter baumannii complex, Escherichia coli, Enterobacter cloacae complex, Klebsiella
+pneumoniae, Pseudomonas aeruginosa, and Serratia marcescens.
+Surgical Care
+Surgical care is indicated as for other sources of infection: drainage or debridement of abscesses, infected collections, or
+osteomyelitic foci.[45]
+In some instances, the clinician must consider this option instead of percutaneous drainage with CT guidance. The
+severity of the infection and the size of the collection to be drained are among the parameters to consider when choosing
+the best option for the patient.
+For endocarditis, valvular replacement is also indicated, particularly in patients with emboli or intractable heart failure.
+Consultations
+Enterobacter species cause severe and frequently life-threatening infections that can originate in virtually any body
+compartment. Enterobacter infection may warrant consultation with many different subspecialists.
+Consultation with an infectious diseases specialist helps in the selection of antimicrobial agents, taking into account the
+multiple mechanisms of resistance to different classes of antimicrobial agents and the lack of correlation between crude in
+vitro susceptibility results and true clinical efficacy for most of the beta-lactams.
+Intensive care specialists, when appropriate, can help in the management of severe sepsis or septic shock.
+General internal medicine and/or medical subspecialists (eg, cardiologists, gastroenterologists, nephrologists,
+rheumatologists, pulmonologists) may be helpful.
+Surgeons may help with the drainage of infected collections, if indicated, as well as with debridement of necrotic tissues.
+Consult neonatologists for neonatal sepsis and, possibly, general pediatricians or pediatric subspecialists (including
+pediatric infectious disease clinicians and pediatric surgeons).
+Radiologists and nuclear medicine physicians may help select the best imaging study according to patient's specific
+problems. Interventional radiologists may be needed to perform percutaneous drainage of infected collections.
+A microbiologist can provide valuable assistance by educating clinicians regarding the correct interpretation of
+susceptibility testing with this organism and selection of further testing, when indicated.
+Pharmacists, in particular those who have specialty training in infectious diseases pharmaceuticals and prescribing
+practices are often invaluable resources when treating patients with complicated, resistant infections due to Enterobacter
+species.
+Complications
+Rapid development of new resistance is one of the most difficult complication challenges in treating patients
+with Enterobacter infections. The clinician must always be aware of this potential, remain alert to signs of worseing or
+relapsing infection in the patient, and prepared to alter antibiotic therapy when indicated.
+Guidelines
+Guidelines
+Clinicians may find the following guidelines useful when treating patients with Enterobacter infections of central lines,
+heart valves, or prosthetic joints:
+The Infectious Diseases Society of America's (IDSA) guideline on the management of infected central lines is under
+revision[78] 
+The IDSA's guideline on the diagnosis and management of prosthetic joint infections[79]
+In 2022 the IDSA published guidance for treating antimicrobial resistant gram negative pathogens with a focus on ESBL
+producing and carbapenem-resistant Enterobacterales as well as Pseudomonas aeruginosa with difficult to treat
+resistance patterns.[45]
+In December 2023 and July 2024, the IDSA updated their guideline on the treatment of antimicrobial resistant gram
+negative infections with several modifications and updates compared to the 2022 and prior 2023 guidance.[41] Although
+this guideline is not specific for Enterobacter species, it addresses antimicrobial resitant infections caused by
+Enterobacterales, including E cloacae complex because of its higher propensity to carry AmpC inducible genes, or to
+become ESBL or carbapenem resistant. The guideline contains separate sections that address issues in treating ESBL
+producing, AmpC-B-lactamase producing and carbapenem resistant Enterobacterales, as well as a table of suggested
+dosing of antibiotics for the treatment of antimicrobial resistant infections in adults, sorted by antibiotic name and specific
+organ infections.
+Guideline on the management of infected central lines by the Infectious
+Diseases Society of America's (IDSA)
+A clinical practice guideline on the management of infected central lines by the Infectious Diseases Society of America
+(IDSA) was updated in 2009. It is under revision, and the key points are as follows[78]:
+Catheter cultures should be done when a catheter is removed for suspected CRBSI, rather than routinely.
+Qualitative broth culture of catheter tips is not recommended.
+Catheter tip culture is recommended for CVCs, as well as specific inhibitors in culture media for anti-infective
+catheter tips.
+Growth of >15 cfu from a catheter tip by semiquantitative culture reflects catheter colonization.
+Swab the exit site exudate if catheter infection is suspected.
+For short-term catheters, roll plate technique is recommended for tip cultures.
+For long-term catheters, growth of < 15 cfu/plate from insertion site and catheter hub suggests the catheter is not
+the source of infection.
+Blood samples should be obtained prior to antibiotic therapy, with skin preparation using alcohol or chlorhexidine.
+Pair blood samples drawn from catheter and peripheral vein should be cultured for definitive CRBSI diagnosis.
+Vancomycin is recommended for empirical therapy in settings with MRSA prevalence.
+Linezolid should not be used for empirical therapy.
+Antibiotic lock therapy can be used for catheter salvage.
+4-6 weeks of antibiotic therapy for persistent fungemia or bacteremia after catheter removal.
+6-8 weeks of therapy for osteomyelitis in adults.
+Please see the complete guideline for more information.[78]
+Guideline on the diagnosis and management of prosthetic joint infections by
+the Infectious Diseases Society of America (IDSA)
+A clinical practice guideline on the diagnosis and management of prosthetic joint infections by the Infectious Diseases
+Society of America (IDSA) is summarized below[79]:
+Preoperative evaluation for prosthetic joint infection (PJI)
+Suspect PJI in patients with sinus tract or persistent wound drainage, acute painful prosthesis, or chronic painful
+prosthesis especially in the absence of pain-free interval after implantation.
+Evaluation includes detailed history and physical exam, and tests for sedimentation rate or CRP.
+Plain radiographs and diagnostic arthrocentesis are recommended for suspected PJI.
+Blood cultures and imaging studies should be used based on clinical suspicion.
+Intraoperative diagnosis of PJI
+Histopathological examination of periprosthetic tissue is reliable for diagnosing PJI.
+Submitting multiple tissue samples for culture enhances microbiologic diagnosis.
+Definitive signs of PJI include sinus tract, acute inflammation, purulence, and microbiologic results consistency.
+Surgical management decisions should involve orthopedic surgeon consultation.
+Medical treatment strategies:
+Intravenous or oral antimicrobial therapy tailored to pathogen-specific profiles.
+Monitoring guidelines should be followed for outpatient IV therapy.
+Chronic suppressive oral antimicrobials may be considered based on individual circumstances.
+Treatment options include debridement and retention, 2-stage exchange, 1-stage exchange, excision arthroplasty,
+or amputation depending on infection status and patient factors.
+These recommendations aim to guide the preoperative evaluation, intraoperative diagnosis, and medical treatment
+strategies for prosthetic joint infections.
+Please see the complete guideline for more information.[79]
+Medication
+Medication Summary
+The goals of pharmacotherapy are to eradicate the infection, to reduce morbidity, and to prevent complications. Before
+prescribing, and during therapy, always check for renal dose adjustments, as well as potential adjustments that may be
+necessary in older patients, patients with obesity or hepatic dysfunction.
+Antibiotics
+The antimicrobials most commonly indicated in Enterobacter infections include carbapenems, fourth-generation
+cephalosporins, aminoglycosides, fluoroquinolones, and TMP-SMZ.
+Carbapenems continue to have the best activity against E cloacae, E aerogenes, (now known as Klebsiella aerogenes)
+and other Enterobacter species.[80] They are not affected by ESBLs. Imipenem-cilastatin and meropenem are used most
+often. Ertapenem, approved more recently, is gaining clinical experience[81] but emerging resistance is a growing
+concern.[82] In August 2017, meropenem/vaborbactam (Vabomere) was approved for complicated urinary tract infections
+(cUTIs), including pyelonephritis, caused by susceptible Enterobacteriaceae: E coli, K pneumoniae, and E cloacae
+species complex.[62]
+First-generation and second-generation cephalosporins are inactive against Enterobacter infections. Third-generation
+cephalosporins frequently show good in vitro activity against these organisms, but, as explained above, a significant risk
+of developing full resistance during therapy exists. Resistance develops much less frequently with fourth-generation
+cephalosporins because they are relatively stable to AmpC beta-lactamase but not (so far) to the less frequently
+encountered ESBLs (see Medical Care). Third-generation cephalosporins are not indicated for the treatment of severe
+Enterobacter infections, perhaps with the notable exception of uncomplicated infections.
+Fluoroquinolones have good bactericidal activity against gram-negative bacilli; their bioavailability ranges from very good to
+excellent (with the exception of norfloxacin). Newer quinolones have increased their spectrum toward gram-positive
+organisms and, in some cases, toward anaerobes. Ciprofloxacin and levofloxacin have the best activity against gram
+negative bacilli and should generally be selected over the newer fluoroquinolones if clinically indicated.
+Meropenem (Merrem IV)
+Alternative to imipenem for severe Enterobacter infections. Carbapenem of choice for meningitis and for patients at risk for
+seizures. Bactericidal broad-spectrum carbapenem antibiotic that inhibits cell wall synthesis. Effective against most gram
+positive and gram-negative bacteria. Not degraded by renal dehydropeptidase-1. Has slightly increased activity against
+gram-negative organisms and slightly decreased activity against staphylococci and streptococci compared to imipenem.
+Imipenem/cilastatin (Primaxin IV)
+For treatment of multiple-organism infections in which other agents do not have wide-spectrum coverage or are
+contraindicated because of potential toxicity. DOC for severe Enterobacter infections, except for meningitis and other CNS
+infections because of some reports indicating higher seizure potential. Hydrolyzed by the renal dehydropeptidase-1. To
+overcome this urinary inactivation, cilastatin, an inhibitor of this renal enzyme, is administered in equal amounts.
+Ertapenem (Invanz)
+Bactericidal activity results from inhibition of cell wall synthesis and is mediated through ertapenem binding to penicillin
+binding proteins. Stable against hydrolysis by various beta-lactamases, including penicillinases, cephalosporinases, and
+extended-spectrum beta-lactamases. Hydrolyzed by metallo-beta-lactamases.
+Cefepime (Maxipime)
+Fourth-generation cephalosporin with good gram-negative coverage. Similar to third-generation cephalosporins but has
+better gram-positive coverage.
+Ciprofloxacin (Cipro)
+Fluoroquinolone with good activity against pseudomonads and most gram-negative organisms, but no activity against
+anaerobes. Inhibits bacterial DNA synthesis and, consequently, growth. Among fluoroquinolones, ciprofloxacin has the
+best activity against the gram-negative bacilli (including Enterobacter). IV and PO formulations available. Oral
+bioavailability is approximately 80%.
+Levofloxacin (Levaquin)
+Levofloxacin is an alternative to ciprofloxacin. It has the advantage of once daily dosing, whether administered IV or PO.
+Used for pseudomonal infections and infections due to multidrug-resistant gram-negative organisms.
+Trimethoprim-sulfamethoxazole (Bactrim, Bactrim DS)
+Inhibits bacterial growth by inhibiting synthesis of dihydrofolic acid. Antibacterial activity of TMP-SMZ includes common
+urinary tract pathogens, except P aeruginosa. Susceptibility of Enterobacter is generally good but varies among centers.
+Polymyxin B
+Binds to phospholipids, alters permeability, and damages bacterial cytoplasmic membrane.
+Meropenem/vaborbactam (Vabomere)
+Indicated for complicated urinary tract infections (cUTI) caused by carbapenem-resistant Enterobacteriaceae (CRE).
+Vaborbactam is a nonsuicidal beta-lactamase inhibitor that protects meropenem from degradation by certain serine beta
+lactamases such as K pneumoniae carbapenemase (KPC). Vaborbactam does not have any antibacterial activity and
+does not decrease the activity of meropenem against meropenem-susceptible organisms.
+Tigecycline (Tygacil)
+FDA approved for complicated intra-abdominal or skin and soft-tissue infections. A glycylcycline antibiotic that is
+structurally similar to tetracycline antibiotics. Inhibits bacterial protein translation by binding to 30S ribosomal subunit and
+blocks entry of amino-acyl tRNA molecules in ribosome A site. Complicated intra-abdominal infections caused by C
+freundii, E cloacae, E coli, K oxytoca, K pneumoniae, E faecalis (vancomycin-susceptible isolates only), S aureus
+(methicillin-susceptible isolates only), S anginosus group (includes S anginosus, S intermedius, S constellatus), B
+fragilis, B thetaiotaomicron, B uniformis, B vulgatus, C perfringens, and P micros.
+Ceftazidime/avibactam (Avycaz)
+A new cephalosporin beta-lactamase–inhibitor antibiotic with extended activity against many gram-negative bacilli.
+Avibactam is a member of a novel class of non–beta-lactam beta-lactamase inhibitors, the diazabicyclooctanes (DBO),
+acting as a reversible covalent inhibitor. Compared to available inhibitors for clinical use, DBOs are more potent, have a
+broader spectrum, and have a different mechanism of action. A unique feature of avibactam in contrast to earlier beta
+lactamase inhibitors is that avibactam binds reversibly to beta-lactamases, allowing for recyclization and inhibition of
+additional beta-lactamase molecules. Avibactam effectively inactivates class A (ESBLs and KPC), class C (AmpC), and
+some class D (eg, OXA-48) beta-lactamases.
+Eravacycline (Xerava)
+Eravacycline is a fluorocycline antibacterial drug within the tetracycline class. Has expanded activity compared to
+tigecycline. Available for parenteral administration only. Not approved for use in children.
+Plazomicin (Zemdri)
+Plazomicin is an aminoglycoside antibacterial indicated for the treatment of complicated urinary tract infections (CUTI),
+including pyelonephritis, in patients aged 18 years or older. As only limited clinical safety and efficacy data are available, it
+is reserved for use in patients who have limited or no alternative treatment options. To reduce the development of drug
+resistant bacteria and maintain effectiveness of plazomicin and other antibacterial drugs, it should be used only to treat
+infections that are proven or strongly suspected to be caused by susceptible microorganisms. Dosing adjustments are
+required in patients with renal impairment.
+Colistimethate (Coly Mycin M)
+Parenteral formulation indicated for the treatment of acute or chronic infections due to sensitive strains of certain gram
+negative bacilli. It is particularly indicated when the infection is caused by sensitive strains of Pseudomonas aeruginosa.
+Not indicated for Proteus or Neisseria infections. Coly-Mycin M Parenteral has proven clinically effective in the treatment
+of infections due to the gram-negative organisms Enterobacter aerogenes, Escherichia coli, Klebsiella pneumoniae, and P
+aeruginosa.
+siderophore cephalosporin
+cefiderocol
+A new class of antibiotic: an injectable siderophore cephalosporin that combines a catechol-type siderophore and
+cephalosporin core with side chains similar to cefepime and ceftazidime. This structure and its unique mechanism of
+action confer enhanced stability against hydrolysis by many beta-lactamases. It is active against many gram negative
+bacilli, including both fermenter and non-fermenters. It is not active against gram positive or anaerobic organisms.
+Monobactams
+Aztreonam has activity against some Enterobacter isolates, but not usually against more resistant strains. Laboratory
+testing must be done to confirm sensitivity to this drug before using it alone to treat serious infections. It has been
+combined with avibactam to broaden its activity against carbapenemase producing isolates, but the drug is not yet FDA
+approved. It has been used in combination with ceftazidime-avibactam to treat bloodstream and other serious infections
+caused by metallo-β-lactamase producing Enterobacterales.
+Follow-up
+Inpatient & Outpatient Medications
+Enterobacter infections that are improving may warrant switch from an intravenous regimen to an oral medication such as
+a quinolone or TMP-SMZ in accordance with sensitivity testing, when feasible. Ciprofloxacin (500-750 mg PO q12h if renal
+function is normal) is an acceptable alternative in patients who are able to tolerate oral medication as long as they are not
+coadministered with products that contain divalent cations (calcium or dairy products, iron, magnesium, zinc). There are
+no specific guidelines for the treatment of endocarditis caused by enteric gram-negative bacilli. The AHA recommends
+involvement of an infectious diseases specialist, cardiothoracic surgeon, as well as consideration for combination
+antibiotic therapy ideally using antibiotics from two different classes. 
+Some patients with Enterobacter infections may require longer therapy with intravenous antibiotics. In those who meet
+criteria for home antibiotic therapy, the selected intravenous medication should not usually require more than 3-times-daily
+infusion. Ertapenem and tigecycline may be considered for such patients in conjunction with antimicrobial susceptibility
+testing results, infectious disease specialists and home infusion therapy experts. Close monitoring while on antibiotics
+and after stopping antibiotics is essential.
+Deterrence/Prevention
+When hospital (ICU) outbreaks of Enterobacter infections occur, isolation and barrier protection should be implemented.
+Isolation precautions should also be implemented when a multidrug-resistant organism is isolated.
+Hand washing or use of alcohol or other disinfecting hand gels by health care workers between contacts with patients
+prevents transmission of these and other nosocomial bacteria. This is particularly true in ICUs.
+Prior antibiotic administration is a major factor for colonization and secondary infections with these multiple-antibiotic
+resistant organisms. Clinicians are advised to avoid unnecessary administration of antimicrobial agents or to avoid
+unnecessary prolonged administration. For surgical prophylaxis, administration of antibiotics for longer than 24 hours is
+rarely justifiable.
+Education programs for physicians and hospital personnel regarding risk reduction for transmission of Enterobacter
+species and other nosocomial pathogens should be implemented in every hospital. This is usually the responsibility of the
+Infection Prevention and Control team.
+Comprehensive guidelines regarding isolation for and prevention of nosocomial infections and management of infections by
+multidrug-resistant organisms (eg, ESBL-producing Enterobacter species) in health care settings are available at the
+Centers for Disease Control Web site (Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in
+Healthcare Settings 2007; Management of Multidrug-Resistant Organisms In Healthcare Settings, 2006).
+The Centers for Disease Control and Prevention (CDC) has expanded its guidelines for preventing the spread of
+carbapenem-resistant Enterobacteriaceae (CRE). Noting that most cases of CRE found in the United States have been
+isolated from patients who received overnight treatment in medical facilities outside the country, the new
+recommendations are as follows[83,84]:
+When a CRE is found in a patient who within the previous 6 months had stayed overnight in a non-US health-care
+facility, the isolate should undergo confirmatory susceptibility testing and the carbapenem resistance mechanism
+should be determined
+Rectal screening cultures should be ordered for any patient admitted to a health-care facility in the United States
+after being hospitalized within the previous 6 months in another country; such patients should be placed on contact
+precautions until the results of the screenings are available.
+Prognosis

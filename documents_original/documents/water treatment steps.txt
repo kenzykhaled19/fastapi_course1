@@ -1,0 +1,40 @@
+Water treatment steps
+1. Coagulation
+Coagulation is often the first step in water treatment. Treatment plant staff add chemicals to the water that help bind together dirt and other small particles. The chemicals they commonly use include specific types of salts, aluminum, or iron.
+
+2. Flocculation
+Flocculation is the gentle mixing of the water to form larger, heavier particles called flocs. Often, treatment plant staff will add additional chemicals during this step to help the flocs form.
+
+3. Sedimentation
+Sedimentation separates out solids from the water. Flocs are heavier than water, so they settle to the bottom of the water during this step.
+
+4. Filtration
+Once the flocs have settled to the bottom of the water, the clear water on top goes through several filters.
+
+The filters have different pore (hole) sizes and are made of materials such as sand, gravel, or charcoal. These filters remove germs, including parasites, bacteria, and viruses. They also remove dissolved particles, such as dust and chemicals. Activated carbon filters remove bad smells.
+
+Utilities that use a process called ultrafiltration put water through a filter with very small pores. This filter only lets through water and other small molecules (such as salts and tiny, charged molecules).
+
+Reverse osmosis is another way to filter water that removes additional particles from water. Water treatment plants often use reverse osmosis when treating recycled water or salt water for drinking.
+
+5. Disinfection
+Disinfection is often the last step. Water treatment plants may add one or more chemical disinfectants to kill any remaining germs. Common types of chemical disinfectants include chlorine, chloramine, or chlorine dioxide.
+
+Treatment plant staff make sure the water has low levels of the chemical disinfectant when it leaves the treatment plant. This remaining disinfectant kills germs living in the pipes between the water treatment plant and your tap.
+
+Water treatment plants can also use ultraviolet (UV) light or ozone to disinfect water. They may use UV light or ozone instead of, or in addition to, chemical disinfectants. UV light and ozone work well to disinfect water in the treatment plant. However, these methods do not continue killing germs as water travels through the pipes between the treatment plant and your tap.
+
+pH and fluoride adjustments improve water
+Water treatment plants commonly adjust water pH and add fluoride after the disinfection step. Adjusting the pH improves taste, reduces corrosion (breakdown) of pipes, and helps chemical disinfectants continue killing germs as the water travels through pipes. Drinking water with the right amount of fluoride keeps teeth strong and reduces cavities.
+Water treatment differs by community
+Different utilities use different treatment steps depending on the quality of the source water entering the treatment plant. Water from lakes, rivers, or reservoirs typically require more treatment than water from under the ground. This is because—compared to water from under the ground—lake, river, and reservoir water contain more:
+
+Sediment (sand, clay, and other soil particles)
+Germs
+Chemicals
+Toxins
+Some water supplies contain specific chemicals or toxins that require utilities to use special treatment methods to control or remove them. These chemicals and toxins can include:
+
+Nitrates
+Radionuclides (small radioactive particles)
+Toxins made by cyanobacteria (blue-green algae)

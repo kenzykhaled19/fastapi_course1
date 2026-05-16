@@ -1,0 +1,113 @@
+Chlorination in Water Treatment: Mechanisms, Dosing, By-products, and Bacterial Inactivation
+
+Chlorination is the most widely used method of water disinfection in the world, providing both primary disinfection (killing pathogens at the treatment plant) and residual disinfection (maintaining protective chlorine levels throughout the distribution network). Since its introduction in 1908 in Jersey City, USA, chlorination has been credited with reducing typhoid fever and cholera mortality by over 90% in developed countries.
+
+## 1. Forms of Chlorine Used in Water Treatment
+
+| **Form** | **Chemical** | **Use** |
+| --- | --- | --- |
+| Chlorine gas (Cl2) | Compressed gas | Large municipal plants (most cost-effective) |
+| Sodium hypochlorite (NaOCl) | Liquid bleach (5-15%) | Medium and small systems; emergency use |
+| Calcium hypochlorite (Ca(OCl)2) | Solid tablets/powder (65-70%) | Small systems; field use |
+| Chloramine (NH2Cl) | Chlorine + ammonia | Residual disinfection in long distribution networks |
+| Chlorine dioxide (ClO2) | Generated on-site | Biofilm control; taste and odor removal |
+
+## 2. Mechanism of Bacterial Inactivation
+
+When chlorine dissolves in water, it forms hypochlorous acid (HOCl) and hypochlorite ion (OCl-):
+
+Cl2 + H2O → HOCl + HCl
+
+HOCl ⇌ H+ + OCl- (pKa 7.54)
+
+**HOCl (hypochlorous acid)** is the active germicidal form — it is approximately 80-100 times more effective than OCl- (hypochlorite ion). At pH below 7.5, the equilibrium favors HOCl. This is why maintaining a slightly acidic pH (6.5-7.5) significantly improves disinfection efficiency.
+
+**Mechanism of bacterial kill:**
+1. HOCl penetrates the bacterial cell wall (Gram-negative: through porins in outer membrane; Gram-positive: directly through peptidoglycan).
+2. Inside the cell, HOCl oxidizes sulfhydryl (-SH) groups in critical enzymes, disrupting metabolism.
+3. HOCl also damages DNA and RNA, preventing replication.
+4. The cell membrane is oxidized, causing leakage of intracellular contents and cell lysis.
+
+## 3. CT Values for Key Waterborne Bacteria
+
+CT value = Concentration (mg/L) × Time (minutes) required for specified log inactivation at given pH and temperature.
+
+**For 3-log (99.9%) inactivation at pH 7, 15°C:**
+
+| **Organism** | **CT Value (mg·min/L)** |
+| --- | --- |
+| E. coli | 0.04 |
+| Salmonella typhi | 0.02 |
+| Shigella dysenteriae | 0.08 |
+| Vibrio cholerae | 0.02 |
+| Legionella pneumophila | 0.04 |
+| Pseudomonas aeruginosa | 0.6 |
+| Klebsiella pneumoniae | 0.1 |
+| Mycobacterium avium | 600 |
+| Cryptosporidium parvum | >7200 |
+
+Key insight: Most waterborne bacteria are killed by very low CT values. Pseudomonas and Mycobacteria are significantly more resistant. Cryptosporidium is essentially chlorine-resistant.
+
+## 4. Factors Affecting Chlorination Efficiency
+
+| **Factor** | **Effect on Disinfection** |
+| --- | --- |
+| pH (higher pH) | Shifts HOCl to OCl-; reduces effectiveness |
+| Temperature (lower) | Slower reaction rate; requires higher CT |
+| Turbidity (higher) | Particles shield bacteria from chlorine contact |
+| Organic matter (higher) | Consumes chlorine; reduces available disinfectant |
+| Ammonia (presence) | Converts HOCl to chloramine (less effective) |
+| Biofilm | Bacteria in biofilms are 100-1000x more resistant |
+
+## 5. Chlorine Demand and Dosing
+
+**Chlorine demand** = The amount of chlorine consumed by reactions with organic matter, ammonia, and other compounds before any residual remains.
+
+Dosing calculation:
+Applied Chlorine Dose = Chlorine Demand + Required Residual
+
+For example:
+- Water with chlorine demand of 2.0 mg/L
+- Required residual of 0.5 mg/L
+- Applied dose = 2.0 + 0.5 = 2.5 mg/L
+
+**Breakpoint chlorination:** When enough chlorine is added to destroy all ammonia and organic nitrogen, forming nitrogen gas, then additional chlorine remains as free chlorine residual. This breakpoint ensures maximum disinfection effectiveness.
+
+## 6. Disinfection By-Products (DBPs)
+
+Chlorine reacts with naturally occurring organic matter (humic and fulvic acids) to form potentially harmful by-products:
+
+| **By-product Group** | **Examples** | **WHO Guideline Value** |
+| --- | --- | --- |
+| Trihalomethanes (THMs) | Chloroform, Bromoform | 0.3 mg/L (total THMs) |
+| Haloacetic Acids (HAAs) | Dichloroacetic acid | 0.05 mg/L |
+| Chlorate | ClO3- | 0.7 mg/L |
+| Bromate | BrO3- | 0.01 mg/L |
+
+**DBP minimization strategies:**
+- Remove organic matter BEFORE chlorination (coagulation, filtration, activated carbon).
+- Maintain minimum effective chlorine dose.
+- Consider alternative disinfectants (UV, ozone) with chloramine as residual.
+- Use chloramine instead of free chlorine in distribution (fewer THMs formed).
+
+## 7. Residual Chlorine in Distribution Systems
+
+Maintaining a chlorine residual in the distribution network prevents recontamination:
+
+- **WHO minimum residual:** 0.2 mg/L free chlorine at any point in the distribution system.
+- **Maximum at tap:** 5.0 mg/L (above this, taste and odor complaints increase significantly).
+- **Monitoring:** Residual should be measured at representative points covering different distances from the treatment plant, different pipe materials, and areas with high vs. low water demand.
+
+Loss of chlorine residual in the distribution system is one of the most important early warning signs of microbiological contamination risk.
+
+## 8. Bacterial Resistance to Chlorination
+
+While most waterborne bacteria are highly susceptible to chlorination, mechanisms of reduced susceptibility include:
+
+- **Biofilm formation:** Bacteria embedded in extracellular polysaccharide matrices are protected from chlorine penetration.
+- **Aggregation:** Clumps of bacteria protect interior cells.
+- **Intracellular location:** Bacteria inside amoebae (Legionella) are shielded.
+- **Thick capsules:** Klebsiella's polysaccharide capsule provides partial protection.
+- **Efflux pumps:** In Pseudomonas, active efflux can reduce intracellular HOCl accumulation.
+
+Note: Antibiotic resistance does NOT equal disinfectant resistance. MRSA, ESBL-producing Klebsiella, and carbapenem-resistant Enterobacter are all still fully susceptible to standard chlorination at recommended doses.

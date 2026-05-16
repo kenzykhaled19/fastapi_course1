@@ -16,6 +16,44 @@ import uuid
 import tempfile
 import time
 from fastapi import BackgroundTasks
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
+# ── Chatbot Setup ──
+import sys
+DOCS_FOLDER = os.path.join(BASE_DIR, "documents_original", "documents")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from search import search as member3_search
+from chatbot import get_answer, reset_conversation, train_word2vec
+
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+
+# Load document contents
+doc_contents = {}
+for fname in os.listdir(DOCS_FOLDER):
+    if fname.endswith('.txt'):
+        path = os.path.join(DOCS_FOLDER, fname)
+        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+            doc_contents[fname] = f.read()
+
+# Adapter function
+def chatbot_search(query):
+    raw_results = member3_search(query, top_k=5)
+    converted = []
+    for result in raw_results:
+        filename = result["filename"]
+        content = doc_contents.get(filename, "")
+        if content:
+            converted.append((filename, content, result["score"]))
+    return converted
+
+# Train Word2Vec once
+print("Training Word2Vec...")
+w2v_model = train_word2vec(DOCS_FOLDER)
+print("✅ Chatbot ready!")
+
+
 
 otp_store = {}
 #loading the model
@@ -215,382 +253,31 @@ async def reset_password(email: str, otp: str, new_password: str, db: Session = 
     return {"message": "Password reset successfully"}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# from fastapi import FastAPI, HTTPException,status
-# from enum import Enum
-
-# from pydantic import BaseModel
-
-
-# app = FastAPI()
-
-# class Post(BaseModel):
-#     id: int
-#     title: str
-#     content: str
-
-
-# my_posts=[
-#     {"id": 1, "title": "post1" , "content": "this is the content of post1" },
-#     {"id": 2, "title": "post2" , "content": "this is the content of post2" },
-#     {"id": 3, "title": "post3" , "content": "this is the content of post3" },]
-
-
-
-
-# @app.get("/posts" , status_code=status.HTTP_201_CREATED)
-# def get_posts():
-#     return {"message":my_posts}
-
-
-# def delete_post(id):
-#     for i,p in enumerate(my_posts):
-#         if p["id"]==id:
-#             return i
-
-# @app.delete("/posts/{id}")
-# def delete_posts(id: int):
-#     item=delete_post(id)
-#     if item is None:
-#         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f"post with id {id} not found")
-#     else:
-#      my_posts.pop(item)
-#      return {"message":f"post with id {id} has been deleted"}
-
-
-
-
-
-# @app.post("/posts")
-# def create_posts(post :Post):
-#     my_posts.append(post)
-#     return {"message":f"post with id {post.id} has been created"}
-
-
-# @app.get("/posts/latestpost")
-# def get_latest_post():
-#     item=my_posts[len(my_posts)-1]
-#     print(item)
-#     return {"latest post:": item}
-
-
-# @app.get("/posts/{id}")
-# def get_posts(id:int):
-#     for p in my_posts:
-#         if p["id"]==id:
-#             return {"post:": p}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# items=[
-#     {"id": 1, "name": "item1" , "price": "$10" , "stock" : True },
-#     {"id": 2, "name": "item2" , "price": "$20" , "stock" : False },
-#     {"id": 3, "name": "item3" , "price": "$30" , "stock" : True },
-#     {"id": 4, "name": "item4" , "price": "$40" , "stock" : False },
-#     {"id": 5, "name": "item5" , "price": "$50" , "stock" : True },
-# ]
-
-# @app.get("/items")
-# async def get_items(start: int =0, end: int =10, id: int=None , name:str=None , in_stock: bool=None):
-#     if id:
-#         item=[item for item in items if item["id"]==id]
-#         if item:
-#             return item
-#         else:
-#              return {"message":" Enter a valid id"}
-          
-#     if name:
-#         item=[item for item in items if item["name"]==name]
-#         if item:
-#             return item
-#         else:
-#              return {"message":" Enter a valid name"}
-
-
-#     if in_stock:
-#             item=[item for item in items if item["stock"]==True]
-#             return item
-#     elif in_stock == False:
-#             item=[item for item in items if item["stock"]==False]
-#             return item
-#     else:
-#         return {"message":" No items in stock"}
-
-
-#     return items[start : start + end]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# class ListUser(str, Enum):
-#     Admin = "kenzy"
-#     manager = "john"
-#     user = "mary"
-
-# @app.get("/{users}/{ListyUser}" , description="Get users")
-# async def get_users(users: str , ListyUser: ListUser):
-#     return {"message": f"this is a get request for {users} added by {ListyUser.name}:"}
-
-# @app.get("/")
-# async def root():
-#     return {"message": "Hello Kenzy"}
-
-# @app.post("/")
-# async def post():
-#     return {"message": "this is a post request"}
-
+# ── Chatbot Endpoints ──
+from pydantic import BaseModel as PydanticBase
+
+class ChatRequest(PydanticBase):
+    question: str
+
+class ChatResponse(PydanticBase):
+    answer: str
+    sources: list
+
+@app.post("/chat", tags=["Chatbot"])
+async def chat(request: ChatRequest, current_user: str = Depends(verify_token)):
+    result = get_answer(
+        user_question   = request.question,
+        search_function = chatbot_search,
+        docs_folder     = DOCS_FOLDER,
+        groq_api_key    = GROQ_API_KEY,
+        w2v_model       = w2v_model
+    )
+    return {
+        "answer":  result["answer"],
+        "sources": result["top_documents"]
+    }
+
+@app.post("/chat/reset", tags=["Chatbot"])
+async def chat_reset(current_user: str = Depends(verify_token)):
+    reset_conversation()
+    return {"status": "ok"}

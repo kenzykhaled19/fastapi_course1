@@ -1,0 +1,238 @@
+The Detection Method of Escherichia coli in Water Resources
+
+Abstract. This article reviews several approaches for Escherichia coli (E. coli) bacteria
+ detection from conventional methods, emerging method and goes to biosensor-based
+ techniques. Detection and enumeration of E. coli bacteria usually required long duration of
+ time in obtaining the result since laboratory-based approach is normally used in its assessment.
+ It requires 24 hours to 72 hours after sampling to process the culturing samples before results
+ are available. Although faster technique for detecting E. coli in water such as Polymerase
+ Chain Reaction (PCR) and Enzyme-Linked Immunosorbent Assay (ELISA) have been
+ developed, it still required transporting the samples from water resources to the laboratory,
+ high-cost, complicated equipment usage, complex procedures, as well as the requirement of
+ skilled specialist to cope with the complexity which limit their wide spread practice in water
+ quality detection. Recently, development of biosensor device that is easy to perform, portable,
+ highly sensitive and selective becomes indispensable in detecting extremely lower
+ consolidation of pathogenic E. coli bacteria in water samples.
+ 1. Introduction
+ Some of the major health risks are caused by microorganisms such as bacteria or pathogen because it’s
+ may survive, reproduce and disperse in water systems [1]. Approximately, 1.7 billion children in
+ developing countries under age five died due to diarrhea, mainly by drinking contaminated water that
+ has been reported by World Health Organization (WHO). Besides, 525,000 children deaths a year in
+ world-wide because of the poor water quality, sanitation and hygiene mainly through infectious
+ diarrhea [2, 3]. Human and animal waste in water resources can cause water to contaminate [4]. There
+ is no method has been reported used to numerate or isolate all of the particular noteworthy pathotypes
+ because there have so much element in water other than dangerous bacteria and directly testing a large
+ variety of pathogens will be difficult, pricey, and time consuming [3]. Therefore, several approached
+ are developed to pointedly numerate or isolate convinced pathotypes. E. coli as shown in Figure 1 is
+ the best-known coliform to indicate the fecal contamination because it can be found almost
+ exclusively in human and animal feces [2, 5].
+ Therefore, measuring E. coli bacteria in water resources become a critical issue to indicate fecal
+ contaminant from human and animal. The monitoring device to detect the amount of E. coli bacteria is
+ crucial to maintain the quality of water and protect public health. It remains a significant risk to people
+ ContentfromthisworkmaybeusedunderthetermsoftheCreativeCommonsAttribution 3.0 licence. Any further distribution
+ of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+ Published under licence by IOP Publishing Ltd
+
+ for minimizing the spreading of infectious disease from E. coli because it can lead to some diseases
+ such as bloody diarrhea, kidney failure and can cause death if not treated immediately. E. coli is in a
+ group of Enterobacteriaceae which is in Gram-negative bacteria family and known as most infecting
+ organisms in that group. This bacteria are non-spore forming and rod shaped with approximately 0.5
+ µmin diameter and between 1.0 to 3.0 µm in length [7].
+ Envelope Nucleoid
+ Figure 1. Image of an E. coli cell [6].
+ 2. Conventional Method
+ There are conventional microbiological tests that have ability to numerate the bacteria levels in water
+ or other substances such as Multiple Tube Fermentation (MTF) [8], Plate Count Enumeration Method
+ and Membrane Filter (MF) technique [9]. These methods are labelled as conventional microbiological
+ method introduced in 19 centuries that's already been approved by U.S. Environmental Protection
+ Agency (EPA) because of high accuracy [10]. Nowadays, although the methods are still being used for
+ routine detection of E. coli in drinking water, it became not practical since the result can only be
+ confirmed in several days and required expert in the biological area to perform the cultivation step.
+ Multiple-tube fermentation Technique (MTF) is based on the principle of dilution by using
+ Most Probable Number (MPN) to enumerate total bacteria form [11]. The MTF technique is made of a
+ series of dilutions generally one millilitre are shifted into several fermentation tubes [12]. The total
+ specific bacteria accommodate with liquid medium are very suitable for growing in the fermentation
+ tube as shown in Figure 2. The inverted gas collected in the fermentation tube shown positive result.
+ Furthermore, this method became particularly useful for Plate Count Enumeration Methods in Figure 3
+ that is more often and convenient to use especially for an approximation of the E. coli bacteria count
+ since too much tube needed in MTF method. MF is another traditional technique that can be used for
+ E. coli detection by delivering water sample over small pore grid paper filter to trap the bacteria and
+ selected agar are added into plate for growing the E. coli [13]. After incubation process, the dot that
+ represent colonies are counted by using Plate Count Enumeration Method [9].
+ (a)
+ (b)
+2
+
+Figure 2. Interpretation methods to determine the concentration of viable E. coli. (a) MTF
+method; (b) Plate Count Enumeration Method [14].
+ 3. Emerging Methods
+ Although standard methods can provide reliable results in the presence or absence along with the
+ concentration of the E. coli bacteria, they take at least two days for the tests, which limits their use in
+ the prevention of waterborne disease. Therefore, several methods have emerged to realize the rapid
+ detection and enumeration of E. coli bacteria in drinking water such as Immunological [15-18] and
+ Polymerase Chain Reaction [19-21].
+ Immunological methods perform more rapid method compare to conventional MTF, Plate
+ Count Enumeration Method and MF. The test measured amount of E. coli bacteria within a 24-hour
+ period so it performs better than traditional methods that required at least two days to get the result. In
+ immunological, the antigen-antibody reaction are performed and can be anticipated by several
+ approaches, such as Enzyme-Linked Immunosorbent Assay (ELISA). ELISA took about 24 hours
+ because a pre-enrichment culture was still needed, make it not applicable for on-field applications [22].
+ Nucleic acid-based techniques by using Polymerase Chain Reaction (PCR) became promising
+ due to high sensitivity and rapidity. The conventional PCR seems to have several limitations because it
+ detects both viable and dead cells. Besides, it is very complicated method where there need many tube
+ variable to perform the process and still timely [23]. An advanced method has been developed to
+ overcome the problem, namely Reverse Transcriptase (RT-PCR) [24]. The technology already solved
+ the problem and became more distinct to differentiate between viable and dead cells besides
+ performing rapidly process. The research on PCR are performed to produce less complicated and
+ simple made by Soto-Munoz L. et al. called Real-Time PCR [25]. However, it contains an extremely
+ toxic compound (e.g. Propidium monoxide) make it become not appropriate to use [26].
+ Although many advanced methods are used to detect E. coli bacteria in water, only PCR and
+ ELISA approaches are declared as established methods [27]. Both methods are the most common tools
+ used studied by Lusaka et al. [28]. A researcher found that both methods can be merged together to
+ produce more robust results [23]. PCR is an excellent method of E. coli detection compared to the
+ standard culture and ELISA method since it is very sensitive, accurate and a promise to real-time
+ quantitative. Despite its highly sensitive, PCR is difficult to operate because the complex standardized
+ protocols were needed during testing process [29]. Therefore, a skilled worker is required while
+ running the machine to cope with its complexity.
+ 4. Biosensors
+ Biosensors are small devices that employ biological/biochemical reactions for detecting target analytes.
+ Basically, the device consists of a biocatalyst and a transducer. Biocatalyst may be a cell, tissue,
+ enzyme or even an oligonucleotide [30]. There are many transducers which can be used to detect a
+ range of chemical, optical, and biological signals generated by the targeted pathogen. Most detection
+ technologies are revolving around the measurement of optical, electrochemical and piezoelectric [31].
+ Application and technologies in biosensors for E. coli detection water environmental analysis had
+ reviewed in many articles [30-35]. The sensitivity of most biosensor seems has significantly increased
+ in recent years, but it still has some shortcoming and needs more improvement to increase the
+ sensitivity. In E. coli bacteria detection, selectivity also the main parameter to take account. To make
+ the sensor became high selectivity, the molecular and bio-molecular recognition is employed on the
+ receptive layer such as antigen-antibody binding (i.e. any chemicals, bacteria, viruses, or pollen
+ binding to a specific protein) [32].
+3
+
+4.1. Optical biosensor
+
+ Optical detection method is the most widely operated in pathogen monitoring system due to highly
+ sensitive. Such diverse methods include detection based on absorption, fluorescence, refraction,
+ reflection and chemiluminescence. Among of all diversity, fluorescence and absorption techniques are
+ the simplest technique to use for monitoring and enumerate E. coli. B. Heery et al. had produced an
+ immunoassay fluorescence device using specific enzyme assays of E. coli that was capable to deliver
+ results on-site as low as 250 CFU/100 mL within 75 min [36]. Although labelling fluorescence
+ detection method has high selectivity for detecting E. coli, majority of these techniques involve sample
+ filtration, lysing, incubation, and detection steps which is critical when substrate quantity is limited.
+ Furthermore, the process of labelling of fluorescence signal suffer from a relatively bulky external
+ equipment and longer time of analysis. Efforts to miniaturize this platform are currently underway. A
+ simple method using absorption techniques is analysed by N. M. Salih et al. that detect E. coli bacteria
+ suspension in Polydimethylsiloxane (PDMS) Glass [37]. The microfluidic based that are represented
+ by the system are noble for miniaturizing the analytical instrumentation. However, the method suffers
+ from lack of selectivity since it has possibility to detect other materials.
+ The demand for high throughput label-free multiplexed biosensors for biological sensing has
+ increased in the last decades. Therefore, the circumstances have led to the development of fiber optics
+ [38-41], planar waveguides [42-44] and surface plasmon resonance [45-50] in the area of optical
+ biosensor. These techniques are modified by the interaction of bio-recognition element, such as
+ enzymes, antibodies, antigens, or receptors of E. coli used on it to make it highly selective. The
+ concept of fiber optics is that the transmission of light energy is passing through transparent fiber as
+ shown in Figure 3. Fiber optic known as an advanced technology and perform good performance, high
+ bandwidth, low loss and relatively cheap that make it suitable mechanism for biosensor. One of the
+ limitation of employing optical fiber for bacteria identification is the change of temperature that can
+ vary the material optical properties. Therefore, if the sample gets much colder or hotter it gives
+ inaccurate readings so it only design for specific temperature [46]. In planar optical waveguides, thin
+ optically transparent film with that has high refractive more than superstrate mediums and adjacent
+ substrate is usually being used. Under this condition, light is combined into the thin waveguide film
+ are constrained to the layer and generate to meaningful distances as shown in Figure 4 [47]. SPR is
+ known as label-free biosensor that produce real-time result based on changes the refractive index on
+ the surface of sensor part which is proportional to the biomolecule concentration. The operating
+ regulation of a typical SPR instrument is presented in Figure 5 [48].
+ Figure 3. Schematic illustration using fiber optics in E. coli detection [35].
+ 4
+
+
+ Figure
+ 4.
+ Planar
+ waveguides
+ illustration using laser beam [51].
+4.2 Electrochemical biosensors
+ Figure 5. CMOS Camera-Based SPR
+ in E. coli detection [50].
+ The electrochemical based approach is another possible technique for identification and
+ quantification of E. coli. The basic of electrochemical dealt with interconversion between chemical
+ and electrical energy. This detection method was based on amperometric, impedimetric,
+ potentiometric and conductometric with its parameters such as current, impedance, potential, and
+ conductance respectively [52]. Amperometric is known as the most typical electrochemical detection
+ method used for pathogen detection and it has superior sensitivity compare to other electrochemical
+ method. Rochelet et al. measure β-D glucuronidase (GLUase) activity with disposable carbon sensors
+ [53]. J-j. Gau et al. has evolved a system of amperometric identification and enumeration of E. coli
+ uses the consolidation of Self-Assembled Monolayers (SAM), microelectromechanical systems
+ (MEMS), enzyme amplification and DNA hybridization. By employing ssDNA-rRNA hybridization
+ and amplification of enzymatic, high specificity for E. coli was achieved [54]. In potentiometric
+ detection-based, the conversion occurs from the bio-recognition into a potential signal. Generally, to
+ measure the electrical potential difference or electromotive force between two electrodes at near zero
+ current a high impedance voltmeter is used. The feasibility of detecting E. coli in water with simple
+ flow injection are analyse using Chronopotentiometric Aptasensing by J. H. Lei et al. Aptamer is used
+ as a bioreceptor and the polyion-sensitive membrane electrode as a signal transducer [55]. Recently,
+ Shaibani et al. developed a rapid, simple and low cost E. coli detection with the pH sensitive hydrogel
+ nanofiber-light addressable potentiometric sensor (NF-LAPS) as shown in Figure 6 [56]. The system
+ of NF-LAPS provides a theoretical limit of detection (LOD) of 20 CFU/ml show it very high
+ sensitivity.
+ Then, the assimilation of impedance approach to recognition biological technology has driven
+ by the impedance biosensors development that are boundless in the recent years. Colquhoun et al. has
+ utilized a medium of trimethylamine N-oxide (TMAO) and glucuronic acid that are very specific for E.
+ coli in imperometric based sensor to detect E. coli in water samples [47]. Promising result had shown
+ in the research which indicates the change of impedance during the growing of E. coli bacteria.
+ Compact E. coli biosensor Electrochemical Impedance Immunosensor Based on SAM been reported
+ by Z. Li et al. with a detection limit of 102 CFU/mL as shown in Figure 7 [57]. The miniature of
+ electrode to micro size in this report represent the usage of electrode nowadays that minimizing the
+ volume of testing sample. The smaller size can make the sensor prototype become compact.
+ Conductometric detection method is based on the connection between conductance parameter and bio
+ recognition applying method. Z. Muhammad-Tahir and E. C. Alocilja had evolved a conductometric
+ biosensor that successfully detecting bacteria such as E. coli and Salmonella [58]. Research work
+ shows a specific, high limit of detection, low sample volume used and near real time assay mechanism.
+ 5
+Figure 6. Nanofiber-light
+addressable potentiometric sensor
+(NF-LAPS) mechanism [56].
+4.3 Piezoelectric biosensors
+Figure 7. Microelectrode using Impedance- Based
+ immunosensor [57].
+ Piezoelectric based detection methods using quartz crystal are mostly utilized that can
+ oscillates at a defined frequency when apply an oscillating voltage. The rapid resulting assay
+ performed in ten minutes are developed by Pohanka et al. [59]. The piezoelectric crystal surface are
+ linked with a polyclonal antibody using glutaraldehyde to detect E. coli that had a limit of detection of
+ 1 × 106 CFU/mL. In the research by X. L. Su et al., piezoelectric methods have been applied to
+ enumerate E. coli immobilized on a SAM [60]. This finding showed potential to be combined 16
+ mercaptopropanoic acid (MHDA) with SAM for better sensitivity compare by using protein A in the
+ Piezoelectric Immuno-sensor with limit of detection of 103 CFU/ml within 30 to 50 min. Based on the
+ finding, V.K.T Ngo et al. has developed Quartz Crystal Microbalance (QCM) biosensor by combined
+ 16-mercaptopropanoic acid (MHDA) with SAM [61]. The result shown better sensitivity with limid of
+ detection of 102 CFU/ml E. coli O157:H7 within 50 min. Recently, F. Tong et al. developed the
+ piezoelectric biosensor with an annular microelectrode as shown in Figure 8. By using micro-scale
+ structure of microelectrode, the optimization in term of current density, rapid response time and mass
+ transfer between the electrodes [62]. The benefit of using piezoresistivity method is that the detection
+ mechanism can be integrated easily into lab-on-a-chip type devices. Moreover, it is more cooperative
+ with small amount of sample.
+ 6
+ ISMAP 2017 
+ IOP Conf. Series: Journal of Physics: Conf. Series 995 (2018) 012065 
+ 1234567890 ‘’“”
+ IOP Publishing
+ doi :10.1088/1742-6596/995/1/012065
+ Figure 8. Schematic diagram of the piezoelectric biosensor connected serially with microelectrode.
+ I: (a) culture-detection well; (b) a detection plate containing 8 detection wells; II: frequency meter
+ and data processing system; III: PC interface; PQC: 9 MHz AT-cut piezoelectric quartz crystal [62].
+ 5. Conclusion
+ One of the major problems in developing a rapid test for E. coli is the bulky and complicated
+ machine used, including lengthy enrichment procedures. Therefore, biosensors became an attractive
+ proposition for diagnostic and bacteria detection in the research area. It continuously interesting
+ because of newly recognized, newly appreciated, and evolving agents. Developing a method to detect
+ E. coli is not only benefits the consumer by ensuring the safety of the water supply, but also benefits
+ the industry by preventing costly recalls. The requirement to increase the sensitivity is needed to
+ identify and consider microbial pathogens for possible regulation in water supply since E. coli present
+ at very low magnification in water resources. The research area by using the interaction of bio
+ recognition element in label-free biosensor became a trend nowadays. The main advantages offered by
+ biosensors are the possibility of portability, of miniaturization and working on-site, and the ability to
+ measure pollutants in complex matrices with minimal sample preparation. Although many of the
+ systems developed cannot compete with conventional analytical methods in terms of accuracy they
+ can be used by regulatory authorities and by industry to provide enough information for routine testing
+ and screening of samples.
+ Acknowledgments
+ This paper was partly sponsored by the Centre for Graduate Studies UTHM.

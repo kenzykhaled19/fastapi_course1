@@ -1,0 +1,119 @@
+Ozonation in Water Treatment: Mechanisms, Applications, and Bacterial Inactivation
+
+Ozone (O3) is one of the most powerful oxidants and disinfectants available for water treatment. It is approximately 50 times more effective as a disinfectant than chlorine and acts 3,000 times faster. Ozone was first used in water treatment in Nice, France in 1906, making it older than chlorination. Today, it is widely used in Europe and increasingly in North America for primary disinfection, taste and odor removal, and micropollutant degradation.
+
+## 1. What is Ozone?
+
+Ozone is a molecule consisting of three oxygen atoms (O3), formed when molecular oxygen (O2) is exposed to high-energy electrical discharges (corona discharge) or UV radiation. It is an unstable, pale blue gas at room temperature with a distinctive sharp odor.
+
+**Properties relevant to water treatment:**
+- **Solubility:** Moderately soluble in water (10 times more soluble than oxygen).
+- **Stability:** Very unstable; half-life in clean water is 20-30 minutes; much shorter in water with high organic load.
+- **Oxidation potential:** 2.07 V (vs. 1.36 V for chlorine) — one of the highest of any disinfectant.
+- **Decomposition:** Decomposes to oxygen (O2) and free hydroxyl radicals (OH•), which are even more powerful oxidants.
+
+## 2. Mechanism of Bacterial Inactivation
+
+Ozone kills bacteria through multiple simultaneous mechanisms:
+
+**Direct ozone attack:**
+- Ozone molecules directly oxidize the lipopolysaccharide (LPS) outer membrane of Gram-negative bacteria, causing structural damage and permeability changes.
+- Ozone oxidizes thiol groups in enzymes, disrupting cellular metabolism.
+- Ozone reacts with nucleic acids, causing strand breaks and preventing replication.
+
+**Indirect free radical attack:**
+- Ozone decomposes in water to form hydroxyl radicals (OH•), which are non-selective, extremely powerful oxidants.
+- OH• radicals react with all organic compounds in water (including bacteria) at near-diffusion-limited rates.
+- This indirect mechanism is responsible for much of ozone's effectiveness against viruses and protozoa.
+
+**Effect on Gram-positive vs. Gram-negative bacteria:**
+- **Gram-negative bacteria:** Ozone first attacks the LPS outer membrane, then the cytoplasmic membrane.
+- **Gram-positive bacteria:** Ozone attacks the thick peptidoglycan wall directly, then the cytoplasmic membrane.
+- Both types are highly susceptible, with Gram-negative bacteria generally slightly more sensitive due to the vulnerability of their LPS layer.
+
+## 3. CT Values for Bacterial Inactivation by Ozone
+
+**For 4-log (99.99%) inactivation in water at pH 7, 20°C:**
+
+| **Organism** | **CT Value (mg·min/L)** |
+| --- | --- |
+| E. coli | 0.02 |
+| Salmonella | 0.02 |
+| Vibrio cholerae | 0.04 |
+| Shigella | 0.05 |
+| Legionella pneumophila | 0.06 |
+| Pseudomonas aeruginosa | 0.2 |
+| Klebsiella pneumoniae | 0.1 |
+| Giardia lamblia cysts | 0.5 |
+| Cryptosporidium parvum | 5-10 |
+| MS2 coliphage (virus surrogate) | 1.0 |
+
+Key insight: Ozone is far more effective than chlorine against all these organisms at much lower concentrations. Even Cryptosporidium, which is highly chlorine-resistant, is inactivated by achievable ozone doses.
+
+## 4. Additional Functions of Ozonation
+
+Beyond disinfection, ozone provides multiple water quality benefits:
+
+### Taste and Odor Removal
+- Ozone oxidizes geosmin and 2-methylisoborneol (MIB) — the compounds responsible for earthy/musty taste in water from algal blooms.
+- Also oxidizes hydrogen sulfide (H2S) responsible for rotten egg odor.
+
+### Color Removal
+- Ozone bleaches humic and fulvic acids (the brown/yellow color compounds in surface water) through oxidation of their aromatic rings.
+
+### Micropollutant Degradation
+- Ozone degrades pharmaceutical residues (antibiotics, hormones, anti-inflammatories) present in surface water.
+- This is increasingly important as antibiotic residues in water are linked to the development of antibiotic resistance in environmental bacteria.
+
+### Enhanced Coagulation
+- Ozone treatment before coagulation (pre-ozonation) modifies the surface properties of colloidal particles, improving their aggregation during coagulation.
+
+## 5. Ozonation By-Products
+
+A concern with ozonation is the formation of by-products:
+
+| **By-product** | **Formed when** | **Health concern** | **WHO Guideline** |
+| --- | --- | --- | --- |
+| Bromate (BrO3-) | Bromide in source water + ozone | Probable human carcinogen | 0.01 mg/L |
+| Formaldehyde | Ozone + NOM | Potentially carcinogenic at high doses | 0.9 mg/L |
+| Biodegradable organic matter (BOM) | Partial oxidation of NOM | Promotes bacterial regrowth in distribution | None (operational concern) |
+
+**Bromate control strategies:**
+- Lower ozone dose and/or reduce contact time.
+- Lower pH before ozonation (reduces bromate formation).
+- Add ammonia or hydrogen peroxide to shift ozone to free radical pathway.
+- Remove bromide by nanofiltration before ozonation.
+
+## 6. Ozone System Design
+
+### Ozone Generation
+- Generated on-site using corona discharge of dry air or pure oxygen feed gas.
+- Pure oxygen feed produces higher ozone concentrations (up to 16% by weight vs. 3% from air).
+
+### Ozone Contacting
+- **Bubble diffusers:** Distribute fine ozone bubbles from the bottom of a contact chamber.
+- **Venturi injectors:** Inject ozone into a water flow under pressure.
+- **Countercurrent systems:** Water and ozone flow in opposite directions for maximum contact.
+
+### Off-gas Destruction
+- Ozone cannot be vented to the atmosphere (toxic above 0.1 ppm).
+- Off-gas must be passed through a thermal or catalytic ozone destructor before release.
+
+## 7. Ozonation in Multi-Barrier Treatment Systems
+
+Ozone is typically deployed in combination with other treatment steps:
+
+- **Pre-ozonation + Coagulation + Filtration + Final Chlorination:** Standard large municipal scheme.
+- **Ozonation + Biological Activated Carbon (BAC):** Ozone partially oxidizes NOM into biodegradable compounds; BAC removes them by biodegradation, preventing bacterial regrowth in distribution.
+- **UV + Ozone (Advanced Oxidation Process - AOP):** Combined UV and ozone generates extremely high concentrations of hydroxyl radicals; used for degradation of recalcitrant pharmaceuticals and pesticides.
+
+## 8. Advantages and Limitations
+
+| **Advantages** | **Limitations** |
+| --- | --- |
+| Most powerful broad-spectrum disinfectant | No residual protection — must add chloramine after |
+| No THMs or haloacetic acids formed | Bromate formation if bromide present |
+| Removes taste, odor, color | Must be generated on-site (cannot be stored) |
+| Effective against Cryptosporidium | Higher capital and operating cost than chlorination |
+| Degrades pharmaceutical micropollutants | Requires trained operators |
+| Improves coagulation efficiency | BOM formation may increase bacterial regrowth risk |

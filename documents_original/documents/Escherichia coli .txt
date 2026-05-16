@@ -1,0 +1,313 @@
+Escherichia coli is a gram-negative, facultative anaerobic, rod-shaped, coliform bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms. Most E. coli strains are part of the normal microbiota of the gut, where they constitute about 0.1%, along with other facultative anaerobes.These bacteria are mostly harmless or even beneficial to humans.[7] For example, some strains of E. coli benefit their hosts by producing vitamin K2[8] or by preventing the colonization of the intestine by harmful pathogenic bacteria. These mutually beneficial relationships between E. coli and humans are a type of mutualistic biological relationship—where both the humans and the E. coli are benefitting each other.[9][10] E. coli is expelled into the environment within fecal matter. The bacterium grows massively in fresh fecal matter under aerobic conditions for three days, but its numbers decline slowly afterwards.[11]
+
+Some serotypes, such as EPEC and ETEC, are pathogenic, causing serious food poisoning in their hosts.[12] Fecal–oral transmission is the major route through which pathogenic strains of the bacterium cause disease. This transmission method is occasionally responsible for food contamination incidents that prompt product recalls.[13] Cells are able to survive outside the body for a limited amount of time, which makes them potential indicator organisms to test environmental samples for fecal contamination.[14][15] A growing body of research, though, has examined environmentally persistent E. coli which can survive for many days and grow outside a host.[16]
+
+The bacterium can be grown and cultured easily and inexpensively in a laboratory setting, and has been intensively investigated for over 60 years. E. coli is a chemoheterotroph whose chemically defined medium must include a source of carbon and energy.[17] E. coli is the most widely studied prokaryotic model organism, and an important species in the fields of biotechnology and microbiology, where it has served as the host organism for the majority of work with recombinant DNA. Under favourable conditions, it takes as little as 20 minutes to reproduce.[18]
+
+Biology and biochemistry
+
+Model of successive binary fission in E. coli
+Type and morphology
+E. coli is a gram-negative, facultative anaerobe, nonsporulating coliform bacterium.[19] Cells are typically rod-shaped, and are about 2.0 μm long and 0.25–1.0 μm in diameter, with a cell volume of 0.6–0.7 μm3.[20][21][22]
+
+E. coli stains gram-negative because its cell wall is composed of a thin peptidoglycan layer and an outer membrane. During the staining process, E. coli picks up the color of the counterstain safranin and stains pink. The outer membrane surrounding the cell wall provides a barrier to certain antibiotics, such that E. coli is not damaged by penicillin.[17]
+
+The flagella, which allow the bacteria to swim, have a peritrichous arrangement.[23] The flagella attach and efface to the microvilli of the intestines via an adhesion molecule known as intimin.[24]
+
+Metabolism
+E. coli can live on a wide variety of substrates and uses mixed acid fermentation in anaerobic conditions, producing lactate, succinate, ethanol, acetate, and carbon dioxide. Since many pathways in mixed-acid fermentation produce hydrogen gas, these pathways require the levels of hydrogen to be low, as is the case when E. coli lives together with hydrogen-consuming organisms, such as methanogens or sulphate-reducing bacteria.[25]
+
+In addition, E. coli's metabolism can be rewired to solely use CO2 as the source of carbon for biomass production. In other words, this obligate heterotroph's metabolism can be altered to display autotrophic capabilities by heterologously expressing carbon fixation genes as well as formate dehydrogenase and conducting laboratory evolution experiments. This may be done by using formate to reduce electron carriers and supply the ATP required in anabolic pathways inside of these synthetic autotrophs.[26]
+
+
+Redistribution of fluxes between the three primary glucose catabolic pathways: EMPP (red), EDP (blue), and OPPP (orange) via the knockout of pfkA and overexpression of EDP genes (edd and eda)
+E. coli has three native glycolytic pathways: EMPP, EDP, and OPPP. The EMPP employs ten enzymatic steps to yield two pyruvates, two ATP, and two NADH per glucose molecule while OPPP serves as an oxidation route for NADPH synthesis. Although the EDP is the more thermodynamically favourable of the three pathways, E. coli do not use the EDP for glucose metabolism, relying mainly on the EMPP and the OPPP. The EDP mainly remains inactive except for during growth with gluconate.[27]
+
+Catabolite repression
+When growing in the presence of a mixture of sugars, bacteria will often consume the sugars sequentially through a process known as catabolite repression. By repressing the expression of the genes involved in metabolizing the less preferred sugars, cells will usually first consume the sugar yielding the highest growth rate, followed by the sugar yielding the next highest growth rate, and so on. In doing so the cells ensure that their limited metabolic resources are being used to maximize the rate of growth. The well-used example of this with E. coli involves the growth of the bacterium on glucose and lactose, where E. coli will consume glucose before lactose. Catabolite repression has also been observed in E. coli in the presence of other non-glucose sugars, such as arabinose and xylose, sorbitol, rhamnose, and ribose. In E. coli, glucose catabolite repression is regulated by the phosphotransferase system, a multi-protein phosphorylation cascade that couples glucose uptake and metabolism.[28]
+
+Culture growth
+
+A colony of E. coli growing
+Optimum growth of E. coli occurs at 37 °C (99 °F), but some laboratory strains can multiply at temperatures up to 49 °C (120 °F).[29] E. coli grows in a variety of defined laboratory media, such as lysogeny broth, or any medium that contains glucose, ammonium phosphate monobasic, sodium chloride, magnesium sulfate, potassium phosphate dibasic, and water. Growth can be driven by aerobic or anaerobic respiration, using a large variety of redox pairs, including the oxidation of pyruvic acid, formic acid, hydrogen, and amino acids, and the reduction of substrates such as oxygen, nitrate, fumarate, dimethyl sulfoxide, and trimethylamine N-oxide.[30] E. coli is classified as a facultative anaerobe. It uses oxygen when it is present and available. It can, however, continue to grow in the absence of oxygen using fermentation or anaerobic respiration. Respiration type is managed in part by the arc system. The ability to continue growing in the absence of oxygen is an advantage to bacteria because their survival is increased in environments where water predominates.[17]
+
+Cell cycle
+Main article: Cell cycle
+The bacterial cell cycle is divided into three stages. The B period occurs between the completion of cell division and the beginning of DNA replication. The C period encompasses the time it takes to replicate the chromosomal DNA. The D period refers to the stage between the conclusion of DNA replication and the end of cell division.[31] The doubling rate of E. coli is higher when more nutrients are available. However, the length of the C and D periods do not change, even when the doubling time becomes less than the sum of the C and D periods. At the fastest growth rates, replication begins before the previous round of replication has completed, resulting in multiple replication forks along the DNA and overlapping cell cycles.[32]
+
+The number of replication forks in fast growing E. coli typically follows 2n (n = 1, 2 or 3). This only happens if replication is initiated simultaneously from all origins of replications, and is referred to as synchronous replication. However, not all cells in a culture replicate synchronously. In this case cells do not have multiples of two replication forks. Replication initiation is then referred to being asynchronous.[33] However, asynchrony can be caused by mutations to for instance dnaA[33] or DnaA initiator-associating protein DiaA.[34]
+
+Although E. coli reproduces by binary fission the two supposedly identical cells produced by cell division are functionally asymmetric with the old pole cell acting as an aging parent that repeatedly produces rejuvenated offspring.[35] When exposed to an elevated stress level, damage accumulation in an old E. coli lineage may surpass its immortality threshold so that it arrests division and becomes mortal.[36] Cellular aging is a general process, affecting prokaryotes and eukaryotes alike.[36]
+
+Genetic adaptation
+E. coli and related bacteria possess the ability to transfer DNA via bacterial conjugation or transduction, which allows genetic material to spread horizontally through an existing population. The process of transduction, which uses the bacterial virus called a bacteriophage,[37] is where the spread of the gene encoding for the Shiga toxin from the Shigella bacteria to E. coli helped produce E. coli O157:H7, the Shiga toxin-producing strain of E. coli.
+
+Diversity
+E. coli colonies
+E. coli growing on basic cultivation media
+E. coli encompasses an enormous population of bacteria that exhibit a very high degree of both genetic and phenotypic diversity. Genome sequencing of many isolates of E. coli and related bacteria shows that a taxonomic reclassification would be desirable. However, this has not been done, largely due to its medical importance,[38] and E. coli remains one of the most diverse bacterial species: only 20% of the genes in a typical E. coli genome is shared among all strains.[39]
+
+In fact, from the more constructive point of view, the members of genus Shigella (S. dysenteriae, S. flexneri, S. boydii, and S. sonnei) should be classified as E. coli strains, a phenomenon termed taxa in disguise.[40] Similarly, other strains of E. coli (e.g. the K-12 strain commonly used in recombinant DNA work) are sufficiently different that they would merit reclassification.
+
+
+The pronounced phenotypic diversity within Escherichia coli strains isolated from patients with UTIs.
+A strain is a subgroup within the species that has unique characteristics that distinguish it from other strains. These differences are often detectable only at the molecular level; however, they may result in changes to the physiology or lifecycle of the bacterium. For example, a strain may gain pathogenic capacity, the ability to use a unique carbon source, the ability to take upon a particular ecological niche, or the ability to resist antimicrobial agents. Different strains of E. coli are often host-specific, making it possible to determine the source of fecal contamination in environmental samples.[14][15] For example, knowing which E. coli strains are present in a water sample allows researchers to make assumptions about whether the contamination originated from a human, another mammal, or a bird.
+
+Serotypes
+Main article: Pathogenic Escherichia coli § Serotypes
+E.coli colonies on agar.
+E. coli on sheep blood agar
+A common subdivision system of E. coli, but not based on evolutionary relatedness, is by serotype, which is based on major surface antigens (O antigen: part of lipopolysaccharide layer; H: flagellin; K antigen: capsule), e.g. O157:H7).[41] It is, however, common to cite only the serogroup, i.e. the O-antigen. At present, about 190 serogroups are known.[42] Nonpathogenic strains which are commonly used in research laboratories lack an O-antigen and are thus not serotypeable.
+
+Genome plasticity and evolution
+Like all lifeforms, new strains of E. coli evolve through the natural biological processes of mutation, gene duplication, and horizontal gene transfer; in particular, 18% of the genome of the laboratory strain MG1655 was horizontally acquired since the divergence from Salmonella.[43] E. coli K-12 and E. coli B strains are the most frequently used varieties for laboratory purposes. Some strains develop traits that can be harmful to a host animal. These virulent strains typically cause a bout of diarrhea that is often self-limiting in healthy adults but is frequently lethal to children in the developing world.[44] More virulent strains, such as O157:H7, cause serious illness or death in the elderly, the very young, or the immunocompromised.[44][45]
+
+The genera Escherichia and Salmonella diverged around 102 million years ago (credibility interval: 57–176 mya), an event unrelated to the much earlier (see Synapsid) divergence of their hosts: the former being found in mammals and the latter in birds and reptiles.[46] This was followed by a split of an Escherichia ancestor into five species (E. albertii, E. coli, E. fergusonii, E. hermannii, and E. vulneris). The last E. coli ancestor split between 20 and 30 million years ago.[1]
+
+The long-term evolution experiments using E. coli, begun by Richard Lenski in 1988, have allowed direct observation of genome evolution over more than 65,000 generations in the laboratory.[47] For instance, E. coli typically do not have the ability to grow aerobically with citrate as a carbon source, which is used as a diagnostic criterion with which to differentiate E. coli from other, closely, related bacteria such as Salmonella. In this experiment, one population of E. coli unexpectedly evolved the ability to aerobically metabolize citrate, a major evolutionary shift with some hallmarks of microbial speciation.
+
+
+Scanning electron micrograph of an E. coli colony
+In the microbial world, a relationship of predation can be established similar to that observed in the animal world. Considered, it has been seen that E. coli is the prey of multiple generalist predators, such as Myxococcus xanthus. In this predator-prey relationship, a parallel evolution of both species is observed through genomic and phenotypic modifications. In the case of E. coli, the modifications are modified in two aspects involved in their virulence such as mucoid production (excessive production of exoplasmic acid alginate ) and the suppression of the OmpT gene, producing in future generations a better adaptation of one of the species that is counteracted by the evolution of the other, following a co-evolutionary model demonstrated by the Red Queen hypothesis.[48]
+
+Neotype strain
+E. coli is the type species of the genus (Escherichia) and in turn Escherichia is the type genus of the family Enterobacteriaceae, where the family name does not stem from the genus Enterobacter + "i" (sic.) + "aceae", but from "enterobacterium" + "aceae" (enterobacterium being not a genus, but an alternative trivial name to enteric bacterium).[49][50][51]
+
+The original strain described by Escherich is believed to be lost, consequently a new type strain (neotype) was chosen as a representative: the neotype strain is U5/41T,[52] also known under the deposit names DSM 30083,[53] ATCC 11775,[54] and NCTC 9001,[55] which is pathogenic to chickens and has an O1:K1:H7 serotype.[56] However, in most studies, either O157:H7, K-12 MG1655, or K-12 W3110 were used as a representative E. coli. The genome of the type strain has only lately (2013) been sequenced.[52]
+
+Phylogeny of E. coli strains
+
+This section's factual accuracy may be compromised due to out-of-date information. The reason given is: Cladogram uses an OR extension of Sims & Kim 2011, which is outdated anyways and should be replaced by Meier-Kolthoff et al. 2014 (fig 6).. Relevant discussion may be found on the talk page. Please help update this article to reflect recent events or newly available information. (January 2021)
+Many strains belonging to this species have been isolated and characterised. In addition to serotype (vide supra), they can be classified according to their phylogeny, i.e. the inferred evolutionary history, as shown below where the species is divided into six groups as of 2014.[57][58] Particularly the use of whole genome sequences yields highly supported phylogenies.[52] The phylogroup structure remains robust to newer methods and sequences, which sometimes adds newer groups, giving 8 or 14 as of 2023.[59][60]
+
+The link between phylogenetic distance ("relatedness") and pathology is small,[52] e.g. the O157:H7 serotype strains, which form a clade ("an exclusive group")—group E below—are all enterohaemorragic strains (EHEC), but not all EHEC strains are closely related. In fact, four different species of Shigella are nested among E. coli strains (vide supra), while E. albertii and E. fergusonii are outside this group. Indeed, all Shigella species were placed within a single subspecies of E. coli in a phylogenomic study that included the type strain.[52] All commonly used research strains of E. coli belong to group A and are derived mainly from Clifton's K-12 strain (λ+ F+; O16) and to a lesser degree from d'Herelle's "Bacillus coli" strain (B strain; O7).
+
+There have been multiple proposals to revise the taxonomy to match phylogeny.[52] However, all these proposals need to face the fact that Shigella remains a widely used name in medicine and find ways to reduce any confusion that can stem from renaming.[61]
+
+Salmonella enterica
+
+E. albertii
+
+E. fergusonii
+
+Group B2	
+E. coli SE15 (O150:H5. Commensal)
+
+E. coli E2348/69 (O127:H6. Enteropathogenic)
+
+E. coli ED1a O81 (Commensal)
+
+E. coli CFT083 (O6:K2:H1. UPEC)
+
+E. coli APEC O1 (O1:K12:H7. APEC
+
+E. coli UTI89 O18:K1:H7. UPEC)
+
+E. coli S88 (O45:K1. Extracellular pathogenic)
+
+E. coli F11
+
+E. coli 536
+
+Group D	
+E. coli UMN026 (O17:K52:H18. Extracellular pathogenic)
+
+E. coli (O19:H34. Extracellular pathogenic)
+
+E. coli (O7:K1. Extracellular pathogenic)
+
+Group E	
+E. coli EDL933 (O157:H7 EHEC)
+
+E. coli Sakai (O157:H7 EHEC)
+
+E. coli EC4115 (O157:H7 EHEC)
+
+E. coli TW14359 (O157:H7 EHEC)
+
+Shigella	
+Shigella dysenteriae
+
+Shigella sonnei
+
+Shigella boydii
+
+Shigella flexneri
+
+Group B1	
+E. coli E24377A (O139:H28. Enterotoxigenic)
+
+E. coli E110019
+
+E. coli 11368 (O26:H11. EHEC)
+
+E. coli 11128 (O111:H-. EHEC)
+
+E. coli IAI1 O8 (Commensal)
+
+E. coli 53638 (EIEC)
+
+E. coli SE11 (O152:H28. Commensal)
+
+E. coli B7A
+
+E. coli 12009 (O103:H2. EHEC)
+
+E. coli GOS1 (O104:H4 EAHEC) German 2011 outbreak
+
+E. coli E22
+
+E. coli Oslo O103
+
+E. coli 55989 (O128:H2. Enteroaggressive)
+
+Group A	
+E. coli HS (O9:H4. Commensal)
+
+E. coli ATCC8739 (O146. Crook's E.coli used in phage work in the 1950s)
+
+K‑12 strain derivatives	
+E. coli K-12 W3110 (O16. λ− F− "wild type" molecular biology strain)
+
+E. coli K-12 DH10b (O16. high electrocompetency molecular biology strain)
+
+E. coli K-12 DH1 (O16. high chemical competency molecular biology strain)
+
+E. coli K-12 MG1655 (O16. λ− F− "wild type" molecular biology strain)
+
+E. coli BW2952 (O16. competent molecular biology strain)
+
+E. coli 101-1 (O? H?. EAEC)
+
+B strain derivatives	
+E. coli B REL606 (O7. high competency molecular biology strain)
+
+E. coli BL21-DE3 (O7. expression molecular biology strain with T7 polymerase for pET system)
+
+Genomics
+
+An image of E. coli using early electron microscopy
+The first complete DNA sequence of an E. coli genome (laboratory strain K-12 derivative MG1655) was published in 1997. It is a circular DNA molecule 4.6 million base pairs in length, containing 4288 annotated protein-coding genes (organized into 2584 operons), seven ribosomal RNA (rRNA) operons, and 86 transfer RNA (tRNA) genes. Despite having been the subject of intensive genetic analysis for about 40 years, many of these genes were previously unknown. The coding density was found to be very high, with a mean distance between genes of only 118 base pairs. The genome was observed to contain a significant number of transposable genetic elements, repeat elements, cryptic prophages, and bacteriophage remnants.[62] Most genes have only a single copy.[63]
+
+More than three hundred complete genomic sequences of Escherichia and Shigella species are known. The genome sequence of the type strain of E. coli was added to this collection before 2014.[52] Comparison of these sequences shows a remarkable amount of diversity; only about 20% of each genome represents sequences present in every one of the isolates, while around 80% of each genome can vary among isolates.[39] Each individual genome contains between 4,000 and 5,500 genes, but the total number of different genes among all of the sequenced E. coli strains (the pangenome) exceeds 16,000. This very large variety of component genes has been interpreted to mean that two-thirds of the E. coli pangenome originated in other species and arrived through the process of horizontal gene transfer.[64]
+
+Gene nomenclature
+See also: Gene nomenclature § Bacterial genetic nomenclature
+Genes in E. coli are usually named in accordance with the uniform nomenclature proposed by Demerec et al.[65] Gene names are 3-letter acronyms that derive from their function (when known) or mutant phenotype and are italicized. When multiple genes have the same acronym, the different genes are designated by a capital later that follows the acronym and is also italicized. For instance, recA is named after its role in homologous recombination plus the letter A. Functionally related genes are named recB, recC, recD etc. The proteins are named by uppercase acronyms, e.g. RecA, RecB, etc. When the genome of E. coli strain K-12 substr. MG1655 was sequenced, all known or predicted protein-coding genes were numbered (more or less) in their order on the genome and abbreviated by b numbers, such as b2819 (= recD). The "b" names were created after Fred Blattner, who led the genome sequence effort.[62] Another numbering system was introduced with the sequence of another E. coli K-12 substrain, W3110, which was sequenced in Japan and hence uses numbers starting by JW... (Japanese W3110), e.g. JW2787 (= recD).[66] Hence, recD = b2819 = JW2787. Note, however, that most databases have their own numbering system, e.g. the EcoGene database[67] uses EG10826 for recD. Finally, ECK numbers are specifically used for alleles in the MG1655 strain of E. coli K-12.[67] Complete lists of genes and their synonyms can be obtained from databases such as EcoGene or Uniprot.
+
+Proteomics
+Proteome
+The genome sequence of E. coli predicts 4288 protein-coding genes, of which 38 percent initially had no attributed function. Comparison with five other sequenced microbes reveals ubiquitous as well as narrowly distributed gene families; many families of similar genes within E. coli are also evident. The largest family of paralogous proteins contains 80 ABC transporters. The genome as a whole is strikingly organized with respect to the local direction of replication; guanines, oligonucleotides possibly related to replication and recombination, and most genes are so oriented. The genome also contains insertion sequence (IS) elements, phage remnants, and many other patches of unusual composition indicating genome plasticity through horizontal transfer.[62]
+
+Several studies have experimentally investigated the proteome of E. coli. By 2006, 1,627 (38%) of the predicted proteins (open reading frames, ORFs) had been identified experimentally.[68] Mateus et al. 2020 detected 2,586 proteins with at least 2 peptides (60% of all proteins).[69]
+
+Post-translational modifications (PTMs)
+Although much fewer bacterial proteins seem to have post-translational modifications (PTMs) compared to eukaryotic proteins, a substantial number of proteins are modified in E. coli. For instance, Potel et al. (2018) found 227 phosphoproteins of which 173 were phosphorylated on histidine. The majority of phosphorylated amino acids were serine (1,220 sites) with only 246 sites on histidine and 501 phosphorylated threonines and 162 tyrosines.[70]
+
+Interactome
+The interactome of E. coli has been studied by affinity purification and mass spectrometry (AP/MS) and by analyzing the binary interactions among its proteins.
+
+Protein complexes. A 2006 study purified 4,339 proteins from cultures of strain K-12 and found interacting partners for 2,667 proteins, many of which had unknown functions at the time.[71] A 2009 study found 5,993 interactions between proteins of the same E. coli strain, though these data showed little overlap with those of the 2006 publication.[72]
+
+Binary interactions. Rajagopala et al. (2014) have carried out systematic yeast two-hybrid screens with most E. coli proteins, and found a total of 2,234 protein-protein interactions.[73] This study also integrated genetic interactions and protein structures and mapped 458 interactions within 227 protein complexes.
+
+Normal microbiota
+E. coli belongs to a group of bacteria informally known as coliforms that are found in the gastrointestinal tract of warm-blooded animals.[49] E. coli normally colonizes an infant's gastrointestinal tract within 40 hours of birth, arriving with food or water or from the individuals handling the child. In the bowel, E. coli adheres to the mucus of the large intestine. It is the primary facultative anaerobe of the human gastrointestinal tract.[74] (Facultative anaerobes are organisms that can grow in either the presence or absence of oxygen.) As long as these bacteria do not acquire genetic elements encoding for virulence factors, they remain benign commensals.[75]
+
+Therapeutic use
+Due to the low cost and speed with which it can be grown and modified in laboratory settings, E. coli is a popular expression platform for the production of recombinant proteins used in therapeutics. One advantage to using E. coli over another expression platform is that E. coli naturally does not export many proteins into the periplasm, making it easier to recover a protein of interest without cross-contamination.[76] The E. coli K-12 strains and their derivatives (DH1, DH5α, MG1655, RV308 and W3110) are the strains most widely used by the biotechnology industry.[77] Nonpathogenic E. coli strain Nissle 1917 (EcN), (Mutaflor) and E. coli O83:K24:H31 (Colinfant)[78][79]) are used as probiotic agents in medicine, mainly for the treatment of various gastrointestinal diseases,[80] including inflammatory bowel disease.[81] It is thought that the EcN strain might impede the growth of opportunistic pathogens, including Salmonella and other coliform enteropathogens, through the production of microcin proteins the production of siderophores.[82]
+
+Role in disease
+Main article: Pathogenic Escherichia coli
+Escherichia coli
+Clinical data
+License data	
+US DailyMed: Escherichia coli
+ATC code	
+A07FA03 (WHO)
+Most E. coli strains do not cause disease, naturally living in the gut,[83] but virulent strains can cause gastroenteritis, urinary tract infections, neonatal meningitis, hemorrhagic colitis, and Crohn's disease.[84] Common signs and symptoms include severe abdominal cramps, diarrhea, hemorrhagic colitis, vomiting, and sometimes fever. In rarer cases, virulent strains are also responsible for bowel necrosis (tissue death) and perforation without progressing to hemolytic–uremic syndrome, peritonitis, mastitis, sepsis, and gram-negative pneumonia. Very young children are more susceptible to develop severe illness, such as hemolytic uremic syndrome; however, healthy individuals of all ages are at risk to the severe consequences that may arise as a result of being infected with E. coli.[74][85][86][87]
+
+Some strains of E. coli, for example O157:H7, can produce Shiga toxin. The Shiga toxin causes inflammatory responses in target cells of the gut, leaving behind lesions which result in the bloody diarrhea that is a symptom of a Shiga toxin-producing E. coli (STEC) infection. This toxin further causes premature destruction of the red blood cells, which then clog the body's filtering system, the kidneys, in some rare cases (usually in children and the elderly) causing hemolytic-uremic syndrome (HUS), which may lead to kidney failure and even death. Signs of hemolytic uremic syndrome include decreased frequency of urination, lethargy, and paleness of cheeks and inside the lower eyelids. In 25% of HUS patients, complications of the nervous system occur, which in turn causes strokes. In addition, this strain causes the buildup of fluid (since the kidneys do not work), leading to edema around the lungs, legs, and arms. This increase in fluid buildup, especially around the lungs, impedes the functioning of the heart, causing an increase in blood pressure.[88][86][87]
+
+Uropathogenic E. coli (UPEC) is one of the main causes of urinary tract infections.[89] It is part of the normal microbiota in the gut and can be introduced in many ways. In particular for females, the direction of wiping after defecation (wiping back to front) can lead to fecal contamination of the urogenital orifices. Anal intercourse can also introduce this bacterium into the male urethra, and in switching from anal to vaginal intercourse, the male can also introduce UPEC to the female urogenital system.
+
+Enterotoxigenic E. coli (ETEC) is the most common cause of traveler's diarrhea, with as many as 840 million cases worldwide in developing countries each year. The bacteria, typically transmitted through contaminated food or drinking water, adheres to the intestinal lining, where it secretes either of two types of enterotoxins, leading to watery diarrhea. The rate and severity of infections are higher among children under the age of five, including as many as 380,000 deaths annually.[90]
+
+In May 2011, one E. coli strain, O104:H4, was the subject of a bacterial outbreak that began in Germany. Certain strains of E. coli are a major cause of foodborne illness. The outbreak started when several people in Germany were infected with enterohemorrhagic E. coli (EHEC) bacteria, leading to hemolytic-uremic syndrome (HUS), a medical emergency that requires urgent treatment. The outbreak spread to 15 other countries, including regions in North America.[91] On 30 June 2011, the German Bundesinstitut für Risikobewertung (BfR) (Federal Institute for Risk Assessment, a federal institute within the German Federal Ministry of Food, Agriculture and Consumer Protection) announced that seeds of fenugreek from Egypt were likely the cause of the EHEC outbreak.[92]
+
+Some studies have demonstrated an absence of E. coli in the gut flora of subjects with the metabolic disorder Phenylketonuria. It is hypothesized that the absence of these normal bacteria impairs the production of the key vitamins B2 (riboflavin) and K2 (menaquinone) – vitamins which are implicated in many physiological roles in humans such as cellular and bone metabolism – and so contributes to the disorder.[93]
+
+Carbapenem-resistant E. coli (carbapenemase-producing E. coli) that are resistant to the carbapenem class of antibiotics, considered the drugs of last resort for such infections. They are resistant because they produce an enzyme called a carbapenemase that disables the drug molecule.[94]
+
+Incubation period
+The time between ingesting the STEC bacteria and feeling sick is called the "incubation period". The incubation period is usually 3–4 days after the exposure, but may be as short as 1 day or as long as 10 days. The symptoms often begin slowly with mild belly pain or non-bloody diarrhea that worsens over several days. HUS, if it occurs, develops an average 7 days after the first symptoms, when the diarrhea is improving.[95]
+
+Diagnosis
+Diagnosis of infectious diarrhea and identification of antimicrobial resistance is performed using a stool culture with subsequent antibiotic sensitivity testing. It requires a minimum of 2 days and maximum of several weeks to culture gastrointestinal pathogens. The sensitivity (true positive) and specificity (true negative) rates for stool culture vary by pathogen, although a number of human pathogens can not be cultured. For culture-positive samples, antimicrobial resistance testing takes an additional 12–24 hours to perform.
+
+Current point of care molecular diagnostic tests can identify E. coli and antimicrobial resistance in the identified strains much faster than culture and sensitivity testing. Microarray-based platforms can identify specific pathogenic strains of E. coli and E. coli-specific AMR genes in two hours or less with high sensitivity and specificity, but the size of the test panel (i.e., total pathogens and antimicrobial resistance genes) is limited. Newer metagenomics-based infectious disease diagnostic platforms are currently being developed to overcome the various limitations of culture and all currently available molecular diagnostic technologies.
+
+Treatment
+The mainstay of treatment is the assessment of dehydration and replacement of fluid and electrolytes. Administration of antibiotics has been shown to shorten the course of illness and duration of excretion of enterotoxigenic E. coli (ETEC) in adults in endemic areas and in traveller's diarrhea, though the rate of resistance to commonly used antibiotics is increasing and they are generally not recommended.[96] The antibiotic used depends upon susceptibility patterns in the particular geographical region. Currently, the antibiotics of choice are fluoroquinolones or azithromycin, with an emerging role for rifaximin. Rifaximin, a semisynthetic rifamycin derivative, is an effective and well-tolerated antibacterial for the management of adults with non-invasive traveller's diarrhea. Rifaximin was significantly more effective than placebo and no less effective than ciprofloxacin in reducing the duration of diarrhea. While rifaximin is effective in patients with E. coli-predominant traveller's diarrhea, it appears ineffective in patients infected with inflammatory or invasive enteropathogens.[97]
+
+Prevention
+ETEC is the type of E. coli that most vaccine development efforts are focused on. Antibodies against the LT and major CFs of ETEC provide protection against LT-producing, ETEC-expressing homologous CFs. Oral inactivated vaccines consisting of toxin antigen and whole cells, i.e. the licensed recombinant cholera B subunit (rCTB)-WC cholera vaccine Dukoral, have been developed. There are currently no licensed vaccines for ETEC, though several are in various stages of development.[98] In different trials, the rCTB-WC cholera vaccine provided high (85–100%) short-term protection. An oral ETEC vaccine candidate consisting of rCTB and formalin inactivated E. coli bacteria expressing major CFs has been shown in clinical trials to be safe, immunogenic, and effective against severe diarrhoea in American travelers but not against ETEC diarrhoea in young children in Egypt. A modified ETEC vaccine consisting of recombinant E. coli strains over-expressing the major CFs and a more LT-like hybrid toxoid called LCTBA, are undergoing clinical testing.[99][100]
+
+Other proven prevention methods for E. coli transmission include handwashing and improved sanitation and drinking water, as transmission occurs through fecal contamination of food and water supplies. Additionally, thoroughly cooking meat and avoiding consumption of raw, unpasteurized beverages, such as juices and milk are other proven methods for preventing E. coli. Lastly, cross-contamination of utensils and work spaces should be avoided when preparing food.[101]
+
+Model organism in life science research
+Main article: Escherichia coli in molecular biology
+
+Escherichia coli bacterium, 2021, Illustration by David S. Goodsell, RCSB Protein Data Bank
+This painting shows a cross-section through an Escherichia coli cell. The characteristic two-membrane cell wall of gram-negative bacteria is shown in green, with many lipopolysaccharide chains extending from the surface and a network of cross-linked peptidoglycan strands between the membranes. The genome of the cell forms a loosely-defined "nucleoid", shown here in yellow, and interacts with many DNA-binding proteins, shown in tan and orange. Large soluble molecules, such as ribosomes (colored in reddish purple), mostly occupy the space around the nucleoid.
+Because of its long history of laboratory culture and ease of manipulation, E. coli plays an important role in modern biological engineering and industrial microbiology.[102] The work of Stanley Norman Cohen and Herbert Boyer in E. coli, using plasmids and restriction enzymes to create recombinant DNA, became a foundation of biotechnology.[103]
+
+E. coli is a very versatile host for the production of heterologous proteins,[104] and various protein expression systems have been developed which allow the production of recombinant proteins in E. coli. Researchers can introduce genes into the microbes using plasmids which permit high level expression of protein, and such protein may be mass-produced in industrial fermentation processes. One of the first useful applications of recombinant DNA technology was the manipulation of E. coli to produce human insulin.[105]
+
+Many proteins previously thought difficult or impossible to be expressed in E. coli in folded form have been successfully expressed in E. coli. For example, proteins with multiple disulphide bonds may be produced in the periplasmic space or in the cytoplasm of mutants rendered sufficiently oxidizing to allow disulphide-bonds to form,[106] while proteins requiring post-translational modification such as glycosylation for stability or function have been expressed using the N-linked glycosylation system of Campylobacter jejuni engineered into E. coli.[107][108][109]
+
+Modified E. coli cells have been used in vaccine development, bioremediation, production of biofuels,[110] lighting, and production of immobilised enzymes.[104][111]
+
+Strain K-12 is a mutant form of E. coli that over-expresses the enzyme Alkaline phosphatase (ALP).[112] The mutation arises due to a defect in the gene that constantly codes for the enzyme. A gene that is producing a product without any inhibition is said to have constitutive activity. This particular mutant form is used to isolate and purify the aforementioned enzyme.[112]
+
+Strain OP50 of Escherichia coli is used for maintenance of Caenorhabditis elegans cultures.
+
+Strain JM109 is a mutant form of E. coli that is recA and endA deficient. The strain can be utilized for blue/white screening when the cells carry the fertility factor episome.[113] Lack of recA decreases the possibility of unwanted restriction of the DNA of interest and lack of endA inhibit plasmid DNA decomposition. Thus, JM109 is useful for cloning and expression systems.
+
+Model organism
+
+Helium ion microscopy image showing T4 phage infecting E. coli. Some of the attached phage have contracted tails indicating that they have injected their DNA into the host. The bacterial cells are ~ 0.5 μm wide.[114]
+E. coli is frequently used as a model organism in microbiology studies. Cultivated strains (e.g. E. coli K12) are well-adapted to the laboratory environment, and, unlike wild-type strains, have lost their ability to thrive in the intestine. Many laboratory strains lose their ability to form biofilms.[115][116] These features protect wild-type strains from antibodies and other chemical attacks, but require a large expenditure of energy and material resources. E. coli is often used as a representative microorganism in the research of novel water treatment and sterilisation methods, including photocatalysis. By standard plate count methods, following sequential dilutions, and growth on agar gel plates, the concentration of viable organisms or CFUs (Colony Forming Units), in a known volume of treated water can be evaluated, allowing the comparative assessment of materials performance.[117]
+
+In 1946, Joshua Lederberg and Edward Tatum first described the phenomenon known as bacterial conjugation using E. coli as a model bacterium,[118] and it remains the primary model to study conjugation.[119] E. coli was an integral part of the first experiments to understand phage genetics,[120] and early researchers, such as Seymour Benzer, used E. coli and phage T4 to understand the topography of gene structure.[121] Prior to Benzer's research, it was not known whether the gene was a linear structure, or if it had a branching pattern.[122]
+
+E. coli was one of the first organisms to have its genome sequenced; the complete genome of E. coli K12 was published by Science in 1997.[62]
+
+MDS42
+From 2002 to 2010, a team at the Hungarian Academy of Science created a strain of Escherichia coli called MDS42, which is now sold by Scarab Genomics of Madison, WI under the name of "Clean Genome E. coli",[123] where 15% of the genome of the parental strain (E. coli K-12 MG1655) were removed to aid in molecular biology efficiency, removing IS elements, pseudogenes and phages, resulting in better maintenance of plasmid-encoded toxic genes, which are often inactivated by transposons.[124][125][126] Biochemistry and replication machinery were not altered.
+
+By evaluating the possible combination of nanotechnologies with landscape ecology, complex habitat landscapes can be generated with details at the nanoscale.[127] On such synthetic ecosystems, evolutionary experiments with E. coli have been performed to study the spatial biophysics of adaptation in an island biogeography on-chip.
+
+In other studies, non-pathogenic E. coli has been used as a model microorganism towards understanding the effects of simulated microgravity (on Earth) on the same.[128][129]
+
+Uses in biological computing
+See also: Biological computing
+Since 1961, scientists proposed the idea of genetic circuits used for computational tasks. Collaboration between biologists and computing scientists has allowed designing digital logic gates on the metabolism of E. coli. As Lac operon is a two-stage process, genetic regulation in the bacteria is used to realize computing functions. The process is controlled at the transcription stage of DNA into messenger RNA.[130]
+
+Studies are being performed attempting to program E. coli to solve complicated mathematics problems, such as the Hamiltonian path problem.[131]
+
+A computer to control protein production of E. coli within yeast cells has been developed.[132] A method has also been developed to use bacteria to behave as an LCD screen.[133][134]
+
+In July 2017, separate experiments with E. coli published on Nature showed the potential of using living cells for computing tasks and storing information.[135] A team formed with collaborators of the Biodesign Institute at Arizona State University and Harvard's Wyss Institute for Biologically Inspired Engineering developed a biological computer inside E. coli that responded to a dozen inputs. The team called the computer "ribocomputer", as it was composed of ribonucleic acid.[136][137] Meanwhile, Harvard researchers probed that is possible to store information in bacteria after successfully archiving images and movies in the DNA of living E. coli cells.[138][139] In 2021, a team led by biophysicist Sangram Bagh realized a study with E. coli to solve 2 × 2 maze problems to probe the principle for distributed computing among cells.[140][141]
+
+History
+In 1885, the German-Austrian pediatrician Theodor Escherich discovered this organism in the feces of healthy individuals. He called it Bacterium coli commune because it is found in the colon. Early classifications of prokaryotes placed these in a handful of genera based on their shape and motility (at that time Ernst Haeckel's classification of bacteria in the kingdom Monera was in place).[100][142][143]
+
+Bacterium coli was the type species of the now invalid genus Bacterium when it was revealed that the former type species ("Bacterium triloculare") was missing.[144] Following a revision of Bacterium, it was reclassified as Bacillus coli by Migula in 1895[145] and later reclassified in the newly created genus Escherichia, named after its original discoverer, by Aldo Castellani and Albert John Chalmers.[146]
+
+In 1996, an outbreak of E. coli food poisoning occurred in Wishaw, Scotland, killing 21 people.[147][148] This death toll was exceeded in 2011, when an E. coli O104:H4 outbreak starting in Germany, linked to organic fenugreek sprouts, killed 53 people.
+
+In 2024, an outbreak of E. coli food poisoning occurred across the U.S. was linked to U.S.-grown organic carrots causing one fatality and dozens of illnesses.[149]
+
+Uses
+E. coli has several practical uses besides its use as a vector for genetic experiments and processes. For example, E. coli can be used to generate synthetic propane and recombinant human growth hormone.

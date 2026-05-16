@@ -1,0 +1,111 @@
+Vibrios are natural inhabitants of aquatic environments and form symbiotic or pathogenic relationships with eukaryotic hosts. Recent studies reveal that the ability of vibrios to form biofilms (i.e. matrix-enclosed, surface-associated communities) depends upon specific structural genes (flagella, pili and exopolysaccharide biosynthesis) and regulatory processes (two-component regulators, quorum sensing and c-di-GMP signaling). Here, we compare and contrast mechanisms and regulation of biofilm formation by Vibrio species, with a focus on Vibrio cholerae, Vibrio parahaemolyticus, Vibrio vulnificus and Vibrio fischeri. Although many aspects are the same, others differ dramatically. Crucial questions that remain to be answered regarding the molecular underpinnings of Vibrio biofilm formation are also discussed.
+
+
+Infectious Diseases in Emergency Medicine
+ Vibrio species
+ Vibrio is a genus of gram-negative curved rod-shaped bacteria that includes several species that are highly pathogenic to humans. Vibrio cholerae, the causative agent of cholera, is likely the most well known; however, Vibrio vulnificus and V. parahaemolyticus also cause serious outbreaks of foodborne disease. As live marine animals such as crabs or shellfish may carry Vibrio, the consumption of raw or undercooked shellfish is the most commonly reported cause of Vibrio infection. Following Hurricane Katrina in August 2005, 18 cases of wound-associated Vibrio infection were reported in Gulf Coast states, as well as several cases of nonwound-associated Vibrio infection [63].
+
+ Vibrio vulnificus may cause either wound-associated infection or foodborne illness. Symptoms of foodborne V. vulnificus infection include gastroenteritis symptoms in healthy individuals, as well as a potentially lethal sepsis syndrome in immunocompromised patients, especially those with chronic liver disease. The typical clinical course of patient with V. vulnificus infection is 2 to 8 days in duration, following an incubation period of 1 to 7 days. A 12-year review of V. vulnificus infection in Florida associated with eating raw oysters reported 125 patients, 44 of whom (35%) died. Two-thirds of those who died had pre-existing liver disease [64]. Multiple outbreaks of V. vulnificus and V. parahaemolyticus infection have been attributed to the consumption of raw oysters, particularly during warmer months [65]. Therapy for V. vulnificus should include inpatient admission and rapid administration of antibiotics because of the potential for overwhelming sepsis. Current antibiotic recommendations for the treatment of V. vulnificus include a 7- to 14-day course of doxycycline in conjunction with a third-generation cephalosporin, such as ceftazidime, although monotherapy with a fluoroquinolone has also been shown to be effective [66,67]. With proper antibiotic therapy, recovery is usually complete.
+
+ Journal
+ 2008, Emergency Medicine Clinics of North America
+ David C. Pigott MD
+ Chapter
+
+ Approach to Diarrhea in Returned Travelers
+ Laboratory Studies
+ Vibrio are Gram-negative bacilli which can be cultured from stool, tissue, or blood specimens on a variety of selective microbiologic media. They are tolerant of relatively cold temperatures (4°C) and can withstand temperatures of traditional cooking (60–80°C) for 15 min if they are present in high concentrations in seafood.
+
+ Book
+ The Travel and Tropical Medicine Manual (Fourth Edition)
+ 2008, The Travel and Tropical Medicine Manual (Fourth Edition)
+ Jon E. Rosenblatt
+ Chapter
+
+VIBRIO | Introduction, Including , and
+Characteristics of the Genus Vibrio
+The genus Vibrio includes Gram-negative, facultatively anaerobic non-spore-forming bacilli, which are often curved in shape and motile by means of a sheathed polar flagellum. The species, except V. metchnikovii, are oxidase-positive and ferment glucose, some with the production of gas. The growth of most vibrios is stimulated by the presence of sodium and some species have an obligate salt requirement for growth. V. cholerae, the type species of the genus, was first described almost 150 years ago and for many years this was the only species. V. parahaemolyticus was first isolated from food-borne infections in the 1950s and, since then, the number of species assigned to the genus has increased significantly to more than 20. This has resulted from extensive studies of microbial ecology in aquatic environments and the application of molecular techniques in determining the taxonomic position of bacterial isolates.
+
+Reference work
+ Encyclopedia of Food Microbiology
+ 1999, Encyclopedia of Food Microbiology
+ P.M. Desmarchelier
+Chapter
+
+Abstract
+The genus Vibrio belongs to the family Vibrionacea, these microorganisms are curved gram negative anaerobic facultative rods, glucose fermenters and with mobility due to the presence of polar flagellum. Positive oxidase, a reaction that distinguishes it from microorganisms belonging to the Enterobacterales family. They are ubiquitous bacteria that can be found in different aquatic environments. There are more than 100 described species, but approximately only 12 are pathogenic to humans; among these are: Vibrio cholerae, Vibrio parahaemolyticus, Vibrio vulnificus. V. cholerae is the causative agent of cholera, a disease that causes a characteristic diarrhea and without adequate therapeutic support can be fatal. The rest of the species of the genus Vibrio are responsible for the clinical manifestations called vibriosis, most of them cause a mild and self-limited diarrhea, except for the species V. vulnificus, which can be the cause of wound infection and can trigger septicaemia.
+
+Reference work
+Encyclopedia of Infection and Immunity
+2022, Encyclopedia of Infection and Immunity
+Ana Fuentes LópezEsther Serrano-Conde SánchezLaura Viñuela GonzálezCristina Gómez Camarasa
+Review article
+
+Quorum sensing in human pathogens
+The genus Vibrio contains more than 50 species that are found free-living in aquatic habitats such as marine coastal waters, estuaries, sediments, and aquaculture settings as well as in association with marine organisms such as coral, fish, mollusk, seagrass, zooplankton, and shrimp (reviewed in Thompson et al., 2004). Vibrios associate with marine animal tissues as commensal microflora on fish mucosal surfaces, as symbionts in the light organs of fish and squid, and as pathogens causing disease in fish, coral, and crustaceans. Vibrios may also be bound as a biofilm to inanimate surfaces such as exoskeletons of crustaceans aiding survival during starvation and environmental stress. Vibrios play a role in nutrient regeneration in the aquatic milieu by taking up dissolved organic matter, producing essential polyunsaturated fatty acids needed in the aquatic food web, and degrading chitin. Some vibrios have a role in biodegradation of polycyclic aromatic hydrocarbons in polluted marine sediments. Among marine bacteria, vibrios are prolific producers of antimicrobials as well as the most resistant. This interspecies and intraspecies competition suggests an important role for vibrios in structuring and maintaining bacterial communities within marine environments.
+
+Journal
+2006, International Journal of Medical Microbiology
+Debra L. Milton
+Chapter
+
+Cholera and other Vibrioses
+Conclusion
+Vibrios are free-living environmental species. Certain Vibrio species have been associated with human illness, including “epidemic” strains of V. cholerae that cause cholera. Other strains/species causing diarrhea include non-epidemic strains of V. cholerae and V. parahaemolyticus; non-epidemic strains of V. cholerae and V. vulnificus are associated with sepsis in susceptible individuals, including persons who are immunosuppressed or have underlying liver disease. Vibrios grow better in warmer water, with increasing disease incidence of key species associated with rising water temperatures related to global climate change.
+
+Reference work
+2025, International Encyclopedia of Public Health (Third Edition)
+John G. Morris
+Jr
+Chapter
+
+VIBRIO | Introduction, Including , and Other Species
+See also
+Vibrio: Vibrio cholerae; Vibrio: Standard Cultural Methods and Molecular Detection Techniques in Foods; Food Poisoning Outbreaks; Identification Methods: Introduction.
+
+Reference work
+Encyclopedia of Food Microbiology (Second Edition)
+2014, Encyclopedia of Food Microbiology (Second Edition)
+J.L. Jones
+Review article
+
+The role of seafood in bacterialfoodborne diseases
+Due to the production and consumption conditions of seafood in Europe and the activities of the European food-related authorities, there are little bacterial risks in Europe. Seafood investigations of imports into the European Community show contamination with human pathogens, i.e. Salmonella spp. and Vibrio spp. Reducing the number of seafood-related outbreaks worldwide will require continued and coordinated efforts by many different agencies, including those involved with water quality, disease surveillance, consumer education, and seafood harvesting, processing, and marketing. A basic demand is to increase the bacteriological quality of seafood through the general implementation of hazard analysis and critical control point system worldwide for the complete food chain from water to table.
+
+Journal
+2000, Microbes and Infection
+Frerk Feldhusen
+Chapter
+
+Microbiology
+The genus Vibrio belongs to the family Vibrionaceae, is composed of Gram-negative curved rods 0.5–0.8 μm wide and 1.4–2.6 μm long, and mobile. They are part of natural aquatic habitats, preferably warm and saline waters. Most species of this genus are halophilic and need NaCl requirements in culture media for growth, although V. cholerae and Vibrio mimicus can grow in most common culture media without this requirement. They tolerate a wide pH range (6.5–9) well, but are sensitive to acidic pH, which is why people with reduced gastric acid are more susceptible to Vibrio infections.
+
+In its structure we can find the presence of a polar flagellum, responsible for motility, and pili on the surface, which are involved in the virulence of the different species. The cell wall has lipopolysaccharides formed by Lipid A (endotoxin), central polysaccharide and polysaccharide O, the latter is used to classify Vibrio species by serogroups.
+
+There are about 30 species of Vibrio, but only 12 have been recognized as pathogenic to humans, including: V. cholerae, V. parahaemolyticus, V. vulnificus, V. alginolyticus, V. mimicus, V. fluvialis, V. cincinnatiensis, V. hollisae, V. furnissii, V. damsela, V. metshnikovii and V. carchariae (Baker-Austin et al., 2018).
+
+All these pathogenic Vibrios are responsible for foodborne diseases, but the most important ones are considered to be V. cholerae O1 and O139, V. parahaemolyticus and V. vulnificus because of the serious clinical manifestations they can cause (Fig. 1).
+
+Fig. 1
+Sign in to download full-size image
+Fig. 1. Classification pathogenic Vibrios.
+
+Phenotypically these species are oxidase and catalase positive, able to ferment glucose without gas production.
+
+V. parahaemolyticus and V. vulnificus are phenotypically similar, but can be differentiated biochemically because V. vulnificus ferments lactose and β-D-galactosidase sugars unlike V. parahaemolyticus.
+
+In the case of V. cholerae can differentiate more than 200 serogroups, which includes pathogenic and nonpathogenic species, so V. cholerae O1 and V. cholerae O139 are cable of synthesizing the cholera toxin and be responsible for the clinical manifestation called cholera, these serogroups are differentiated by the presence or absence of methylated O antigen. The remaining species are referred to as V. cholerae non-O1, non-O139. V. cholerae O1 is further subdivided into serotypes and biotypes. The biotypes are called Classical and El Tor, which differ in phenotypic traits, such as biochemical tests and different susceptibility to bacteriophages. Both can be serotypes Inaba, Ogawa and Hikojima, which express different antigens, the latter being a transitional state that expresses antigens of the previous two (Fig. 2). The Inaba and Ogawa serotypes differ in the absence or presence, respectively, of a methyl group on the terminal sugar of the O antigen (Harris et al., 2012).
+
+Fig. 2
+Sign in to download full-size image
+Fig. 2. Classification V. cholerae O1.
+
+V. cholerae O139, arose after the acquisition of a genomic island containing the rfb region, which includes the genes required for the synthesis of the O139 antigen.
+
+The prevalence of one serotype or another has changed over time and they have been responsible for the different pandemics, such that classical V. cholerae O1 is attributed to the fifth and sixth pandemics (and possibly the previous ones) and the seventh to the El Tor biotype (Lekshmi et al., 2018).
+
+These bacteria have in their genomic structure two circular chromosomes, formed by genetic recombination and horizontal gene transfer, we can also find the presence of plasmids responsible for antimicrobial resistance.
+
+For V. cholerae, on circular chromosome 1, we find most genes responsible for DNA replication, translation and transcription, while on chromosome 2, we find genes responsible for pathogenicity, such as those encoding choleric toxin, toxin co-regulated pilus and chemotactic agents (Baker-Austin et al., 2018).
+
+V. parahaemolyticus is also differentiated into different serogroups based on somatic O antigen and capsular K antigen, recognizing a total of 76 serotypes (González-Escalona et al., 2008).
