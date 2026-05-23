@@ -1,8 +1,10 @@
 import random
 import requests
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-
-BREVO_API_KEY = "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"
+BREVO_API_KEY = os.environ.get("BREVO_API_KEY")
 FROM_EMAIL = "kenzykhaled660@gmail.com"
 FROM_NAME = "Hydroscope"
 
