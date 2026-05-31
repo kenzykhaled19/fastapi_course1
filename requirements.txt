@@ -20,3 +20,4 @@ resend
 nltk
 groq
 gensim
+sentence-transformers

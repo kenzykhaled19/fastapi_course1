@@ -16,6 +16,7 @@ import uuid
 import tempfile
 import time
 from fastapi import BackgroundTasks
+from chatbot import get_answer, reset_conversation, train_word2vec, build_search_index, search
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -23,11 +24,12 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 import sys
 DOCS_FOLDER = os.path.join(BASE_DIR, "documents_original", "documents")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-
-from search import search as member3_search
-from chatbot import get_answer, reset_conversation, train_word2vec
-
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+
+print("Building search index...")
+build_search_index(DOCS_FOLDER)
+from chatbot import doc_index
+print(f"DEBUG: doc_index has {len(doc_index)} chunks")
 
 # Load document contents
 doc_contents = {}
@@ -39,14 +41,7 @@ for fname in os.listdir(DOCS_FOLDER):
 
 # Adapter function
 def chatbot_search(query):
-    raw_results = member3_search(query, top_k=5)
-    converted = []
-    for result in raw_results:
-        filename = result["filename"]
-        content = doc_contents.get(filename, "")
-        if content:
-            converted.append((filename, content, result["score"]))
-    return converted
+    return search(query, top_k=5)
 
 # Train Word2Vec once
 print("Training Word2Vec...")
