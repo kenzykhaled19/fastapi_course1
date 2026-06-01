@@ -1,6 +1,6 @@
 from database import engine, get_db
 from email_service import generate_otp, send_otp_email
-from models import Base, User
+from models import Base, User, Bacteria, WaterTreatment, Contraindication, Antibiotic, TreatmentPipeline
 from schemas import UserCreate, UserResponse, Token, LoginRequest
 from crud import get_user_by_username, get_user_by_email, create_user
 from auth import hash_password, verify_password, create_access_token, verify_token, create_refresh_token, verify_refresh_token
@@ -276,3 +276,36 @@ async def chat(request: ChatRequest, current_user: str = Depends(verify_token)):
 async def chat_reset(current_user: str = Depends(verify_token)):
     reset_conversation()
     return {"status": "ok"}
+
+
+# ── Treatment Endpoints ──
+
+@app.get("/api/bacteria", tags=["Treatment"])
+def get_all_bacteria(db: Session = Depends(get_db), current_user: str = Depends(verify_token)):
+    return db.query(Bacteria).all()
+
+
+@app.get("/api/bacteria/{bacteria_id}/full", tags=["Treatment"])
+def get_bacteria_full(bacteria_id: int, db: Session = Depends(get_db), current_user: str = Depends(verify_token)):
+    bacteria = db.query(Bacteria).filter(Bacteria.id == bacteria_id).first()
+    if not bacteria:
+        raise HTTPException(status_code=404, detail="Bacteria not found")
+
+    treatments = db.query(WaterTreatment).filter(
+        WaterTreatment.bacteria_id == bacteria_id
+    ).order_by(WaterTreatment.priority).all()
+
+    antibiotics = db.query(Antibiotic).filter(
+        Antibiotic.bacteria_id == bacteria_id
+    ).all()
+
+    pipeline = db.query(TreatmentPipeline).filter(
+        TreatmentPipeline.bacteria_id == bacteria_id
+    ).order_by(TreatmentPipeline.stage_order).all()
+
+    return {
+        "bacteria": bacteria,
+        "treatments": treatments,
+        "antibiotics": antibiotics,
+        "pipeline": pipeline
+    }
