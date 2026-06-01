@@ -21,3 +21,4 @@ groq
 gensim
 sentence-transformers==2.7.0
 transformers==4.40.0
+cloudinary==1.36.0
