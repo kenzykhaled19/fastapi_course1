@@ -1,6 +1,6 @@
 from database import engine, get_db
 from email_service import generate_otp, send_otp_email
-from models import Base, User, Bacteria, WaterTreatment, Contraindication, Antibiotic, TreatmentPipeline
+from models import Base, User, Bacteria, WaterTreatment, Contraindication, Antibiotic, TreatmentPipeline, AnalysisSession
 from schemas import UserCreate, UserResponse, Token, LoginRequest
 from crud import get_user_by_username, get_user_by_email, create_user
 from auth import hash_password, verify_password, create_access_token, verify_token, create_refresh_token, verify_refresh_token
@@ -309,3 +309,77 @@ def get_bacteria_full(bacteria_id: int, db: Session = Depends(get_db), current_u
         "antibiotics": antibiotics,
         "pipeline": pipeline
     }
+
+# ── History Endpoints ──
+
+import cloudinary
+import cloudinary.uploader
+
+cloudinary.config(
+    cloud_name  = os.getenv("CLOUDINARY_CLOUD_NAME"),
+    api_key     = os.getenv("CLOUDINARY_API_KEY"),
+    api_secret  = os.getenv("CLOUDINARY_API_SECRET")
+)
+
+class SessionCreate(PydanticBase):
+    gram_result:         str
+    gram_confidence:     str
+    final_bacteria_name: str
+    final_bacteria_id:   int | None = None
+    biochemical_tags:    str
+    overridden:          bool = False
+    sample_image_url:    str
+    svg_content:         str
+
+@app.post("/api/sessions", tags=["History"])
+async def create_session(
+    payload: SessionCreate,
+    db: Session = Depends(get_db),
+    current_user: str = Depends(verify_token)
+):
+    user = get_user_by_username(db, current_user)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    # Upload SVG to Cloudinary
+    svg_bytes = payload.svg_content.encode("utf-8")
+    upload_result = cloudinary.uploader.upload(
+        svg_bytes,
+        resource_type = "raw",
+        format        = "svg",
+        folder        = "hydroscope/paths"
+    )
+    path_image_url = upload_result["secure_url"]
+
+    session = AnalysisSession(
+        user_id             = user.id,
+        gram_result         = payload.gram_result,
+        gram_confidence     = payload.gram_confidence,
+        final_bacteria_name = payload.final_bacteria_name,
+        final_bacteria_id   = payload.final_bacteria_id,
+        sample_image_url    = payload.sample_image_url,
+        path_image_url      = path_image_url,
+        biochemical_tags    = payload.biochemical_tags,
+        overridden          = payload.overridden,
+        status              = "completed"
+    )
+    db.add(session)
+    db.commit()
+    db.refresh(session)
+    return session
+
+
+@app.get("/api/history", tags=["History"])
+def get_user_history(
+    db: Session = Depends(get_db),
+    current_user: str = Depends(verify_token)
+):
+    user = get_user_by_username(db, current_user)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    sessions = db.query(AnalysisSession).filter(
+        AnalysisSession.user_id == user.id
+    ).order_by(AnalysisSession.created_at.desc()).all()
+
+    return sessions
