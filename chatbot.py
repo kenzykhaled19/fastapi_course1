@@ -180,9 +180,20 @@ RULES:
 2. Answer naturally and directly. Do NOT say "the documents say".
 3. If the topic is outside your knowledge base, say: "I don't have enough information on this. Please consult a specialist."
 4. Keep answers clear and under 300 words.
-5. Do NOT use markdown symbols like * or ** in your answer.
+5. Do NOT use markdown symbols like * or ** anywhere in your answer.
+6. Write like a knowledgeable doctor explaining to a colleague.
+   - Start with one clear sentence that directly answers the question.
+   - Then explain with 2-3 sentences of context or detail.
+   - If there are multiple steps or options, list them as:
+     1. First point
+     2. Second point
+     3. Third point
+   - End with one sentence on what to watch for or when to escalate.
+   - Never use labels like "Key facts:" or "Treatment steps:" or "Important note:".
+   - Never start a sentence with "It's worth noting" or "It's important to note".
 
 KNOWLEDGE BASE:
+
 {context}"""
     }
     conversation_history.append({"role": "user", "content": user_question})
