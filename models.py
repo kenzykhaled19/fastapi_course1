@@ -60,3 +60,20 @@ class TreatmentPipeline(Base):
     parameters         = Column(String)
     kill_rate_percent  = Column(Integer)
     treatment_category = Column(String)
+
+
+class AnalysisSession(Base):
+    __tablename__ = "analysis_sessions"
+
+    id                  = Column(Integer, primary_key=True, index=True)
+    user_id             = Column(Integer, ForeignKey("users.id"))
+    created_at          = Column(DateTime, default=func.now())
+    gram_result         = Column(String)
+    gram_confidence     = Column(String)
+    final_bacteria_name = Column(String)
+    final_bacteria_id   = Column(Integer, ForeignKey("bacteria.id"), nullable=True)
+    sample_image_url    = Column(String)
+    path_image_url      = Column(String)
+    biochemical_tags    = Column(String)
+    overridden          = Column(Boolean, default=False)
+    status              = Column(String, default="completed")
