@@ -371,6 +371,8 @@ async def create_session(
 
 @app.get("/api/history", tags=["History"])
 def get_user_history(
+    page: int = 1,
+    limit: int = 8,
     db: Session = Depends(get_db),
     current_user: str = Depends(verify_token)
 ):
@@ -378,8 +380,18 @@ def get_user_history(
     if not user:
         raise HTTPException(status_code=404, detail="User not found")
 
+    total = db.query(AnalysisSession).filter(
+        AnalysisSession.user_id == user.id
+    ).count()
+
     sessions = db.query(AnalysisSession).filter(
         AnalysisSession.user_id == user.id
-    ).order_by(AnalysisSession.created_at.desc()).all()
+    ).order_by(AnalysisSession.created_at.desc()).offset((page - 1) * limit).limit(limit).all()
 
-    return sessions
+    return {
+        "total": total,
+        "page": page,
+        "limit": limit,
+        "total_pages": -(-total // limit),
+        "sessions": sessions
+    }
