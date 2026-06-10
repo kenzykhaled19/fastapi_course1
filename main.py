@@ -402,21 +402,21 @@ def get_user_history(
         "total_pages": -(-total // limit),
         "sessions": sessions
     }
-    @app.get("/api/sessions/{session_id}", tags=["History"])
-    def get_session(
-        session_id: int,
-        db: Session = Depends(get_db),
-        current_user: str = Depends(verify_token)
-    ):
-        user = get_user_by_username(db, current_user)
-        session = db.query(AnalysisSession).filter(
-            AnalysisSession.id == session_id,
-            AnalysisSession.user_id == user.id
-        ).first()
-        if not session:
-            raise HTTPException(status_code=404, detail="Session not found")
-        return session
 
+@app.get("/api/sessions/{session_id}", tags=["History"])
+def get_session(
+    session_id: int,
+    db: Session = Depends(get_db),
+    current_user: str = Depends(verify_token)
+):
+    user = get_user_by_username(db, current_user)
+    session = db.query(AnalysisSession).filter(
+        AnalysisSession.id == session_id,
+        AnalysisSession.user_id == user.id
+    ).first()
+    if not session:
+        raise HTTPException(status_code=404, detail="Session not found")
+    return session
     
 
 
