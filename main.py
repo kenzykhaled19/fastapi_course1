@@ -403,6 +403,7 @@ def get_user_history(
         "sessions": sessions
     }
 
+
 @app.get("/api/sessions/{session_id}", tags=["History"])
 def get_session(
     session_id: int,
