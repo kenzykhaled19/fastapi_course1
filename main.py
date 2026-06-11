@@ -1,6 +1,6 @@
 from database import engine, get_db
 from email_service import generate_otp, send_otp_email
-from models import Base, User, Bacteria, WaterTreatment, Contraindication, Antibiotic, TreatmentPipeline, AnalysisSession
+from models import Base, User, Bacteria, WaterTreatment, Contraindication, Antibiotic, TreatmentPipeline, AnalysisSession, ChatMessage
 from schemas import UserCreate, UserResponse, Token, LoginRequest
 from crud import get_user_by_username, get_user_by_email, create_user
 from auth import hash_password, verify_password, create_access_token, verify_token, create_refresh_token, verify_refresh_token
@@ -16,7 +16,7 @@ import uuid
 import tempfile
 import time
 from fastapi import BackgroundTasks
-from chatbot import get_answer, reset_conversation, train_word2vec, build_search_index, search
+from chatbot import get_answer, reset_conversation, train_word2vec, build_search_index, search, load_conversation_history
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -266,7 +266,20 @@ class ChatResponse(PydanticBase):
     sources: list
 
 @app.post("/chat", tags=["Chatbot"])
-async def chat(request: ChatRequest, current_user: str = Depends(verify_token)):
+async def chat(request: ChatRequest, db: Session = Depends(get_db), current_user: str = Depends(verify_token)):
+    user = get_user_by_username(db, current_user)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    # Load last 10 messages from DB into chatbot memory
+    history_rows = db.query(ChatMessage).filter(
+        ChatMessage.user_id == user.id
+    ).order_by(ChatMessage.created_at.desc()).limit(10).all()
+
+    history_rows = list(reversed(history_rows))  # oldest → newest
+    history_messages = [{"role": m.role, "content": m.content} for m in history_rows]
+    load_conversation_history(history_messages)
+
     result = get_answer(
         user_question   = request.question,
         search_function = chatbot_search,
@@ -274,9 +287,16 @@ async def chat(request: ChatRequest, current_user: str = Depends(verify_token)):
         groq_api_key    = GROQ_API_KEY,
         w2v_model       = w2v_model
     )
+
+    # Save user question and assistant answer to DB
+    db.add(ChatMessage(user_id=user.id, role="user", content=request.question))
+    db.add(ChatMessage(user_id=user.id, role="assistant", content=result["answer"]))
+    db.commit()
+
     return {
-        "answer":  result["answer"],
-        "sources": result["top_documents"]
+        "answer":     result["answer"],
+        "sources":    result["top_documents"],
+        "confidence": result["confidence"]
     }
 
 @app.post("/chat/reset", tags=["Chatbot"])
@@ -284,6 +304,22 @@ async def chat_reset(current_user: str = Depends(verify_token)):
     reset_conversation()
     return {"status": "ok"}
 
+@app.get("/chat/history", tags=["Chatbot"])
+async def get_chat_history(db: Session = Depends(get_db), current_user: str = Depends(verify_token)):
+    user = get_user_by_username(db, current_user)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    messages = db.query(ChatMessage).filter(
+        ChatMessage.user_id == user.id
+    ).order_by(ChatMessage.created_at.asc()).all()
+
+    return {
+        "messages": [
+            {"role": m.role, "content": m.content, "created_at": m.created_at}
+            for m in messages
+        ]
+    }
 
 # ── Treatment Endpoints ──
 

@@ -77,3 +77,12 @@ class AnalysisSession(Base):
     biochemical_tags    = Column(String)
     overridden          = Column(Boolean, default=False)
     status              = Column(String, default="completed")
+
+class ChatMessage(Base):
+    __tablename__ = "chat_messages"
+
+    id         = Column(Integer, primary_key=True, index=True)
+    user_id    = Column(Integer, index=True)
+    role       = Column(String)      # "user" or "assistant"
+    content    = Column(String)
+    created_at = Column(DateTime, server_default=func.now())    

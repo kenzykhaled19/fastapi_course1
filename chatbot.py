@@ -214,6 +214,14 @@ def reset_conversation():
     global conversation_history
     conversation_history = []
 
+def load_conversation_history(messages):
+    """
+    Restores a previous conversation from the database.
+    messages format: [{"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]
+    """
+    global conversation_history
+    conversation_history = messages[-10:]    
+
 # ── Main ──
 BACTERIA_LIST = [
     'e coli','ecoli','salmonella','cholera','vibrio','pseudomonas',
