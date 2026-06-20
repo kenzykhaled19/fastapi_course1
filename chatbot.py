@@ -222,6 +222,31 @@ def load_conversation_history(messages):
     global conversation_history
     conversation_history = messages[-10:]    
 
+def generate_chat_title_smart(first_question, api_key):
+    """
+    Asks Groq to write a short, natural title for the first question
+    in a conversation, similar to how ChatGPT auto-names chats.
+    """
+    client = Groq(api_key=api_key)
+
+    prompt = f"""Create a short chat title (3-5 words, no punctuation) summarizing this question.
+Only output the title, nothing else.
+
+Question: {first_question}
+
+Title:"""
+
+    response = client.chat.completions.create(
+        model       = "llama-3.1-8b-instant",
+        messages    = [{"role": "user", "content": prompt}],
+        temperature = 0.3,
+        max_tokens  = 20
+    )
+
+    title = response.choices[0].message.content.strip()
+    title = title.strip('"').strip("'")
+    return title
+
 # ── Main ──
 BACTERIA_LIST = [
     'e coli','ecoli','salmonella','cholera','vibrio','pseudomonas',
