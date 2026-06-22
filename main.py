@@ -549,4 +549,3 @@ def delete_session(
     db.commit()
     return {"message": "Session deleted successfully"}
 
-final_bacteria_id   = payload.final_bacteria_id,
