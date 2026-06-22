@@ -75,6 +75,17 @@ app = FastAPI(
     version="1.0.0",
     lifespan=lifespan
 )
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+
+class CORSCredentialsMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        response = await call_next(request)
+        response.headers["Access-Control-Allow-Credentials"] = "true"
+        response.headers["Access-Control-Allow-Origin"] = "https://hydroscope.vercel.app"
+        return response
+
+app.add_middleware(CORSCredentialsMiddleware)
 
 # CORS — allow frontend to call the API from any origin
 app.add_middleware(
