@@ -74,7 +74,22 @@ app = FastAPI(
     description="AI-powered Gram stain classification using EfficientNet-B0 (98% accuracy)",
     version="1.0.0",
     lifespan=lifespan
-)
+) 
+from fastapi import Response
+from fastapi.responses import JSONResponse
+
+@app.options("/{rest_of_path:path}")
+async def preflight_handler(rest_of_path: str):
+    return JSONResponse(
+        content={},
+        headers={
+            "Access-Control-Allow-Origin": "https://hydroscope.vercel.app",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+            "Access-Control-Allow-Headers": "*",
+            "Access-Control-Allow-Credentials": "true",
+        }
+    )  
+
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.requests import Request
 
