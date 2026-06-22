@@ -79,8 +79,8 @@ app = FastAPI(
 # CORS — allow frontend to call the API from any origin
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=False, 
+    allow_origins=["https://hydroscope.vercel.app"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
