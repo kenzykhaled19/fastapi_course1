@@ -79,8 +79,8 @@ app = FastAPI(
 # CORS — allow frontend to call the API from any origin
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=False,
+    allow_origins=["https://hydroscope.vercel.app"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -474,7 +474,7 @@ async def create_session(
         gram_result         = payload.gram_result,
         gram_confidence     = payload.gram_confidence,
         final_bacteria_name = payload.final_bacteria_name,
-        final_bacteria_id   = payload.final_bacteria_id,
+        final_bacteria_id   = payload.final_bacteria_id if payload.final_bacteria_id else None,
         sample_image_url    = payload.sample_image_url,
         path_image_url      = path_image_url,
         biochemical_tags    = payload.biochemical_tags,
@@ -549,3 +549,4 @@ def delete_session(
     db.commit()
     return {"message": "Session deleted successfully"}
 
+final_bacteria_id   = payload.final_bacteria_id,
